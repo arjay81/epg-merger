@@ -12,7 +12,9 @@ EPG_URLS = [
     'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20250517&channel_id=405132',
     'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20250517&channel_id=369842',
     'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20250517&channel_id=403813',
-    'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20250517&channel_id=404871'
+    'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20250517&channel_id=404871',
+    'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20250518&channel_id=429570',
+    'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20250518&channel_id=403541'
 ]
 OUTPUT_FILE = 'merged_guide.xml'
 
