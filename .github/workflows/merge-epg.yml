@@ -1,0 +1,37 @@
+name: Merge and Update EPG
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily at 00:00 UTC
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  merge-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run merge script
+        run: python merge_epg.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'EPG Bot'
+          git config --global user.email 'epg-bot@example.com'
+          git add merged_guide.xml
+          git commit -m "Update merged_guide.xml $(date -u +'%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
