@@ -5,7 +5,6 @@ import sys
 
 # Configuration
 EPG_URLS = [
-    'https://epg.pw/xmltv/epg_PH.xml',
     'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20250517&channel_id=405058',
     'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20250517&channel_id=412143',
     'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20250517&channel_id=404926',
@@ -14,7 +13,19 @@ EPG_URLS = [
     'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20250517&channel_id=403813',
     'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20250517&channel_id=404871',
     'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20250518&channel_id=429570',
-    'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20250518&channel_id=403541'
+    'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20250518&channel_id=403541',
+    'https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9Ub3JvbnRv&date=20250526&channel_id=7870',
+    'https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9Ub3JvbnRv&date=20250526&channel_id=70615',
+    'https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9Ub3JvbnRv&date=20250526&channel_id=322467',
+    'https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9Ub3JvbnRv&date=20250526&channel_id=7864',
+    'https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9Ub3JvbnRv&date=20250526&channel_id=322511',
+    'https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9Ub3JvbnRv&date=20250526&channel_id=322493',
+    'https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9Ub3JvbnRv&date=20250526&channel_id=408276',
+    'https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9Ub3JvbnRv&date=20250526&channel_id=429756',
+    'https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9Ub3JvbnRv&date=20250526&channel_id=429763',
+    'https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9Ub3JvbnRv&date=20250526&channel_id=322511',
+    'https://epg.pw/api/epg.xml?lang=en&timezone=QW1lcmljYS9Ub3JvbnRv&date=20250526&channel_id=322466'
+    
 ]
 OUTPUT_FILE = 'merged_guide.xml'
 
