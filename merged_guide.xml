@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="EPG Merger"><channel id="412143">
+<tv generator-info-name="EPG Merger"><channel id="405058">
+    <display-name lang="Canada">TFC - The Filipino Channel</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="412143">
     <display-name lang="Singapore">The Filipino Channel HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042522957850_92.png" />
   </channel>
@@ -71,7 +75,267 @@
     <display-name lang="Philippines">Viva</display-name>
     <icon src="" />
   </channel>
-  <programme channel="412143" start="20250527104500 -0400" stop="20250527124500 -0400">
+  <programme channel="405058" start="20250527000000 -0400" stop="20250527020000 -0400">
+    <title lang="zh">I Think I'm in Love</title>
+    <desc>Jonas, a rich playboy, often buys perfumes from Kaye, a beautiful sales lady, for the girls he is dating. One day he is left beaten and bruised when his girlfriend's find out of his two timing ways. After the incident he is challenged by Andrew to change his ways by establishing a genuine friendship with any girl for three months.</desc>
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527020000 -0400" stop="20250527024000 -0400">
+    <title lang="zh">Ang Sa Iyo Ay Akin</title>
+    <desc />
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527024000 -0400" stop="20250527032000 -0400">
+    <title lang="zh">Huwag Kang Mangamba</title>
+    <desc />
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527032000 -0400" stop="20250527040000 -0400">
+    <title lang="zh">Can't Buy Me Love</title>
+    <desc>The third daughter, Princess Chiu Yeung, of the Tang Emperor, is known throughout the kingdom for her beauty, but she is also known for her unreasonable and stubborn personality. For this reason, no one wants to marry her - that is, until the second son of the formerly wealthy Kam family, Kam Dor Luk, is persuaded to marry her to save the family business.</desc>
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527040000 -0400" stop="20250527053000 -0400">
+    <title lang="zh">Gising Pilipinas!</title>
+    <desc>News bulletin featuring the latest news and developments.</desc>
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527053000 -0400" stop="20250527063000 -0400">
+    <title lang="zh">Kabayan</title>
+    <desc>News bulletin featuring the latest news and developments.</desc>
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527063000 -0400" stop="20250527080000 -0400">
+    <title lang="zh">Tv Patrol Live</title>
+    <desc>Catch up on the latest news and stories from around the world with this live broadcast. Stay informed with reports on current events, weather, sports, and more.</desc>
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527080000 -0400" stop="20250527083000 -0400">
+    <title lang="zh">Kapamilya Daily Mass</title>
+    <desc />
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527083000 -0400" stop="20250527090500 -0400">
+    <title lang="zh">Tfc Kids' Zone</title>
+    <desc>Youngsters dive into a world of fun and adventure with exciting games, creative activities, and educational segments that spark curiosity and imagination.</desc>
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527090500 -0400" stop="20250527094500 -0400">
+    <title lang="zh">Huwag Kang Mangamba</title>
+    <desc />
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527094500 -0400" stop="20250527102000 -0400">
+    <title lang="zh">Ang Sa Iyo Ay Akin</title>
+    <desc />
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527102000 -0400" stop="20250527110000 -0400">
+    <title lang="zh">Can't Buy Me Love</title>
+    <desc>The third daughter, Princess Chiu Yeung, of the Tang Emperor, is known throughout the kingdom for her beauty, but she is also known for her unreasonable and stubborn personality. For this reason, no one wants to marry her - that is, until the second son of the formerly wealthy Kam family, Kam Dor Luk, is persuaded to marry her to save the family business.</desc>
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527110000 -0400" stop="20250527120000 -0400">
+    <title lang="zh">Magandang Buhay</title>
+    <desc>A talk show.</desc>
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527120000 -0400" stop="20250527142000 -0400">
+    <title lang="zh">It's Showtime</title>
+    <desc>A variety show in which participants showcase their talent.</desc>
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527142000 -0400" stop="20250527150500 -0400">
+    <title lang="zh">Fpj's Batang Quiapo</title>
+    <desc>A young man rises to be one of the biggest outlaws in the neighborhood while he navigates his way in life to survive in Quiapo. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.</desc>
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527150500 -0400" stop="20250527154500 -0400">
+    <title lang="zh">Incognito</title>
+    <desc>In search of redemption, a crew of misfits joins a private military company on a series of deadly missions against the criminal underworld.</desc>
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527154500 -0400" stop="20250527162500 -0400">
+    <title lang="zh">Saving Grace</title>
+    <desc>A hard-living, self-destructive Oklahoma City detective experiences a gradual spiritual awakening upon encountering an enigmatic, tobacco-spitting angel named Earl in this gritty crime series.</desc>
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527162500 -0400" stop="20250527164500 -0400">
+    <title lang="zh">TV Patrol Express</title>
+    <desc>Get the latest news and updates on current events in a quick, concise format. Stay informed with breaking stories, weather updates, and important headlines.</desc>
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527164500 -0400" stop="20250527173000 -0400">
+    <title lang="zh">Goin' Bulilit</title>
+    <desc>A sketch comedy show that features various gags and children in various comic situations.</desc>
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527173000 -0400" stop="20250527180000 -0400">
+    <title lang="zh">Brgy</title>
+    <desc />
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527180000 -0400" stop="20250527194000 -0400">
+    <title lang="zh">Tv Patrol Global Edition</title>
+    <desc>ABS-CBN's flagship newscast and the country's leading news program in the past two decades, anchored by the most celebrated news team ever assembled in the history of Philippine broadcasting.</desc>
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527194000 -0400" stop="20250527202000 -0400">
+    <title lang="zh">Fpj's Batang Quiapo</title>
+    <desc>A young man rises to be one of the biggest outlaws in the neighborhood while he navigates his way in life to survive in Quiapo. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.</desc>
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527202000 -0400" stop="20250527210000 -0400">
+    <title lang="zh">Incognito</title>
+    <desc>In search of redemption, a crew of misfits joins a private military company on a series of deadly missions against the criminal underworld.</desc>
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527210000 -0400" stop="20250527214000 -0400">
+    <title lang="zh">Saving Grace</title>
+    <desc>A hard-living, self-destructive Oklahoma City detective experiences a gradual spiritual awakening upon encountering an enigmatic, tobacco-spitting angel named Earl in this gritty crime series.</desc>
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527214000 -0400" stop="20250527234000 -0400">
+    <title lang="zh">It's Showtime</title>
+    <desc>A variety show in which participants showcase their talent.</desc>
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250527234000 -0400" stop="20250528000000 -0400">
+    <title lang="zh">Brgy</title>
+    <desc />
+    <date>2025-05-27</date>
+  </programme>
+  <programme channel="405058" start="20250528000000 -0400" stop="20250528020000 -0400">
+    <title lang="zh">Wansapanataym</title>
+    <desc>The story revolves around Ana, an orphaned girl, in search of her long-lost father with her guardian angel's help.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528020000 -0400" stop="20250528024000 -0400">
+    <title lang="zh">Ang Sa Iyo Ay Akin</title>
+    <desc />
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528024000 -0400" stop="20250528032000 -0400">
+    <title lang="zh">Huwag Kang Mangamba</title>
+    <desc />
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528032000 -0400" stop="20250528040000 -0400">
+    <title lang="zh">Can't Buy Me Love</title>
+    <desc>The third daughter, Princess Chiu Yeung, of the Tang Emperor, is known throughout the kingdom for her beauty, but she is also known for her unreasonable and stubborn personality. For this reason, no one wants to marry her - that is, until the second son of the formerly wealthy Kam family, Kam Dor Luk, is persuaded to marry her to save the family business.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528040000 -0400" stop="20250528053000 -0400">
+    <title lang="zh">Gising Pilipinas!</title>
+    <desc>News bulletin featuring the latest news and developments.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528053000 -0400" stop="20250528063000 -0400">
+    <title lang="zh">Kabayan</title>
+    <desc>News bulletin featuring the latest news and developments.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528063000 -0400" stop="20250528080000 -0400">
+    <title lang="zh">Tv Patrol Live</title>
+    <desc>Catch up on the latest news and stories from around the world with this live broadcast. Stay informed with reports on current events, weather, sports, and more.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528080000 -0400" stop="20250528083000 -0400">
+    <title lang="zh">Kapamilya Daily Mass</title>
+    <desc />
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528083000 -0400" stop="20250528090500 -0400">
+    <title lang="zh">Tfc Kids' Zone</title>
+    <desc>Youngsters dive into a world of fun and adventure with exciting games, creative activities, and educational segments that spark curiosity and imagination.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528090500 -0400" stop="20250528094500 -0400">
+    <title lang="zh">Huwag Kang Mangamba</title>
+    <desc />
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528094500 -0400" stop="20250528102000 -0400">
+    <title lang="zh">Ang Sa Iyo Ay Akin</title>
+    <desc />
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528102000 -0400" stop="20250528110000 -0400">
+    <title lang="zh">Can't Buy Me Love</title>
+    <desc>The third daughter, Princess Chiu Yeung, of the Tang Emperor, is known throughout the kingdom for her beauty, but she is also known for her unreasonable and stubborn personality. For this reason, no one wants to marry her - that is, until the second son of the formerly wealthy Kam family, Kam Dor Luk, is persuaded to marry her to save the family business.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528110000 -0400" stop="20250528120000 -0400">
+    <title lang="zh">Magandang Buhay</title>
+    <desc>A talk show.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528120000 -0400" stop="20250528142000 -0400">
+    <title lang="zh">It's Showtime</title>
+    <desc>A variety show in which participants showcase their talent.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528142000 -0400" stop="20250528150500 -0400">
+    <title lang="zh">Fpj's Batang Quiapo</title>
+    <desc>A young man rises to be one of the biggest outlaws in the neighborhood while he navigates his way in life to survive in Quiapo. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528150500 -0400" stop="20250528154500 -0400">
+    <title lang="zh">Incognito</title>
+    <desc>In search of redemption, a crew of misfits joins a private military company on a series of deadly missions against the criminal underworld.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528154500 -0400" stop="20250528162500 -0400">
+    <title lang="zh">Saving Grace</title>
+    <desc>A hard-living, self-destructive Oklahoma City detective experiences a gradual spiritual awakening upon encountering an enigmatic, tobacco-spitting angel named Earl in this gritty crime series.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528162500 -0400" stop="20250528164500 -0400">
+    <title lang="zh">TV Patrol Express</title>
+    <desc>Get the latest news and updates on current events in a quick, concise format. Stay informed with breaking stories, weather updates, and important headlines.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528164500 -0400" stop="20250528173000 -0400">
+    <title lang="zh">Goin' Bulilit</title>
+    <desc>A sketch comedy show that features various gags and children in various comic situations.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528173000 -0400" stop="20250528180000 -0400">
+    <title lang="zh">Brgy</title>
+    <desc />
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528180000 -0400" stop="20250528194000 -0400">
+    <title lang="zh">Tv Patrol Global Edition</title>
+    <desc>ABS-CBN's flagship newscast and the country's leading news program in the past two decades, anchored by the most celebrated news team ever assembled in the history of Philippine broadcasting.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528194000 -0400" stop="20250528202000 -0400">
+    <title lang="zh">Fpj's Batang Quiapo</title>
+    <desc>A young man rises to be one of the biggest outlaws in the neighborhood while he navigates his way in life to survive in Quiapo. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528202000 -0400" stop="20250528210000 -0400">
+    <title lang="zh">Incognito</title>
+    <desc>In search of redemption, a crew of misfits joins a private military company on a series of deadly missions against the criminal underworld.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528210000 -0400" stop="20250528214000 -0400">
+    <title lang="zh">Saving Grace</title>
+    <desc>A hard-living, self-destructive Oklahoma City detective experiences a gradual spiritual awakening upon encountering an enigmatic, tobacco-spitting angel named Earl in this gritty crime series.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528214000 -0400" stop="20250528234000 -0400">
+    <title lang="zh">It's Showtime</title>
+    <desc>A variety show in which participants showcase their talent.</desc>
+    <date>2025-05-28</date>
+  </programme>
+  <programme channel="405058" start="20250528234000 -0400" stop="20250529000000 -0400">
+    <title lang="zh">Brgy</title>
+    <desc />
+    <date>2025-05-28</date>
+  </programme>
+<programme channel="412143" start="20250527104500 -0400" stop="20250527124500 -0400">
     <title lang="zh">It's Showtime</title>
     <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
     <date>2025-05-27</date>
