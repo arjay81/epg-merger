@@ -1,0 +1,26 @@
+name: EPG Merger Job
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'   # runs every 4 hours (UTC)
+  workflow_dispatch:        # allows manual run via GitHub interface
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Run the EPG merging script
+        run: python merge_epg.py
