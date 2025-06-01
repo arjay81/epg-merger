@@ -67,11 +67,11 @@
     <display-name lang="Philippines">CINEMO!</display-name>
     <icon src="" />
   </channel>
-  <channel id="429763">
+<channel id="429763">
     <display-name lang="Philippines">KAPAMILYA CHANNEL HD</display-name>
     <icon src="" />
   </channel>
-  <channel id="322466">
+<channel id="322466">
     <display-name lang="Philippines">Viva</display-name>
     <icon src="" />
   </channel>
@@ -1655,132 +1655,7 @@
     <desc>Maine Mendoza goes on adventures all over the Philippines and experiences local cultures as she ticks off goals from her bucket list.</desc>
     <date>2025-06-03</date>
   </programme>
-<programme channel="403541" start="20250601000000 -0400" stop="20250601010000 -0400">
-    <title lang="zh">Banana Sundae</title>
-    <desc>A comedy series featuring gags, skits and parodies.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601010000 -0400" stop="20250601020000 -0400">
-    <title lang="zh">Darna</title>
-    <desc>Darna is a Philippine drama/fantasy series adapted from Mars Ravelo's fictional superheroine of the same name; directed by Dominic Zapata and Don Michael Perez and developed by Jun Lana. It is the third series based on the Darna graphic novels by Mars Ravelo. It stars Marian Rivera as the title role and her alter-ego Narda, with Iwa Moto as her main nemesis Valentina, also starring Dennis Trillo a</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601020000 -0400" stop="20250601033000 -0400">
-    <title lang="zh">Love in 40 Days</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601033000 -0400" stop="20250601040000 -0400">
-    <title lang="zh">Star Ka!</title>
-    <desc>A young girl discovers she has magical powers and embarks on an epic adventure to save her world from dark forces. She faces challenges and makes new friends along the way.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601040000 -0400" stop="20250601043000 -0400">
-    <title lang="zh">Pamilya Talk With Tita Jing</title>
-    <desc>Tita Jing discusses fashion, career tips, and managing money. She shares insights and advice on various topics to help viewers improve their daily lives.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601043000 -0400" stop="20250601053000 -0400">
-    <title lang="zh">The Healing Eucharist</title>
-    <desc>Religious Programming.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601053000 -0400" stop="20250601062000 -0400">
-    <title lang="zh">TV Patrol Linggo</title>
-    <desc>Catch the latest news, current events, and in-depth reports. Stay informed with comprehensive coverage and updates on issues that matter most.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601062000 -0400" stop="20250601070000 -0400">
-    <title lang="zh">Citizen Pinoy</title>
-    <desc>Citizen Pinoy airs every Sunday on The Filipino Channel. It is hosted by immigration attorney Michael J. Gurfinkel and Filipino TV personality Gel Santos-Relos. The program specializes in helping the Filipino community deal with immigration problems from here in North America all the way back to the Philippines. The show has featured many people who have dealt with problems in becoming an American</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601070000 -0400" stop="20250601073000 -0400">
-    <title lang="zh">So Jannelle</title>
-    <desc>A Filipino-American media pioneer explores immigrant stories, local trends, and human interest topics, offering a unique perspective on life and culture.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601073000 -0400" stop="20250601083000 -0400">
-    <title lang="zh">Bro. Eddie Classics</title>
-    <desc>A revered preacher delivers inspiring sermons and life lessons. Each episode offers wisdom and guidance, uplifting viewers with messages of hope and faith.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601083000 -0400" stop="20250601090000 -0400">
-    <title lang="zh">Kapamilya Journeys Of Hope With Fr. Tito Caluag</title>
-    <desc>A compassionate priest shares inspiring stories of faith and hope, guiding viewers through life's challenges and offering uplifting messages for a brighter future.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601090000 -0400" stop="20250601100000 -0400">
-    <title lang="zh">Tao Po</title>
-    <desc>Explore short stories that cover hot issues, inspiring human interest tales, popular trends, and entertainment, capturing a wide range of compelling topics.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601100000 -0400" stop="20250601120000 -0400">
-    <title lang="zh">Petmalu</title>
-    <desc>Seven friends with different backgrounds face their respective problems to join a talent competition.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601120000 -0400" stop="20250601140000 -0400">
-    <title lang="zh">ASAP</title>
-    <desc>A weekly concert party.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601140000 -0400" stop="20250601145000 -0400">
-    <title lang="zh">Rated Korina</title>
-    <desc>A journalist hosts a news magazine and lifestyle show, sharing compelling stories from various backgrounds and interests. Discover inspiring tales and insightful features.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601145000 -0400" stop="20250601155000 -0400">
-    <title lang="zh">The B Side</title>
-    <desc>A young woman rethinks her life's direction after bumping into an old friend, leading her on a journey of self-discovery and change.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601155000 -0400" stop="20250601163000 -0400">
-    <title lang="zh">My Puhunan: Kaya Mo</title>
-    <desc>Entrepreneurs share inspiring stories of how they started their businesses and overcame challenges. Learn valuable tips and get motivated to start your own journey.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601163000 -0400" stop="20250601170000 -0400">
-    <title lang="zh">So Jannelle</title>
-    <desc>A Filipino-American media pioneer explores immigrant stories, local trends, and human interest topics, offering a unique perspective on life and culture.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601170000 -0400" stop="20250601173000 -0400">
-    <title lang="zh">Ano Na Bev?</title>
-    <desc>A young woman navigates the challenges of adulthood in a bustling city, facing unexpected twists and forming new relationships along the way.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601173000 -0400" stop="20250601182000 -0400">
-    <title lang="zh">TV Patrol Linggo</title>
-    <desc>Catch the latest news, current events, and in-depth reports. Stay informed with comprehensive coverage and updates on issues that matter most.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601182000 -0400" stop="20250601190000 -0400">
-    <title lang="zh">Citizen Pinoy</title>
-    <desc>Citizen Pinoy airs every Sunday on The Filipino Channel. It is hosted by immigration attorney Michael J. Gurfinkel and Filipino TV personality Gel Santos-Relos. The program specializes in helping the Filipino community deal with immigration problems from here in North America all the way back to the Philippines. The show has featured many people who have dealt with problems in becoming an American</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601190000 -0400" stop="20250601200000 -0400">
-    <title lang="zh">Rated Korina</title>
-    <desc>A journalist hosts a news magazine and lifestyle show, sharing compelling stories from various backgrounds and interests. Discover inspiring tales and insightful features.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601200000 -0400" stop="20250601210000 -0400">
-    <title lang="zh">Pilipinas Got Talent</title>
-    <desc>A talent-search competition featuring a variety of performances.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601210000 -0400" stop="20250601220000 -0400">
-    <title lang="zh">Love in 40 Days</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250601220000 -0400" stop="20250602000000 -0400">
-    <title lang="zh">ASAP</title>
-    <desc>A weekly concert party.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="403541" start="20250602000000 -0400" stop="20250602010000 -0400">
+<programme channel="403541" start="20250602000000 -0400" stop="20250602010000 -0400">
     <title lang="zh">The B Side</title>
     <desc>A young woman rethinks her life's direction after bumping into an old friend, leading her on a journey of self-discovery and change.</desc>
     <date>2025-06-02</date>
@@ -1920,97 +1795,7 @@
     <desc />
     <date>2025-06-02</date>
   </programme>
-<programme channel="7870" start="20250601000000 -0400" stop="20250601021500 -0400">
-    <title lang="zh">ASAP Natin 'To</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="7870" start="20250601021500 -0400" stop="20250601040000 -0400">
-    <title lang="zh">Kapamilya Sunday Blockbusters</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="7870" start="20250601040000 -0400" stop="20250601043000 -0400">
-    <title lang="zh">My Puhunan Kaya Mo!</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="7870" start="20250601043000 -0400" stop="20250601053000 -0400">
-    <title lang="zh">Kuan On One</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="7870" start="20250601053000 -0400" stop="20250601061500 -0400">
-    <title lang="zh">TV Patrol Weekend</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="7870" start="20250601061500 -0400" stop="20250601071500 -0400">
-    <title lang="zh">Tao Po!</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="7870" start="20250601071500 -0400" stop="20250601083000 -0400">
-    <title lang="zh">Pilipinas Got Talent</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="7870" start="20250601083000 -0400" stop="20250601103000 -0400">
-    <title lang="zh">Mega Blockbusters</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="7870" start="20250601103000 -0400" stop="20250601140000 -0400">
-    <title lang="zh">Sunday's Best</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="7870" start="20250601140000 -0400" stop="20250601154500 -0400">
-    <title lang="zh">Movie Central Presents</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="7870" start="20250601154500 -0400" stop="20250601173000 -0400">
-    <title lang="zh">Movie Central Presents</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="7870" start="20250601173000 -0400" stop="20250601180000 -0400">
-    <title lang="zh">Kapamilya Daily Mass</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="7870" start="20250601180000 -0400" stop="20250601190000 -0400">
-    <title lang="zh">School Anywhere sa Kapamilya Channel</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="7870" start="20250601190000 -0400" stop="20250601200000 -0400">
-    <title lang="zh">Marina</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="7870" start="20250601200000 -0400" stop="20250601203000 -0400">
-    <title lang="zh">The Flying House</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="7870" start="20250601203000 -0400" stop="20250601210000 -0400">
-    <title lang="zh">Superbook Reimagined</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="7870" start="20250601210000 -0400" stop="20250601220000 -0400">
-    <title lang="zh">Magandang Buhay</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="7870" start="20250601220000 -0400" stop="20250602000000 -0400">
-    <title lang="zh">Kapamilya Blockbusters</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="7870" start="20250602000000 -0400" stop="20250602023000 -0400">
+<programme channel="7870" start="20250602000000 -0400" stop="20250602023000 -0400">
     <title lang="zh">It's Showtime</title>
     <desc />
     <date>2025-06-02</date>
@@ -2125,92 +1910,72 @@
     <desc />
     <date>2025-06-02</date>
   </programme>
-  <programme channel="7870" start="20250603000000 -0400" stop="20250604000000 -0400">
+  <programme channel="7870" start="20250603000000 -0400" stop="20250603023000 -0400">
     <title lang="zh">It's Showtime</title>
     <desc />
     <date>2025-06-03</date>
   </programme>
-<programme channel="70615" start="20250601000000 -0400" stop="20250601020000 -0400">
-    <title lang="zh">All-Out Sundays</title>
+  <programme channel="7870" start="20250603023000 -0400" stop="20250603031500 -0400">
+    <title lang="zh">Saving Grace: The Untold Story</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="70615" start="20250601020000 -0400" stop="20250601024500 -0400">
-    <title lang="zh">Regal Studio Presents</title>
+  <programme channel="7870" start="20250603031500 -0400" stop="20250603040000 -0400">
+    <title lang="zh">Huwag Kang Mangamba</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="70615" start="20250601024500 -0400" stop="20250601031500 -0400">
-    <title lang="zh">Resibo</title>
+  <programme channel="7870" start="20250603040000 -0400" stop="20250603044500 -0400">
+    <title lang="zh">Viral Scandal</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="70615" start="20250601031500 -0400" stop="20250601053000 -0400">
-    <title lang="zh">FPJ Sa GMA</title>
+  <programme channel="7870" start="20250603044500 -0400" stop="20250603050000 -0400">
+    <title lang="zh">TV Patrol Express</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="70615" start="20250601053000 -0400" stop="20250601061500 -0400">
-    <title lang="zh">24 Oras Weekend</title>
+  <programme channel="7870" start="20250603050000 -0400" stop="20250603054500 -0400">
+    <title lang="zh">Goin' Bulilit Rewind</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="70615" start="20250601061500 -0400" stop="20250601071500 -0400">
-    <title lang="zh">Lutong Pinasarap</title>
+  <programme channel="7870" start="20250603054500 -0400" stop="20250603063000 -0400">
+    <title lang="zh">Meteor Garden</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="70615" start="20250601071500 -0400" stop="20250601081500 -0400">
-    <title lang="zh">BBLGang</title>
+  <programme channel="7870" start="20250603063000 -0400" stop="20250603080000 -0400">
+    <title lang="zh">TV Patrol</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="70615" start="20250601081500 -0400" stop="20250601100500 -0400">
-    <title lang="zh">Kapuso Mo, Jessica Soho</title>
+  <programme channel="7870" start="20250603080000 -0400" stop="20250603084500 -0400">
+    <title lang="zh">FPJ's Batang Quiapo</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="70615" start="20250601100500 -0400" stop="20250601110000 -0400">
-    <title lang="zh">The Boobay and Tekla Show</title>
+  <programme channel="7870" start="20250603084500 -0400" stop="20250603093000 -0400">
+    <title lang="zh">Incognito</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="70615" start="20250601110000 -0400" stop="20250601173000 -0400">
-    <title lang="zh">Cayetano in Action with Boy Abunda</title>
+  <programme channel="7870" start="20250603093000 -0400" stop="20250603101500 -0400">
+    <title lang="zh">Saving Grace: The Untold Story</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="70615" start="20250601173000 -0400" stop="20250601200000 -0400">
-    <title lang="zh">Unang Hirit</title>
+  <programme channel="7870" start="20250603101500 -0400" stop="20250603104500 -0400">
+    <title lang="zh">Happiness</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="70615" start="20250601200000 -0400" stop="20250601202500 -0400">
-    <title lang="zh">Yokai Watch</title>
+  <programme channel="7870" start="20250603104500 -0400" stop="20250604000000 -0400">
+    <title lang="zh">The World Tonight</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="70615" start="20250601202500 -0400" stop="20250601210000 -0400">
-    <title lang="zh">The Legend Of Shen Li</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="70615" start="20250601210000 -0400" stop="20250601213000 -0400">
-    <title lang="zh">Wicked-in-law</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="70615" start="20250601213000 -0400" stop="20250601230000 -0400">
-    <title lang="zh">Kapuso Movie Festival</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="70615" start="20250601230000 -0400" stop="20250602000000 -0400">
-    <title lang="zh">Tiktoclock</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="70615" start="20250602000000 -0400" stop="20250602023000 -0400">
+<programme channel="70615" start="20250602000000 -0400" stop="20250602023000 -0400">
     <title lang="zh">It's Showtime</title>
     <desc />
     <date>2025-06-02</date>
@@ -2310,132 +2075,72 @@
     <desc />
     <date>2025-06-02</date>
   </programme>
-  <programme channel="70615" start="20250603000000 -0400" stop="20250604000000 -0400">
+  <programme channel="70615" start="20250603000000 -0400" stop="20250603023000 -0400">
     <title lang="zh">It's Showtime</title>
     <desc />
     <date>2025-06-03</date>
   </programme>
-<programme channel="322467" start="20250601000000 -0400" stop="20250601010000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
+  <programme channel="70615" start="20250603023000 -0400" stop="20250603032000 -0400">
+    <title lang="zh">Prinsesa Ng City Jail</title>
+    <desc />
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322467" start="20250601010000 -0400" stop="20250601020000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
+  <programme channel="70615" start="20250603032000 -0400" stop="20250603040500 -0400">
+    <title lang="zh">Mommy Dearest</title>
+    <desc />
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322467" start="20250601020000 -0400" stop="20250601030000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
+  <programme channel="70615" start="20250603040500 -0400" stop="20250603044500 -0400">
+    <title lang="zh">Binibining Marikit</title>
+    <desc />
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322467" start="20250601030000 -0400" stop="20250601040000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
+  <programme channel="70615" start="20250603044500 -0400" stop="20250603051000 -0400">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc />
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322467" start="20250601040000 -0400" stop="20250601050000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
+  <programme channel="70615" start="20250603051000 -0400" stop="20250603054000 -0400">
+    <title lang="zh">Red Balloon</title>
+    <desc />
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322467" start="20250601050000 -0400" stop="20250601060000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
+  <programme channel="70615" start="20250603054000 -0400" stop="20250603063000 -0400">
+    <title lang="zh">Family Feud</title>
+    <desc />
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322467" start="20250601060000 -0400" stop="20250601070000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
+  <programme channel="70615" start="20250603063000 -0400" stop="20250603080500 -0400">
+    <title lang="zh">24 Oras</title>
+    <desc />
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322467" start="20250601070000 -0400" stop="20250601080000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
+  <programme channel="70615" start="20250603080500 -0400" stop="20250603085000 -0400">
+    <title lang="zh">Lolong: Pangil Ng Maynila</title>
+    <desc />
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322467" start="20250601080000 -0400" stop="20250601090000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
+  <programme channel="70615" start="20250603085000 -0400" stop="20250603092500 -0400">
+    <title lang="zh">Mga Batang Riles</title>
+    <desc />
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322467" start="20250601090000 -0400" stop="20250601100000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
+  <programme channel="70615" start="20250603092500 -0400" stop="20250603100000 -0400">
+    <title lang="zh">Slay: 'Till Death Do Us Part</title>
+    <desc />
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322467" start="20250601100000 -0400" stop="20250601110000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
+  <programme channel="70615" start="20250603100000 -0400" stop="20250603104500 -0400">
+    <title lang="zh">Pinoy Big Brother Celebrity Edition Collab</title>
+    <desc />
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322467" start="20250601110000 -0400" stop="20250601120000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
+  <programme channel="70615" start="20250603104500 -0400" stop="20250604000000 -0400">
+    <title lang="zh">Saksi</title>
+    <desc />
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322467" start="20250601120000 -0400" stop="20250601130000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322467" start="20250601130000 -0400" stop="20250601140000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322467" start="20250601140000 -0400" stop="20250601150000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322467" start="20250601150000 -0400" stop="20250601160000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322467" start="20250601160000 -0400" stop="20250601170000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322467" start="20250601170000 -0400" stop="20250601180000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322467" start="20250601180000 -0400" stop="20250601190000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322467" start="20250601190000 -0400" stop="20250601200000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322467" start="20250601200000 -0400" stop="20250601210000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322467" start="20250601210000 -0400" stop="20250601220000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322467" start="20250601220000 -0400" stop="20250601230000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322467" start="20250601230000 -0400" stop="20250602000000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322467" start="20250602000000 -0400" stop="20250602010000 -0400">
+<programme channel="322467" start="20250602000000 -0400" stop="20250602010000 -0400">
     <title lang="zh">To Be Announced</title>
     <desc>Program information is not yet available.</desc>
     <date>2025-06-02</date>
@@ -2555,77 +2260,117 @@
     <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
     <date>2025-06-02</date>
   </programme>
-  <programme channel="322467" start="20250603000000 -0400" stop="20250604000000 -0400">
+  <programme channel="322467" start="20250603000000 -0400" stop="20250603010000 -0400">
     <title lang="zh">Sari-Sari</title>
     <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
     <date>2025-06-03</date>
   </programme>
-<programme channel="7864" start="20250601010000 -0400" stop="20250601030000 -0400">
-    <title lang="zh">Maybe This Time</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322467" start="20250603010000 -0400" stop="20250603020000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="7864" start="20250601030000 -0400" stop="20250601050000 -0400">
-    <title lang="zh">Sisterakas</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322467" start="20250603020000 -0400" stop="20250603030000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="7864" start="20250601050000 -0400" stop="20250601070000 -0400">
-    <title lang="zh">Just The Way You Are</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322467" start="20250603030000 -0400" stop="20250603040000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="7864" start="20250601070000 -0400" stop="20250601090000 -0400">
-    <title lang="zh">Ang Mga Kaibigan ni Mama Susan</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322467" start="20250603040000 -0400" stop="20250603050000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="7864" start="20250601090000 -0400" stop="20250601100000 -0400">
-    <title lang="zh">The B Side</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322467" start="20250603050000 -0400" stop="20250603060000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="7864" start="20250601100000 -0400" stop="20250601120000 -0400">
-    <title lang="zh">Kakabakaba Ka Ba?</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322467" start="20250603060000 -0400" stop="20250603070000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="7864" start="20250601120000 -0400" stop="20250601140000 -0400">
-    <title lang="zh">Malikot Ang Agos Ng Tubig</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322467" start="20250603070000 -0400" stop="20250603080000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="7864" start="20250601140000 -0400" stop="20250601160000 -0400">
-    <title lang="zh">Bakit Pa Kita Minahal</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322467" start="20250603080000 -0400" stop="20250603090000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="7864" start="20250601160000 -0400" stop="20250601180000 -0400">
-    <title lang="zh">The Vizconde Massacre</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322467" start="20250603090000 -0400" stop="20250603100000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="7864" start="20250601180000 -0400" stop="20250601200000 -0400">
-    <title lang="zh">Last Two Minutes</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322467" start="20250603100000 -0400" stop="20250603110000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="7864" start="20250601200000 -0400" stop="20250601220000 -0400">
-    <title lang="zh">Bagansya</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322467" start="20250603110000 -0400" stop="20250603120000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="7864" start="20250601220000 -0400" stop="20250601230000 -0400">
-    <title lang="zh">The B Side</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322467" start="20250603120000 -0400" stop="20250603130000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="7864" start="20250601230000 -0400" stop="20250602000000 -0400">
-    <title lang="zh">Di Pwedeng Hindi Pwede</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322467" start="20250603130000 -0400" stop="20250603140000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="7864" start="20250602010000 -0400" stop="20250602030000 -0400">
+  <programme channel="322467" start="20250603140000 -0400" stop="20250603150000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322467" start="20250603150000 -0400" stop="20250603160000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322467" start="20250603160000 -0400" stop="20250603170000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322467" start="20250603170000 -0400" stop="20250603180000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322467" start="20250603180000 -0400" stop="20250603190000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322467" start="20250603190000 -0400" stop="20250603200000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322467" start="20250603200000 -0400" stop="20250603210000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322467" start="20250603210000 -0400" stop="20250604000000 -0400">
+    <title lang="zh">Sari-Sari</title>
+    <desc>Sari-Sari Channel a 24-hour general entertainment channel joint-ventured by TV5 Network, through Cignal Digital TV and Viva Entertainment. Named after the Philippine Sari-sari store, it offers a variety of shows from the portfolios of Viva TV and TV5. The channel's content include archive shows and movies from Viva Television and Viva Films, original movies from Studio5, the film production arm of</desc>
+    <date>2025-06-03</date>
+  </programme>
+<programme channel="7864" start="20250602010000 -0400" stop="20250602030000 -0400">
     <title lang="zh">Born To Love You</title>
     <desc />
     <date>2025-06-02</date>
@@ -2685,92 +2430,32 @@
     <desc />
     <date>2025-06-02</date>
   </programme>
-<programme channel="322511" start="20250601000000 -0400" stop="20250601010000 -0400">
-    <title lang="zh">RTVM</title>
+  <programme channel="7864" start="20250603010000 -0400" stop="20250603030000 -0400">
+    <title lang="zh">Sukob</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322511" start="20250601010000 -0400" stop="20250601020000 -0400">
-    <title lang="zh">Discovereats</title>
+  <programme channel="7864" start="20250603030000 -0400" stop="20250603050000 -0400">
+    <title lang="zh">Papa Pogi</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322511" start="20250601020000 -0400" stop="20250601030000 -0400">
-    <title lang="zh">Long Conversation</title>
+  <programme channel="7864" start="20250603050000 -0400" stop="20250603070000 -0400">
+    <title lang="zh">The Love Affair</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322511" start="20250601030000 -0400" stop="20250601040000 -0400">
-    <title lang="zh">Long Take</title>
+  <programme channel="7864" start="20250603070000 -0400" stop="20250603090000 -0400">
+    <title lang="zh">I Do</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322511" start="20250601040000 -0400" stop="20250601043000 -0400">
-    <title lang="zh">Homestretch</title>
+  <programme channel="7864" start="20250603090000 -0400" stop="20250604000000 -0400">
+    <title lang="zh">Daddy O, Baby O</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322511" start="20250601043000 -0400" stop="20250601050000 -0400">
-    <title lang="zh">SA INC</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322511" start="20250601050000 -0400" stop="20250601060000 -0400">
-    <title lang="zh">Presello</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322511" start="20250601060000 -0400" stop="20250601063000 -0400">
-    <title lang="zh">Infinite Legacies</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322511" start="20250601063000 -0400" stop="20250601070000 -0400">
-    <title lang="zh">Chronicles</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322511" start="20250601070000 -0400" stop="20250601083000 -0400">
-    <title lang="zh">Balwarte</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322511" start="20250601083000 -0400" stop="20250601090000 -0400">
-    <title lang="zh">Ride PH</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322511" start="20250601090000 -0400" stop="20250601100000 -0400">
-    <title lang="zh">Long Conversation</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322511" start="20250601100000 -0400" stop="20250601103000 -0400">
-    <title lang="zh">One News Documentaries</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322511" start="20250601103000 -0400" stop="20250601110000 -0400">
-    <title lang="zh">TikTalks</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322511" start="20250601110000 -0400" stop="20250601220000 -0400">
-    <title lang="zh">Go Local</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322511" start="20250601220000 -0400" stop="20250601230000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322511" start="20250601230000 -0400" stop="20250602000000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322511" start="20250602000000 -0400" stop="20250602010000 -0400">
+<programme channel="322511" start="20250602000000 -0400" stop="20250602010000 -0400">
     <title lang="zh">To Be Announced</title>
     <desc>Program information is not yet available.</desc>
     <date>2025-06-02</date>
@@ -2890,77 +2575,117 @@
     <desc>One News HD.</desc>
     <date>2025-06-02</date>
   </programme>
-  <programme channel="322511" start="20250603000000 -0400" stop="20250604000000 -0400">
+  <programme channel="322511" start="20250603000000 -0400" stop="20250603010000 -0400">
     <title lang="zh">One News</title>
     <desc>One News HD.</desc>
     <date>2025-06-03</date>
   </programme>
-<programme channel="322493" start="20250601003000 -0400" stop="20250601013000 -0400">
-    <title lang="zh">Woman In Action</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322511" start="20250603010000 -0400" stop="20250603020000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322493" start="20250601013000 -0400" stop="20250601023000 -0400">
-    <title lang="zh">Masaganang Buhay</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322511" start="20250603020000 -0400" stop="20250603030000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322493" start="20250601023000 -0400" stop="20250601043000 -0400">
-    <title lang="zh">Match Made</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322511" start="20250603030000 -0400" stop="20250603040000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322493" start="20250601043000 -0400" stop="20250601050000 -0400">
-    <title lang="zh">Ride Ph</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322511" start="20250603040000 -0400" stop="20250603050000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322493" start="20250601050000 -0400" stop="20250601060000 -0400">
-    <title lang="zh">LIVE Frontline Weekend</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322511" start="20250603050000 -0400" stop="20250603060000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322493" start="20250601060000 -0400" stop="20250601070000 -0400">
-    <title lang="zh">Gretchen Ho Reports</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322511" start="20250603060000 -0400" stop="20250603070000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322493" start="20250601070000 -0400" stop="20250601080000 -0400">
-    <title lang="zh">Stars Under Pressure</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322511" start="20250603070000 -0400" stop="20250603080000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322493" start="20250601080000 -0400" stop="20250601083000 -0400">
-    <title lang="zh">Kapatid Mo, Idol Rafy Tulfo</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322511" start="20250603080000 -0400" stop="20250603090000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322493" start="20250601083000 -0400" stop="20250601090000 -0400">
-    <title lang="zh">Gus Abelgas Forensics</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322511" start="20250603090000 -0400" stop="20250603100000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322493" start="20250601090000 -0400" stop="20250601100000 -0400">
-    <title lang="zh">Ride Radio</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322511" start="20250603100000 -0400" stop="20250603110000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322493" start="20250601100000 -0400" stop="20250601220000 -0400">
-    <title lang="zh">Julius Babao Unplugged</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322511" start="20250603110000 -0400" stop="20250603120000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322493" start="20250601220000 -0400" stop="20250601230000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
+  <programme channel="322511" start="20250603120000 -0400" stop="20250603130000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322493" start="20250601230000 -0400" stop="20250602000000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
+  <programme channel="322511" start="20250603130000 -0400" stop="20250603140000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="322493" start="20250602000000 -0400" stop="20250602010000 -0400">
+  <programme channel="322511" start="20250603140000 -0400" stop="20250603150000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322511" start="20250603150000 -0400" stop="20250603160000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322511" start="20250603160000 -0400" stop="20250603170000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322511" start="20250603170000 -0400" stop="20250603180000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322511" start="20250603180000 -0400" stop="20250603190000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322511" start="20250603190000 -0400" stop="20250603200000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322511" start="20250603200000 -0400" stop="20250603210000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322511" start="20250603210000 -0400" stop="20250604000000 -0400">
+    <title lang="zh">One News</title>
+    <desc>One News HD.</desc>
+    <date>2025-06-03</date>
+  </programme>
+<programme channel="322493" start="20250602000000 -0400" stop="20250602010000 -0400">
     <title lang="zh">To Be Announced</title>
     <desc>Program information is not yet available.</desc>
     <date>2025-06-02</date>
@@ -3080,72 +2805,117 @@
     <desc>Program information is not yet available.</desc>
     <date>2025-06-02</date>
   </programme>
-  <programme channel="322493" start="20250603000000 -0400" stop="20250604000000 -0400">
+  <programme channel="322493" start="20250603000000 -0400" stop="20250603010000 -0400">
     <title lang="zh">To Be Announced</title>
     <desc>Program information is not yet available.</desc>
     <date>2025-06-03</date>
   </programme>
-<programme channel="408276" start="20250601000000 -0400" stop="20250601021500 -0400">
-    <title lang="zh">Tunay Na Magkaibigan Walang Iwanan Peksman</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322493" start="20250603010000 -0400" stop="20250603020000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="408276" start="20250601021500 -0400" stop="20250601041500 -0400">
-    <title lang="zh">Dobol Trobol</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322493" start="20250603020000 -0400" stop="20250603030000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="408276" start="20250601041500 -0400" stop="20250601060000 -0400">
-    <title lang="zh">Silang Matatapang</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322493" start="20250603030000 -0400" stop="20250603040000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="408276" start="20250601060000 -0400" stop="20250601080000 -0400">
-    <title lang="zh">Oo Na, Sige Na</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322493" start="20250603040000 -0400" stop="20250603050000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="408276" start="20250601080000 -0400" stop="20250601100000 -0400">
-    <title lang="zh">Palabra de Honor</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322493" start="20250603050000 -0400" stop="20250603060000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="408276" start="20250601100000 -0400" stop="20250601121500 -0400">
-    <title lang="zh">Abrakadabra</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322493" start="20250603060000 -0400" stop="20250603070000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="408276" start="20250601121500 -0400" stop="20250601141500 -0400">
-    <title lang="zh">Misis Mo, Misis Ko</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322493" start="20250603070000 -0400" stop="20250603080000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="408276" start="20250601141500 -0400" stop="20250601161500 -0400">
-    <title lang="zh">Sa Isang Sulok Ng Mga Pangarap</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322493" start="20250603080000 -0400" stop="20250603090000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="408276" start="20250601161500 -0400" stop="20250601180000 -0400">
-    <title lang="zh">Macho Dancer</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322493" start="20250603090000 -0400" stop="20250603100000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="408276" start="20250601180000 -0400" stop="20250601200000 -0400">
-    <title lang="zh">Vizconde Massacre 2</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322493" start="20250603100000 -0400" stop="20250603110000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="408276" start="20250601200000 -0400" stop="20250601221500 -0400">
-    <title lang="zh">The Lilian Velez Story</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322493" start="20250603110000 -0400" stop="20250603120000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="408276" start="20250601221500 -0400" stop="20250602000000 -0400">
-    <title lang="zh">Sa Diyos Lang Ako Susuko</title>
-    <desc />
-    <date>2025-06-01</date>
+  <programme channel="322493" start="20250603120000 -0400" stop="20250603130000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="408276" start="20250602000000 -0400" stop="20250602021500 -0400">
+  <programme channel="322493" start="20250603130000 -0400" stop="20250603140000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322493" start="20250603140000 -0400" stop="20250603150000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322493" start="20250603150000 -0400" stop="20250603160000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322493" start="20250603160000 -0400" stop="20250603170000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322493" start="20250603170000 -0400" stop="20250603180000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322493" start="20250603180000 -0400" stop="20250603190000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322493" start="20250603190000 -0400" stop="20250603200000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322493" start="20250603200000 -0400" stop="20250603210000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322493" start="20250603210000 -0400" stop="20250604000000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+<programme channel="408276" start="20250602000000 -0400" stop="20250602021500 -0400">
     <title lang="zh">Boy Buluran</title>
     <desc />
     <date>2025-06-02</date>
@@ -3205,187 +2975,37 @@
     <desc />
     <date>2025-06-02</date>
   </programme>
-  <programme channel="408276" start="20250603000000 -0400" stop="20250604000000 -0400">
+  <programme channel="408276" start="20250603000000 -0400" stop="20250603021500 -0400">
     <title lang="zh">Somewhere</title>
     <desc />
     <date>2025-06-03</date>
   </programme>
-<programme channel="429756" start="20250601010000 -0400" stop="20250601030000 -0400">
-    <title lang="zh">RAMPADOR ALINDOG RAMON REVILLA</title>
+  <programme channel="408276" start="20250603021500 -0400" stop="20250603041500 -0400">
+    <title lang="zh">Di Na Natuto Sorry Na Pwede Ba?</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="429756" start="20250601030000 -0400" stop="20250601050000 -0400">
-    <title lang="zh">MERMAID IN PARIS NICOLAS DUVAUCHELLE</title>
+  <programme channel="408276" start="20250603041500 -0400" stop="20250603060000 -0400">
+    <title lang="zh">Boy Pita: Terror Ng Kalookan</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="429756" start="20250601050000 -0400" stop="20250601070000 -0400">
-    <title lang="zh">211 NICHOLAS CAGE</title>
+  <programme channel="408276" start="20250603060000 -0400" stop="20250603080000 -0400">
+    <title lang="zh">Pusoy Dos</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="429756" start="20250601070000 -0400" stop="20250602000000 -0400">
-    <title lang="zh">NUEVE DE PEBRERO  RUDY FERNANDEZ</title>
+  <programme channel="408276" start="20250603080000 -0400" stop="20250603101500 -0400">
+    <title lang="zh">I Love You 3x A Day</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-<programme channel="429763" start="20250601000000 -0400" stop="20250601021500 -0400">
-    <title lang="zh">ASAP</title>
+  <programme channel="408276" start="20250603101500 -0400" stop="20250604000000 -0400">
+    <title lang="zh">Bukas May Pangarap</title>
     <desc />
-    <date>2025-06-01</date>
+    <date>2025-06-03</date>
   </programme>
-  <programme channel="429763" start="20250601021500 -0400" stop="20250601040000 -0400">
-    <title lang="zh">SUNDAY BLOCKBUSTERS</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="429763" start="20250601040000 -0400" stop="20250601043000 -0400">
-    <title lang="zh">MY PUHUNAN</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="429763" start="20250601043000 -0400" stop="20250601053000 -0400">
-    <title lang="zh">KUAN ON ONE</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="429763" start="20250601053000 -0400" stop="20250601061500 -0400">
-    <title lang="zh">TV PATROL SUN</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="429763" start="20250601061500 -0400" stop="20250601071500 -0400">
-    <title lang="zh">TAO PO</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="429763" start="20250601071500 -0400" stop="20250602000000 -0400">
-    <title lang="zh">PILIPINAS GOT TALENT</title>
-    <desc />
-    <date>2025-06-01</date>
-  </programme>
-<programme channel="322466" start="20250601000000 -0400" stop="20250601010000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601010000 -0400" stop="20250601020000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601020000 -0400" stop="20250601030000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601030000 -0400" stop="20250601040000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601040000 -0400" stop="20250601050000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601050000 -0400" stop="20250601060000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601060000 -0400" stop="20250601070000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601070000 -0400" stop="20250601080000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601080000 -0400" stop="20250601090000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601090000 -0400" stop="20250601100000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601100000 -0400" stop="20250601110000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601110000 -0400" stop="20250601120000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601120000 -0400" stop="20250601130000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601130000 -0400" stop="20250601140000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601140000 -0400" stop="20250601150000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601150000 -0400" stop="20250601160000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601160000 -0400" stop="20250601170000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601170000 -0400" stop="20250601180000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601180000 -0400" stop="20250601190000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601190000 -0400" stop="20250601200000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601200000 -0400" stop="20250601210000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601210000 -0400" stop="20250601220000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601220000 -0400" stop="20250601230000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250601230000 -0400" stop="20250602000000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-06-01</date>
-  </programme>
-  <programme channel="322466" start="20250602000000 -0400" stop="20250602010000 -0400">
+<programme channel="322466" start="20250602000000 -0400" stop="20250602010000 -0400">
     <title lang="zh">To Be Announced</title>
     <desc>Program information is not yet available.</desc>
     <date>2025-06-02</date>
@@ -3505,7 +3125,112 @@
     <desc>Program information is not yet available.</desc>
     <date>2025-06-02</date>
   </programme>
-  <programme channel="322466" start="20250603000000 -0400" stop="20250604000000 -0400">
+  <programme channel="322466" start="20250603000000 -0400" stop="20250603010000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603010000 -0400" stop="20250603020000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603020000 -0400" stop="20250603030000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603030000 -0400" stop="20250603040000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603040000 -0400" stop="20250603050000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603050000 -0400" stop="20250603060000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603060000 -0400" stop="20250603070000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603070000 -0400" stop="20250603080000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603080000 -0400" stop="20250603090000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603090000 -0400" stop="20250603100000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603100000 -0400" stop="20250603110000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603110000 -0400" stop="20250603120000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603120000 -0400" stop="20250603130000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603130000 -0400" stop="20250603140000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603140000 -0400" stop="20250603150000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603150000 -0400" stop="20250603160000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603160000 -0400" stop="20250603170000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603170000 -0400" stop="20250603180000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603180000 -0400" stop="20250603190000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603190000 -0400" stop="20250603200000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603200000 -0400" stop="20250603210000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-06-03</date>
+  </programme>
+  <programme channel="322466" start="20250603210000 -0400" stop="20250604000000 -0400">
     <title lang="zh">To Be Announced</title>
     <desc>Program information is not yet available.</desc>
     <date>2025-06-03</date>
