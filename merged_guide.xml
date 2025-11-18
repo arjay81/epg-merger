@@ -23,91 +23,6 @@
     <display-name lang="Philippines">Viva</display-name>
     <icon src="" />
   </channel>
-  <programme channel="412143" start="20251117091500 -0400" stop="20251117111500 -0400">
-    <title lang="zh">It's Showtime</title>
-    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
-    <date>2025-11-17</date>
-  </programme>
-  <programme channel="412143" start="20251117111500 -0400" stop="20251117120000 -0400">
-    <title lang="zh">Goin' Bulilit S15</title>
-    <desc>This comical spin-off of the 80s comedy programme Goin' Bananas is currently the Philippines' most successful children's comedy show, created and directed by one of Goin' Bananas' original stars, Bobot Mortiz.</desc>
-    <date>2025-11-17</date>
-  </programme>
-  <programme channel="412143" start="20251117120000 -0400" stop="20251117123000 -0400">
-    <title lang="zh">Ang Sa Iyo Ay Akin</title>
-    <desc>Marissa and Ellice are best friends who hail from different worlds: Ellice is from an influential family, while Marissa is a simple lass living with her mother Lucing. The two are inseparable until one night, a gruesome crime changes their destinies.</desc>
-    <date>2025-11-17</date>
-  </programme>
-  <programme channel="412143" start="20251117123000 -0400" stop="20251117130000 -0400">
-    <title lang="zh">Huwag Kang Mangamba</title>
-    <desc>Huwag Kang Mangamba</desc>
-    <date>2025-11-17</date>
-  </programme>
-  <programme channel="412143" start="20251117130000 -0400" stop="20251117150000 -0400">
-    <title lang="zh">Hello, Love, Goodbye</title>
-    <desc>Joy works as a domestic helper in Hong Kong. While she excels in her job, Joy plans to leave the city. In her journey to achieve her goals, Joy meets Pinoy bartender Ethan. Joy and Ethan soon start a friendship and become each other's solace against the grime and grind of the city.</desc>
-    <date>2025-11-17</date>
-  </programme>
-  <programme channel="412143" start="20251117150000 -0400" stop="20251117163000 -0400">
-    <title lang="zh">TV Patrol Global Edition</title>
-    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
-    <date>2025-11-17</date>
-  </programme>
-  <programme channel="412143" start="20251117163000 -0400" stop="20251117170000 -0400">
-    <title lang="zh">Kapamilya Daily Mass</title>
-    <desc>A daily celebration of the Liturgy of the Lord.</desc>
-    <date>2025-11-17</date>
-  </programme>
-  <programme channel="412143" start="20251117170000 -0400" stop="20251117180000 -0400">
-    <title lang="zh">Gising Pilipinas Live</title>
-    <desc>Spice up your morning with a rousing round-up of the biggest news stories and live reports from field correspondents.</desc>
-    <date>2025-11-17</date>
-  </programme>
-  <programme channel="412143" start="20251117180000 -0400" stop="20251117183000 -0400">
-    <title lang="zh">Radyo Patrol Balita</title>
-    <desc>Radyo Patrol Balita focuses on delivering the latest news, breaking events, and important issues that matter to you.</desc>
-    <date>2025-11-17</date>
-  </programme>
-  <programme channel="412143" start="20251117183000 -0400" stop="20251117190000 -0400">
-    <title lang="zh">Gising Pilipinas Live</title>
-    <desc>Spice up your morning with a rousing round-up of the biggest news stories and live reports from field correspondents.</desc>
-    <date>2025-11-17</date>
-  </programme>
-  <programme channel="412143" start="20251117190000 -0400" stop="20251117200000 -0400">
-    <title lang="zh">Tandem Ng Bayan</title>
-    <desc>Tandem Ng Bayan brings you discussions on the day's top news stories, providing analysis and engaging in commentary on political as well as social issues.</desc>
-    <date>2025-11-17</date>
-  </programme>
-  <programme channel="412143" start="20251117200000 -0400" stop="20251117210000 -0400">
-    <title lang="zh">Magandang Buhay LIVE</title>
-    <desc>"Momshies" Jolina Magdangal, Melai Cantiveros, and Regine Velasquez kick off the morning with good vibes as they share a chat with celebrities on topics easily relatable to Filipino families.</desc>
-    <date>2025-11-17</date>
-  </programme>
-  <programme channel="412143" start="20251117210000 -0400" stop="20251117213000 -0400">
-    <title lang="zh">Huwag Kang Mangamba</title>
-    <desc>Huwag Kang Mangamba</desc>
-    <date>2025-11-17</date>
-  </programme>
-  <programme channel="412143" start="20251117213000 -0400" stop="20251117220000 -0400">
-    <title lang="zh">Ngayon At Kailanman</title>
-    <desc>Eva fights to reclaim her place in the wealthy Cortes family while searching for the truth about her identity. Fate brings her together with Inno, and their love story endures family secrets, rivalry and tragedy as they discover the real meaning of forgiveness and redemption.</desc>
-    <date>2025-11-17</date>
-  </programme>
-  <programme channel="412143" start="20251117220000 -0400" stop="20251117223000 -0400">
-    <title lang="zh">Ang Sa Iyo Ay Akin</title>
-    <desc>Marissa and Ellice are best friends who hail from different worlds: Ellice is from an influential family, while Marissa is a simple lass living with her mother Lucing. The two are inseparable until one night, a gruesome crime changes their destinies.</desc>
-    <date>2025-11-17</date>
-  </programme>
-  <programme channel="412143" start="20251117223000 -0400" stop="20251117230000 -0400">
-    <title lang="zh">BRGY S4</title>
-    <desc>BRGY features interesting and humorous stories about Filipinos and businesses in North America.</desc>
-    <date>2025-11-17</date>
-  </programme>
-  <programme channel="412143" start="20251117230000 -0400" stop="20251118000000 -0400">
-    <title lang="zh">It's Showtime LIVE</title>
-    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
-    <date>2025-11-17</date>
-  </programme>
   <programme channel="412143" start="20251118013000 -0400" stop="20251118020000 -0400">
     <title lang="zh">TFC Kids Zone</title>
     <desc>A programme block filled with animated short stories, nursery rhymes and songs, as well as Filipino language lessons, TFC Kids' Zone promises a rich treasure trove of learning and discovery that parents and their young ones will find enriching and empowering.</desc>
@@ -248,137 +163,142 @@
     <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
     <date>2025-11-18</date>
   </programme>
-<programme channel="369842" start="20251117013000 -0400" stop="20251117022000 -0400">
-    <title lang="zh">Tiktoclock: Happy Hour Na</title>
-    <desc>A game-variety show showcasing talents of Filipinos in singing, dancing and many more.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119013000 -0400" stop="20251119020000 -0400">
+    <title lang="zh">TFC Kids Zone</title>
+    <desc>A programme block filled with animated short stories, nursery rhymes and songs, as well as Filipino language lessons, TFC Kids' Zone promises a rich treasure trove of learning and discovery that parents and their young ones will find enriching and empowering.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117022000 -0400" stop="20251117025000 -0400">
-    <title lang="zh">Unica Hija</title>
-    <desc>The tragic death of his daughter and the ensuing breakdown of his marriage leads a scientist to clone his daughter, with the hope of bringing his wife back to him. However, others take interest in his daring but morally questionable experiment, leading to his demise. Bianca, the clone, is taken in by an unsuspecting couple, and is raised as their own. Years later, the cloning is discovered. Bianca</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119020000 -0400" stop="20251119023500 -0400">
+    <title lang="zh">What Lies Beneath</title>
+    <desc>The lives of four individuals are turned upside down after they witness the murder of their friend. They band together to put the alleged killer behind bars, but years later, the imprisoned man seeks revenge, unraveling dark secrets that test their loyalty and survival.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117025000 -0400" stop="20251117032000 -0400">
-    <title lang="zh">Cruz vs. Cruz</title>
-    <desc>is a story of the two families of Ryan Cruz. He left his original family in the Philippines to work abroad and provide for them. During his time as an OFW, he meets a woman who lures him to marry her after she gets pregnant.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119023500 -0400" stop="20251119031000 -0400">
+    <title lang="zh">FPJ's Batang Quiapo</title>
+    <desc>A young man rises to be one of the biggest outlaws in the neighbourhood while he navigates his way in life to survive in Quiapo. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117032000 -0400" stop="20251117040000 -0400">
-    <title lang="zh">Hating Kapatid</title>
-    <desc>The series follows twin siblings Tyron and Belle, separated at birth and raised in vastly different worlds. When fate brings them together, their bond sparks a journey of discovery, love, and rivalry-- unaware of the truth that binds them.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119031000 -0400" stop="20251119034500 -0400">
+    <title lang="zh">Sins Of The Father</title>
+    <desc>This crime thriller mystery drama sheds light on the plight of scam victims, and is centred around a man named Samuel, whose life is shattered by a scam involving his father.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117040000 -0400" stop="20251117044000 -0400">
-    <title lang="zh">Sanggang-Dikit FR</title>
-    <desc>Two law-enforcers, each burdened by personal loss, are forced to work together when a high-profile murder implicates an action star. Their investigation unravels a deeper conspiracy linking their own families to the crimes, testing their loyalty, trust, and pursuit of justice.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119034500 -0400" stop="20251119043000 -0400">
+    <title lang="zh">Goin' Bulilit S15</title>
+    <desc>This comical spin-off of the 80s comedy programme Goin' Bananas is currently the Philippines' most successful children's comedy show, created and directed by one of Goin' Bananas' original stars, Bobot Mortiz.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117044000 -0400" stop="20251117051500 -0400">
-    <title lang="zh">Encantadia Chronicles: Sang'gre</title>
-    <desc>The series is a spin-off to the Philippine television fantasy drama series, Encantadia.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119043000 -0400" stop="20251119044500 -0400">
+    <title lang="zh">TV Patrol Express Live</title>
+    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117051500 -0400" stop="20251117054500 -0400">
-    <title lang="zh">Family Feud</title>
-    <desc>It features two families who compete to name the most popular answers to survey questions in order to win cash and prizes.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119044500 -0400" stop="20251119053000 -0400">
+    <title lang="zh">BRGY S4</title>
+    <desc>BRGY features interesting and humorous stories about Filipinos and businesses in North America.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117054500 -0400" stop="20251117061500 -0400">
-    <title lang="zh">Fast Talk with Boy Abunda</title>
-    <desc>The latest multi-platform showbiz news and talk show on Kapuso network.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119053000 -0400" stop="20251119070000 -0400">
+    <title lang="zh">TV Patrol Live</title>
+    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117061500 -0400" stop="20251117075000 -0400">
-    <title lang="zh">24 Oras</title>
-    <desc>Gives an up-to-the minute news here and around the world.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119070000 -0400" stop="20251119074500 -0400">
+    <title lang="zh">FPJ's Batang Quiapo</title>
+    <desc>A young man rises to be one of the biggest outlaws in the neighbourhood while he navigates his way in life to survive in Quiapo. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117075000 -0400" stop="20251117084000 -0400">
-    <title lang="zh">Encantadia Chronicles: Sang'gre</title>
-    <desc>The series is a spin-off to the Philippine television fantasy drama series, Encantadia.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119074500 -0400" stop="20251119083000 -0400">
+    <title lang="zh">What Lies Beneath</title>
+    <desc>The lives of four individuals are turned upside down after they witness the murder of their friend. They band together to put the alleged killer behind bars, but years later, the imprisoned man seeks revenge, unraveling dark secrets that test their loyalty and survival.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117084000 -0400" stop="20251117092000 -0400">
-    <title lang="zh">PBB Teens</title>
-    <desc>The TV reality competition follows the same premise as its many foreign counterparts around the world wherein a number of Filipinos volunteered to live inside a house for a certain number of days.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119083000 -0400" stop="20251119091500 -0400">
+    <title lang="zh">Sins of The Father</title>
+    <desc>This crime thriller mystery drama sheds light on the plight of scam victims, and is centred around a man named Samuel, whose life is shattered by a scam involving his father.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117092000 -0400" stop="20251117100000 -0400">
-    <title lang="zh">Sanggang-Dikit FR</title>
-    <desc>Two law-enforcers, each burdened by personal loss, are forced to work together when a high-profile murder implicates an action star. Their investigation unravels a deeper conspiracy linking their own families to the crimes, testing their loyalty, trust, and pursuit of justice.</desc>
-    <date>2025-11-17</date>
-  </programme>
-  <programme channel="369842" start="20251117100000 -0400" stop="20251117103000 -0400">
-    <title lang="zh">Family Feud</title>
-    <desc>It features two families who compete to name the most popular answers to survey questions in order to win cash and prizes.</desc>
-    <date>2025-11-17</date>
-  </programme>
-  <programme channel="369842" start="20251117103000 -0400" stop="20251117110000 -0400">
-    <title lang="zh">Fast Talk with Boy Abunda</title>
-    <desc>The latest multi-platform showbiz news and talk show on Kapuso network.</desc>
-    <date>2025-11-17</date>
-  </programme>
-  <programme channel="369842" start="20251117110000 -0400" stop="20251117130000 -0400">
+  <programme channel="412143" start="20251119091500 -0400" stop="20251119111500 -0400">
     <title lang="zh">It's Showtime</title>
-    <desc>"It's Showtime" is a hit variety program that thrives on spontaneity and animated conversations.</desc>
-    <date>2025-11-17</date>
+    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117130000 -0400" stop="20251117134500 -0400">
-    <title lang="zh">Tiktoclock: Happy Hour Na</title>
-    <desc>A game-variety show showcasing talents of Filipinos in singing, dancing and many more.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119111500 -0400" stop="20251119120000 -0400">
+    <title lang="zh">Goin' Bulilit</title>
+    <desc>This comical spin-off of the 80s comedy programme Goin' Bananas is currently the Philippines' most successful children's comedy show, created and directed by one of Goin' Bananas' original stars, Bobot Mortiz.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117134500 -0400" stop="20251117152000 -0400">
-    <title lang="zh">24 Oras</title>
-    <desc>Gives an up-to-the minute news here and around the world.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119120000 -0400" stop="20251119123000 -0400">
+    <title lang="zh">Ang Sa Iyo Ay Akin</title>
+    <desc>Marissa and Ellice are best friends who hail from different worlds: Ellice is from an influential family, while Marissa is a simple lass living with her mother Lucing. The two are inseparable until one night, a gruesome crime changes their destinies.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117152000 -0400" stop="20251117155500 -0400">
-    <title lang="zh">Encantadia Chronicles: Sang'gre</title>
-    <desc>The series is a spin-off to the Philippine television fantasy drama series, Encantadia.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119123000 -0400" stop="20251119130000 -0400">
+    <title lang="zh">Huwag Kang Mangamba</title>
+    <desc>Huwag Kang Mangamba</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117155500 -0400" stop="20251117163000 -0400">
-    <title lang="zh">Sanggang-Dikit FR</title>
-    <desc>Two law-enforcers, each burdened by personal loss, are forced to work together when a high-profile murder implicates an action star. Their investigation unravels a deeper conspiracy linking their own families to the crimes, testing their loyalty, trust, and pursuit of justice.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119130000 -0400" stop="20251119150000 -0400">
+    <title lang="zh">Super Noypi</title>
+    <desc>Six friends discover that their parents are superheroes. Soon, they learn about superpowers within themselves and try to save the world when their parents are taken hostage.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117163000 -0400" stop="20251117171500 -0400">
-    <title lang="zh">Saksi</title>
-    <desc>Brings up-to-the-minute news, relentlessly delivering breaking stories and covering live reports.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119150000 -0400" stop="20251119163000 -0400">
+    <title lang="zh">TV Patrol Global Edition</title>
+    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117171500 -0400" stop="20251117194500 -0400">
-    <title lang="zh">Unang Hirit</title>
-    <desc>A news magazine show that offers humor and information from hard news to special interests segments on travel, health, housekeeping and entertainment.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119163000 -0400" stop="20251119170000 -0400">
+    <title lang="zh">Kapamilya Daily Mass</title>
+    <desc>A daily celebration of the Liturgy of the Lord.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117194500 -0400" stop="20251117213000 -0400">
-    <title lang="zh">Kapuso Mo Jessica Soho</title>
-    <desc>Features the lighter side of veteran journalist, Jessica Soho, and highlights insightful stories of a wide range of topics.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119170000 -0400" stop="20251119180000 -0400">
+    <title lang="zh">Gising Pilipinas Live</title>
+    <desc>Spice up your morning with a rousing round-up of the biggest news stories and live reports from field correspondents.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117213000 -0400" stop="20251117220000 -0400">
-    <title lang="zh">Cruz vs. Cruz</title>
-    <desc>is a story of the two families of Ryan Cruz. He left his original family in the Philippines to work abroad and provide for them. During his time as an OFW, he meets a woman who lures him to marry her after she gets pregnant.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119180000 -0400" stop="20251119183000 -0400">
+    <title lang="zh">Radyo Patrol Balita</title>
+    <desc>Radyo Patrol Balita focuses on delivering the latest news, breaking events, and important issues that matter to you.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117220000 -0400" stop="20251117223000 -0400">
-    <title lang="zh">Unica Hija</title>
-    <desc>The tragic death of his daughter and the ensuing breakdown of his marriage leads a scientist to clone his daughter, with the hope of bringing his wife back to him. However, others take interest in his daring but morally questionable experiment, leading to his demise. Bianca, the clone, is taken in by an unsuspecting couple, and is raised as their own. Years later, the cloning is discovered. Bianca</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119183000 -0400" stop="20251119190000 -0400">
+    <title lang="zh">Gising Pilipinas Live</title>
+    <desc>Spice up your morning with a rousing round-up of the biggest news stories and live reports from field correspondents.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117223000 -0400" stop="20251117230000 -0400">
-    <title lang="zh">Hating Kapatid</title>
-    <desc>The series follows twin siblings Tyron and Belle, separated at birth and raised in vastly different worlds. When fate brings them together, their bond sparks a journey of discovery, love, and rivalry-- unaware of the truth that binds them.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119190000 -0400" stop="20251119210000 -0400">
+    <title lang="zh">Tandem Ng Bayan</title>
+    <desc>Tandem Ng Bayan brings you discussions on the day's top news stories, providing analysis and engaging in commentary on political as well as social issues.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251117230000 -0400" stop="20251118000000 -0400">
-    <title lang="zh">It's Showtime</title>
-    <desc>"It's Showtime" is a hit variety program that thrives on spontaneity and animated conversations.</desc>
-    <date>2025-11-17</date>
+  <programme channel="412143" start="20251119210000 -0400" stop="20251119213000 -0400">
+    <title lang="zh">Huwag Kang Mangamba</title>
+    <desc>Huwag Kang Mangamba</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="369842" start="20251118013000 -0400" stop="20251118022000 -0400">
+  <programme channel="412143" start="20251119213000 -0400" stop="20251119220000 -0400">
+    <title lang="zh">Ngayon At Kailanman</title>
+    <desc>Eva fights to reclaim her place in the wealthy Cortes family while searching for the truth about her identity. Fate brings her together with Inno, and their love story endures family secrets, rivalry and tragedy as they discover the real meaning of forgiveness and redemption.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="412143" start="20251119220000 -0400" stop="20251119223000 -0400">
+    <title lang="zh">Ang Iyo Ay Sa Akin</title>
+    <desc>Marissa and Ellice are best friends who hail from different worlds: Ellice is from an influential family, while Marissa is a simple lass living with her mother Lucing. The two are inseparable until one night, a gruesome crime changes their destinies.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="412143" start="20251119223000 -0400" stop="20251119230000 -0400">
+    <title lang="zh">BRGY S4</title>
+    <desc>BRGY features interesting and humorous stories about Filipinos and businesses in North America.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="412143" start="20251119230000 -0400" stop="20251120000000 -0400">
+    <title lang="zh">It's Showtime LIVE</title>
+    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
+    <date>2025-11-19</date>
+  </programme>
+<programme channel="369842" start="20251118013000 -0400" stop="20251118022000 -0400">
     <title lang="zh">Tiktoclock: Happy Hour Na</title>
     <desc>A game-variety show showcasing talents of Filipinos in singing, dancing and many more.</desc>
     <date>2025-11-18</date>
@@ -513,127 +433,147 @@
     <desc>"It's Showtime" is a hit variety program that thrives on spontaneity and animated conversations.</desc>
     <date>2025-11-18</date>
   </programme>
-<programme channel="322467" start="20251117000000 -0400" stop="20251117003000 -0400">
-    <title lang="zh">Lumuhod ka sa Lupa Bagong Yugto ep 79</title>
-    <desc>The saga continues in the second season/installment of the classic Carlo J. Caparas' adaptation. Stars Kiko Estrada, Sarah Labahti, and Gardo Versoza.</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119013000 -0400" stop="20251119022000 -0400">
+    <title lang="zh">Tiktoclock: Happy Hour Na</title>
+    <desc>A game-variety show showcasing talents of Filipinos in singing, dancing and many more.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117003000 -0400" stop="20251117010000 -0400">
-    <title lang="zh">Lumuhod ka sa Lupa Bagong Yugto ep 80</title>
-    <desc>The saga continues in the second season/installment of the classic Carlo J. Caparas' adaptation. Stars Kiko Estrada, Sarah Labahti, and Gardo Versoza.</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119022000 -0400" stop="20251119025000 -0400">
+    <title lang="zh">Unica Hija</title>
+    <desc>The tragic death of his daughter and the ensuing breakdown of his marriage leads a scientist to clone his daughter, with the hope of bringing his wife back to him. However, others take interest in his daring but morally questionable experiment, leading to his demise. Bianca, the clone, is taken in by an unsuspecting couple, and is raised as their own. Years later, the cloning is discovered. Bianca</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117010000 -0400" stop="20251117020000 -0400">
-    <title lang="zh">Kurdapya ep 8</title>
-    <desc>Kurdapya tells the story of long-lost twins, KURING \u0026 DAPHNE. They meet after a strange accident and discover that they lead extremely different lives. Kuring grew up with the cruel extended family in the province while Daphne is an undervalued publishing executive in the city. Both women want to get out of their current realities, so they decide to switch lives by pretending to be each other</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119025000 -0400" stop="20251119032000 -0400">
+    <title lang="zh">Cruz vs. Cruz</title>
+    <desc>is a story of the two families of Ryan Cruz. He left his original family in the Philippines to work abroad and provide for them. During his time as an OFW, he meets a woman who lures him to marry her after she gets pregnant.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117020000 -0400" stop="20251117030000 -0400">
-    <title lang="zh">Da Pers Family ep 26</title>
-    <desc>A story of a couple who preserves the family \nbakery business legacy from closure. Now the \ncouple’s children, volunteers to step in and help the \nbusiness. Are the parents willing to accept change \nand innovations of the new generation?</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119032000 -0400" stop="20251119040000 -0400">
+    <title lang="zh">Hating Kapatid</title>
+    <desc>The series follows twin siblings Tyron and Belle, separated at birth and raised in vastly different worlds. When fate brings them together, their bond sparks a journey of discovery, love, and rivalry-- unaware of the truth that binds them.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117030000 -0400" stop="20251117050000 -0400">
-    <title lang="zh">Sari Saring Sine: Hindi Pa Tapos ang Laban</title>
-    <desc>Fernando Poe Jr. stars as Carding Villamar, a city professional who returns to their hometown of Evangelista after learning of his brother's untimely demise. As a series of events unfold, he soon discovers that his brother didn't succumb to a heart attack as he was made to believe. He was shot in cold blood for refusing to sell his land to a powerful congressman. With a town muted and crippled by </desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119040000 -0400" stop="20251119044000 -0400">
+    <title lang="zh">Sanggang-Dikit FR</title>
+    <desc>Two law-enforcers, each burdened by personal loss, are forced to work together when a high-profile murder implicates an action star. Their investigation unravels a deeper conspiracy linking their own families to the crimes, testing their loyalty, trust, and pursuit of justice.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117050000 -0400" stop="20251117060000 -0400">
-    <title lang="zh">For the Love ep 7</title>
-    <desc>An episodic TV series touching on various kinds of love stories based on modern hits and classics from Viva Records.</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119044000 -0400" stop="20251119051500 -0400">
+    <title lang="zh">Encantadia Chronicles: Sang'gre</title>
+    <desc>The series is a spin-off to the Philippine television fantasy drama series, Encantadia.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117060000 -0400" stop="20251117070000 -0400">
-    <title lang="zh">Da Pers Family ep 27</title>
-    <desc>A story of a couple who preserves the family \nbakery business legacy from closure. Now the \ncouple’s children, volunteers to step in and help the \nbusiness. Are the parents willing to accept change \nand innovations of the new generation?</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119051500 -0400" stop="20251119054500 -0400">
+    <title lang="zh">Family Feud</title>
+    <desc>It features two families who compete to name the most popular answers to survey questions in order to win cash and prizes.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117070000 -0400" stop="20251117080000 -0400">
-    <title lang="zh">Totoy Bato ep 140</title>
-    <desc>Totoy Bato explores the origins, the pathos of the character Totoy. All the different battle he went through (terrorist, revenge for his wife, corruption, prejudice and for love) defines him as a character.</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119054500 -0400" stop="20251119061500 -0400">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>The latest multi-platform showbiz news and talk show on Kapuso network.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117080000 -0400" stop="20251117090000 -0400">
-    <title lang="zh">Minsan Pa Natin Hagkan ang Nakaraan ep 60</title>
-    <desc>A woman who was severely broken by her greatest love finds love again in an older man who did everything to put her back together. Just when she thought her life is finally back to normal, her greatest love comes back, determined to work for her forgiveness and win her back—even if it means breaking her family apart.</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119061500 -0400" stop="20251119075000 -0400">
+    <title lang="zh">24 Oras</title>
+    <desc>Gives an up-to-the minute news here and around the world.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117090000 -0400" stop="20251117100000 -0400">
-    <title lang="zh">Carpool ep 2</title>
-    <desc>Carpool' revolves around four individuals whose lives get thrown into chaos after sharing a carpool ride which ended up in a tragic accident. A streak of unfortunate events seemingly taking them down.</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119075000 -0400" stop="20251119084000 -0400">
+    <title lang="zh">Encantadia Chronicles: Sang'gre</title>
+    <desc>The series is a spin-off to the Philippine television fantasy drama series, Encantadia.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117100000 -0400" stop="20251117110000 -0400">
-    <title lang="zh">Barrio Kulimlim ep 2</title>
-    <desc>Family and fate intertwine in this dark story of old rituals and a parallel shadow universe where sacrifices of blood ensures that the small town of Quatro Santo remains wealthy and prosperous. A mother and daughter with old ties return to the place where their ancestors once tried to flee, only to find themselves trying to escape a darker destiny.</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119084000 -0400" stop="20251119092000 -0400">
+    <title lang="zh">PBB Teens</title>
+    <desc>The TV reality competition follows the same premise as its many foreign counterparts around the world wherein a number of Filipinos volunteered to live inside a house for a certain number of days.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117110000 -0400" stop="20251117120000 -0400">
-    <title lang="zh">Minsan Pa Natin Hagkan ang Nakaraan ep 60</title>
-    <desc>A woman who was severely broken by her greatest love finds love again in an older man who did everything to put her back together. Just when she thought her life is finally back to normal, her greatest love comes back, determined to work for her forgiveness and win her back—even if it means breaking her family apart.</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119092000 -0400" stop="20251119100000 -0400">
+    <title lang="zh">Sanggang-Dikit FR</title>
+    <desc>Two law-enforcers, each burdened by personal loss, are forced to work together when a high-profile murder implicates an action star. Their investigation unravels a deeper conspiracy linking their own families to the crimes, testing their loyalty, trust, and pursuit of justice.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117120000 -0400" stop="20251117130000 -0400">
-    <title lang="zh">Totoy Bato ep 140</title>
-    <desc>Totoy Bato explores the origins, the pathos of the character Totoy. All the different battle he went through (terrorist, revenge for his wife, corruption, prejudice and for love) defines him as a character.</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119100000 -0400" stop="20251119103000 -0400">
+    <title lang="zh">Family Feud</title>
+    <desc>It features two families who compete to name the most popular answers to survey questions in order to win cash and prizes.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117130000 -0400" stop="20251117150000 -0400">
-    <title lang="zh">Sari Saring Sine: Hindi Pa Tapos ang Laban</title>
-    <desc>Fernando Poe Jr. stars as Carding Villamar, a city professional who returns to their hometown of Evangelista after learning of his brother's untimely demise. As a series of events unfold, he soon discovers that his brother didn't succumb to a heart attack as he was made to believe. He was shot in cold blood for refusing to sell his land to a powerful congressman. With a town muted and crippled by </desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119103000 -0400" stop="20251119110000 -0400">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>The latest multi-platform showbiz news and talk show on Kapuso network.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117150000 -0400" stop="20251117160000 -0400">
-    <title lang="zh">Minsan Pa Natin Hagkan ang Nakaraan ep 60</title>
-    <desc>A woman who was severely broken by her greatest love finds love again in an older man who did everything to put her back together. Just when she thought her life is finally back to normal, her greatest love comes back, determined to work for her forgiveness and win her back—even if it means breaking her family apart.</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119110000 -0400" stop="20251119130000 -0400">
+    <title lang="zh">It's Showtime</title>
+    <desc>"It's Showtime" is a hit variety program that thrives on spontaneity and animated conversations.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117160000 -0400" stop="20251117170000 -0400">
-    <title lang="zh">Totoy Bato ep 140</title>
-    <desc>Totoy Bato explores the origins, the pathos of the character Totoy. All the different battle he went through (terrorist, revenge for his wife, corruption, prejudice and for love) defines him as a character.</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119130000 -0400" stop="20251119134500 -0400">
+    <title lang="zh">Tiktoclock: Happy Hour Na</title>
+    <desc>A game-variety show showcasing talents of Filipinos in singing, dancing and many more.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117170000 -0400" stop="20251117180000 -0400">
-    <title lang="zh">Afterlife ep 5</title>
-    <desc>Peter, a deceased Filipino-Chinese businessman, returns as a ghost and is bonded to Romy, a Filipino caretaker of a Chinese temple. He sets out to let his family know the whole truth through Romy.</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119134500 -0400" stop="20251119152000 -0400">
+    <title lang="zh">24 Oras</title>
+    <desc>Gives an up-to-the minute news here and around the world.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117180000 -0400" stop="20251117190000 -0400">
-    <title lang="zh">Kurdapya ep 8</title>
-    <desc>Kurdapya tells the story of long-lost twins, KURING \u0026 DAPHNE. They meet after a strange accident and discover that they lead extremely different lives. Kuring grew up with the cruel extended family in the province while Daphne is an undervalued publishing executive in the city. Both women want to get out of their current realities, so they decide to switch lives by pretending to be each other</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119152000 -0400" stop="20251119155500 -0400">
+    <title lang="zh">Encantadia Chronicles: Sang'gre</title>
+    <desc>The series is a spin-off to the Philippine television fantasy drama series, Encantadia.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117190000 -0400" stop="20251117200000 -0400">
-    <title lang="zh">Minsan Pa Natin Hagkan ang Nakaraan ep 60</title>
-    <desc>A woman who was severely broken by her greatest love finds love again in an older man who did everything to put her back together. Just when she thought her life is finally back to normal, her greatest love comes back, determined to work for her forgiveness and win her back—even if it means breaking her family apart.</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119155500 -0400" stop="20251119163000 -0400">
+    <title lang="zh">Sanggang-Dikit FR</title>
+    <desc>Two law-enforcers, each burdened by personal loss, are forced to work together when a high-profile murder implicates an action star. Their investigation unravels a deeper conspiracy linking their own families to the crimes, testing their loyalty, trust, and pursuit of justice.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117200000 -0400" stop="20251117210000 -0400">
-    <title lang="zh">Totoy Bato ep 140</title>
-    <desc>Totoy Bato explores the origins, the pathos of the character Totoy. All the different battle he went through (terrorist, revenge for his wife, corruption, prejudice and for love) defines him as a character.</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119163000 -0400" stop="20251119171500 -0400">
+    <title lang="zh">Saksi</title>
+    <desc>Brings up-to-the-minute news, relentlessly delivering breaking stories and covering live reports.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117210000 -0400" stop="20251117213000 -0400">
-    <title lang="zh">Para sa Isa't Isa ep 10</title>
-    <desc>Zion gets another shot at repairing his relationship with his wife, Erin by a wish on a well to go back in time. But he finds Erin not knowing him at all. He must now correct his mistakes and make her fall in love with him again.</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119171500 -0400" stop="20251119194500 -0400">
+    <title lang="zh">Unang Hirit</title>
+    <desc>A news magazine show that offers humor and information from hard news to special interests segments on travel, health, housekeeping and entertainment.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117213000 -0400" stop="20251117220000 -0400">
-    <title lang="zh">Mga Kwentong Epik: Maria Makiling ep 5</title>
-    <desc>Live action series of original Epik superheroes and comic book characters.</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119194500 -0400" stop="20251119201500 -0400">
+    <title lang="zh">I-Witness</title>
+    <desc>A documentary on the different issues in society hosted by a set of trusted broadcast journalists in the country.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117220000 -0400" stop="20251117230000 -0400">
-    <title lang="zh">For the Love ep 7</title>
-    <desc>An episodic TV series touching on various kinds of love stories based on modern hits and classics from Viva Records.</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119201500 -0400" stop="20251119210000 -0400">
+    <title lang="zh">Tadhana</title>
+    <desc>An Overseas Filipino Workers themed weekly anthology that will dramatize the colorful, romantic, heroic, and inspiring stories of OFWs.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251117230000 -0400" stop="20251118000000 -0400">
-    <title lang="zh">From the Beautiful Country ep 10</title>
-    <desc>A Sari-Sari original series. Four beauty pageant contestants find themselves prime suspects when another contestant winds up dead. Each girl has her motive, but which one of them did it? And which one will end up with the crown?</desc>
-    <date>2025-11-17</date>
+  <programme channel="369842" start="20251119210000 -0400" stop="20251119213000 -0400">
+    <title lang="zh">Regal Studio Presents</title>
+    <desc>A collection of weekly specials which feature timely, feel-good stories.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322467" start="20251118000000 -0400" stop="20251118003000 -0400">
+  <programme channel="369842" start="20251119213000 -0400" stop="20251119220000 -0400">
+    <title lang="zh">Cruz vs. Cruz</title>
+    <desc>is a story of the two families of Ryan Cruz. He left his original family in the Philippines to work abroad and provide for them. During his time as an OFW, he meets a woman who lures him to marry her after she gets pregnant.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="369842" start="20251119220000 -0400" stop="20251119223000 -0400">
+    <title lang="zh">Unica Hija</title>
+    <desc>The tragic death of his daughter and the ensuing breakdown of his marriage leads a scientist to clone his daughter, with the hope of bringing his wife back to him. However, others take interest in his daring but morally questionable experiment, leading to his demise. Bianca, the clone, is taken in by an unsuspecting couple, and is raised as their own. Years later, the cloning is discovered. Bianca</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="369842" start="20251119223000 -0400" stop="20251119230000 -0400">
+    <title lang="zh">Hating Kapatid</title>
+    <desc>The series follows twin siblings Tyron and Belle, separated at birth and raised in vastly different worlds. When fate brings them together, their bond sparks a journey of discovery, love, and rivalry-- unaware of the truth that binds them.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="369842" start="20251119230000 -0400" stop="20251120000000 -0400">
+    <title lang="zh">It's Showtime</title>
+    <desc>"It's Showtime" is a hit variety program that thrives on spontaneity and animated conversations.</desc>
+    <date>2025-11-19</date>
+  </programme>
+<programme channel="322467" start="20251118000000 -0400" stop="20251118003000 -0400">
     <title lang="zh">Lumuhod ka sa Lupa Bagong Yugto ep 81</title>
     <desc>The saga continues in the second season/installment of the classic Carlo J. Caparas' adaptation. Stars Kiko Estrada, Sarah Labahti, and Gardo Versoza.</desc>
     <date>2025-11-18</date>
@@ -773,132 +713,147 @@
     <desc>An episodic TV series touching on various kinds of love stories based on modern hits and classics from Viva Records.</desc>
     <date>2025-11-18</date>
   </programme>
-  <programme channel="322467" start="20251119000000 -0400" stop="20251120000000 -0400">
+  <programme channel="322467" start="20251119000000 -0400" stop="20251119003000 -0400">
     <title lang="zh">Lumuhod ka sa Lupa Bagong Yugto ep 83</title>
     <desc>The saga continues in the second season/installment of the classic Carlo J. Caparas' adaptation. Stars Kiko Estrada, Sarah Labahti, and Gardo Versoza.</desc>
     <date>2025-11-19</date>
   </programme>
-<programme channel="322511" start="20251117000000 -0400" stop="20251117010000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119003000 -0400" stop="20251119010000 -0400">
+    <title lang="zh">Lumuhod ka sa Lupa Bagong Yugto ep 84</title>
+    <desc>The saga continues in the second season/installment of the classic Carlo J. Caparas' adaptation. Stars Kiko Estrada, Sarah Labahti, and Gardo Versoza.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117010000 -0400" stop="20251117020000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119010000 -0400" stop="20251119020000 -0400">
+    <title lang="zh">Minsan Pa Natin Hagkan ang Nakaraan ep 61</title>
+    <desc>A woman who was severely broken by her greatest love finds love again in an older man who did everything to put her back together. Just when she thought her life is finally back to normal, her greatest love comes back, determined to work for her forgiveness and win her back—even if it means breaking her family apart.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117020000 -0400" stop="20251117030000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119020000 -0400" stop="20251119030000 -0400">
+    <title lang="zh">Totoy Bato ep 141</title>
+    <desc>Totoy Bato explores the origins, the pathos of the character Totoy. All the different battle he went through (terrorist, revenge for his wife, corruption, prejudice and for love) defines him as a character.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117030000 -0400" stop="20251117040000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119030000 -0400" stop="20251119033000 -0400">
+    <title lang="zh">Para sa Isa't Isa ep 10</title>
+    <desc>Zion gets another shot at repairing his relationship with his wife, Erin by a wish on a well to go back in time. But he finds Erin not knowing him at all. He must now correct his mistakes and make her fall in love with him again.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117040000 -0400" stop="20251117050000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119033000 -0400" stop="20251119040000 -0400">
+    <title lang="zh">Mga Kwentong Epik: Maria Makiling ep 5</title>
+    <desc>Live action series of original Epik superheroes and comic book characters.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117050000 -0400" stop="20251117060000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119040000 -0400" stop="20251119050000 -0400">
+    <title lang="zh">Da Pers Family ep 27</title>
+    <desc>A story of a couple who preserves the family \nbakery business legacy from closure. Now the \ncouple’s children, volunteers to step in and help the \nbusiness. Are the parents willing to accept change \nand innovations of the new generation?</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117060000 -0400" stop="20251117070000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119050000 -0400" stop="20251119060000 -0400">
+    <title lang="zh">Beh Buti Nga ep 10</title>
+    <desc>After making a fortune from Bitcoin, Axel gets back at the girls who once broke his heart. When he succeeds, he makes it a mission to help his high school barkada to become confident heartbreakers. However, things take a turn when Isabelle their only female friend in high school starts forming a bond with Axel and he falls in love with her for real.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117070000 -0400" stop="20251117080000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119060000 -0400" stop="20251119070000 -0400">
+    <title lang="zh">Destiny Guard ep 10</title>
+    <desc>Angels of destiny work as security guards, matching people with their soul mates and making sure they end up together. But what if a female guard falls in love with a man under her watch?</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117080000 -0400" stop="20251117090000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119070000 -0400" stop="20251119080000 -0400">
+    <title lang="zh">Totoy Bato ep 142</title>
+    <desc>Totoy Bato explores the origins, the pathos of the character Totoy. All the different battle he went through (terrorist, revenge for his wife, corruption, prejudice and for love) defines him as a character.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117090000 -0400" stop="20251117100000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119080000 -0400" stop="20251119090000 -0400">
+    <title lang="zh">Minsan Pa Natin Hagkan ang Nakaraan ep 62</title>
+    <desc>A woman who was severely broken by her greatest love finds love again in an older man who did everything to put her back together. Just when she thought her life is finally back to normal, her greatest love comes back, determined to work for her forgiveness and win her back—even if it means breaking her family apart.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117100000 -0400" stop="20251117110000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119090000 -0400" stop="20251119100000 -0400">
+    <title lang="zh">From the Beautiful Country ep 1</title>
+    <desc>A Sari-Sari original series. Four beauty pageant contestants find themselves prime suspects when another contestant winds up dead. Each girl has her motive, but which one of them did it? And which one will end up with the crown?</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117110000 -0400" stop="20251117120000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119100000 -0400" stop="20251119103000 -0400">
+    <title lang="zh">Para sa Isa't Isa ep 10</title>
+    <desc>Zion gets another shot at repairing his relationship with his wife, Erin by a wish on a well to go back in time. But he finds Erin not knowing him at all. He must now correct his mistakes and make her fall in love with him again.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117120000 -0400" stop="20251117130000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119103000 -0400" stop="20251119110000 -0400">
+    <title lang="zh">Mga Kwentong Epik: Maria Makiling ep 5</title>
+    <desc>Live action series of original Epik superheroes and comic book characters.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117130000 -0400" stop="20251117140000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119110000 -0400" stop="20251119120000 -0400">
+    <title lang="zh">Minsan Pa Natin Hagkan ang Nakaraan ep 62</title>
+    <desc>A woman who was severely broken by her greatest love finds love again in an older man who did everything to put her back together. Just when she thought her life is finally back to normal, her greatest love comes back, determined to work for her forgiveness and win her back—even if it means breaking her family apart.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117140000 -0400" stop="20251117150000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119120000 -0400" stop="20251119130000 -0400">
+    <title lang="zh">Totoy Bato ep 142</title>
+    <desc>Totoy Bato explores the origins, the pathos of the character Totoy. All the different battle he went through (terrorist, revenge for his wife, corruption, prejudice and for love) defines him as a character.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117150000 -0400" stop="20251117160000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119130000 -0400" stop="20251119140000 -0400">
+    <title lang="zh">The Mysterious Case of Ana Madrigal ep 9</title>
+    <desc>Christine, an up and coming investigative journalist (Maui Taylor) is hot on the trail of a cold case for her new television show. This cold case is close to her heart because the victim happens to be her estranged half sister, Ana Madrigal. Together with her TV crew, Christine attempts to uncover the truth behind what really happened on the night of her sister's death - even if it kills her.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117160000 -0400" stop="20251117170000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119140000 -0400" stop="20251119150000 -0400">
+    <title lang="zh">Destiny Guard ep 10</title>
+    <desc>Angels of destiny work as security guards, matching people with their soul mates and making sure they end up together. But what if a female guard falls in love with a man under her watch?</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117170000 -0400" stop="20251117180000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119150000 -0400" stop="20251119160000 -0400">
+    <title lang="zh">Minsan Pa Natin Hagkan ang Nakaraan ep 62</title>
+    <desc>A woman who was severely broken by her greatest love finds love again in an older man who did everything to put her back together. Just when she thought her life is finally back to normal, her greatest love comes back, determined to work for her forgiveness and win her back—even if it means breaking her family apart.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117180000 -0400" stop="20251117190000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119160000 -0400" stop="20251119170000 -0400">
+    <title lang="zh">Totoy Bato ep 142</title>
+    <desc>Totoy Bato explores the origins, the pathos of the character Totoy. All the different battle he went through (terrorist, revenge for his wife, corruption, prejudice and for love) defines him as a character.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117190000 -0400" stop="20251117200000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119170000 -0400" stop="20251119190000 -0400">
+    <title lang="zh">Sari Saring Sine: Hindi Pa Tapos ang Laban</title>
+    <desc>Fernando Poe Jr. stars as Carding Villamar, a city professional who returns to their hometown of Evangelista after learning of his brother's untimely demise. As a series of events unfold, he soon discovers that his brother didn't succumb to a heart attack as he was made to believe. He was shot in cold blood for refusing to sell his land to a powerful congressman. With a town muted and crippled by </desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117200000 -0400" stop="20251117210000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119190000 -0400" stop="20251119200000 -0400">
+    <title lang="zh">Minsan Pa Natin Hagkan ang Nakaraan ep 62</title>
+    <desc>A woman who was severely broken by her greatest love finds love again in an older man who did everything to put her back together. Just when she thought her life is finally back to normal, her greatest love comes back, determined to work for her forgiveness and win her back—even if it means breaking her family apart.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117210000 -0400" stop="20251117220000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119200000 -0400" stop="20251119210000 -0400">
+    <title lang="zh">Totoy Bato ep 142</title>
+    <desc>Totoy Bato explores the origins, the pathos of the character Totoy. All the different battle he went through (terrorist, revenge for his wife, corruption, prejudice and for love) defines him as a character.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117220000 -0400" stop="20251117230000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119210000 -0400" stop="20251119220000 -0400">
+    <title lang="zh">Da Pers Family ep 27</title>
+    <desc>A story of a couple who preserves the family \nbakery business legacy from closure. Now the \ncouple’s children, volunteers to step in and help the \nbusiness. Are the parents willing to accept change \nand innovations of the new generation?</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251117230000 -0400" stop="20251118000000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322467" start="20251119220000 -0400" stop="20251119223000 -0400">
+    <title lang="zh">Para sa Isa't Isa ep 10</title>
+    <desc>Zion gets another shot at repairing his relationship with his wife, Erin by a wish on a well to go back in time. But he finds Erin not knowing him at all. He must now correct his mistakes and make her fall in love with him again.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322511" start="20251118000000 -0400" stop="20251118010000 -0400">
+  <programme channel="322467" start="20251119223000 -0400" stop="20251119230000 -0400">
+    <title lang="zh">Mga Kwentong Epik: Maria Makiling ep 5</title>
+    <desc>Live action series of original Epik superheroes and comic book characters.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322467" start="20251119230000 -0400" stop="20251120000000 -0400">
+    <title lang="zh">Afterlife ep 5</title>
+    <desc>Peter, a deceased Filipino-Chinese businessman, returns as a ghost and is bonded to Romy, a Filipino caretaker of a Chinese temple. He sets out to let his family know the whole truth through Romy.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322467" start="20251120000000 -0400" stop="20251121000000 -0400">
+    <title lang="zh">Lumuhod ka sa Lupa Bagong Yugto ep 85</title>
+    <desc>The saga continues in the second season/installment of the classic Carlo J. Caparas' adaptation. Stars Kiko Estrada, Sarah Labahti, and Gardo Versoza.</desc>
+    <date>2025-11-20</date>
+  </programme>
+<programme channel="322511" start="20251118000000 -0400" stop="20251118010000 -0400">
     <title lang="zh">To Be Announced</title>
     <desc>Program information is not yet available.</desc>
     <date>2025-11-18</date>
@@ -1028,132 +983,182 @@
     <desc />
     <date>2025-11-18</date>
   </programme>
-  <programme channel="322511" start="20251119000000 -0400" stop="20251120000000 -0400">
+  <programme channel="322511" start="20251119000000 -0400" stop="20251119010000 -0400">
     <title lang="zh">Long Conversation</title>
     <desc />
     <date>2025-11-19</date>
   </programme>
-<programme channel="322493" start="20251117000000 -0400" stop="20251117010000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119010000 -0400" stop="20251119020000 -0400">
+    <title lang="zh">LIVE Afternoon Delight</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117010000 -0400" stop="20251117020000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119020000 -0400" stop="20251119030000 -0400">
+    <title lang="zh">Presello</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117020000 -0400" stop="20251117030000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119030000 -0400" stop="20251119040000 -0400">
+    <title lang="zh">LIVE Storycon</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117030000 -0400" stop="20251117040000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119040000 -0400" stop="20251119050000 -0400">
+    <title lang="zh">Woman In Action</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117040000 -0400" stop="20251117050000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119050000 -0400" stop="20251119051500 -0400">
+    <title lang="zh">Probe Archives</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117050000 -0400" stop="20251117060000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119051500 -0400" stop="20251119053000 -0400">
+    <title lang="zh">Story of Our Islands</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117060000 -0400" stop="20251117070000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119053000 -0400" stop="20251119060000 -0400">
+    <title lang="zh">LIVE Starting Lineup</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117070000 -0400" stop="20251117080000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119060000 -0400" stop="20251119063000 -0400">
+    <title lang="zh">The Long Take</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117080000 -0400" stop="20251117090000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119063000 -0400" stop="20251119073000 -0400">
+    <title lang="zh">LIVE The Big Story</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117090000 -0400" stop="20251117100000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119073000 -0400" stop="20251119080000 -0400">
+    <title lang="zh">LIVE Play by Play</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117100000 -0400" stop="20251117110000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119080000 -0400" stop="20251119090000 -0400">
+    <title lang="zh">Long Conversation</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117110000 -0400" stop="20251117120000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119090000 -0400" stop="20251119093000 -0400">
+    <title lang="zh">Chronicles</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117120000 -0400" stop="20251117130000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119093000 -0400" stop="20251119100000 -0400">
+    <title lang="zh">The Big Story</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117130000 -0400" stop="20251117140000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119100000 -0400" stop="20251119110000 -0400">
+    <title lang="zh">Afternoon Delight</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117140000 -0400" stop="20251117150000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119110000 -0400" stop="20251119120000 -0400">
+    <title lang="zh">Storycon</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117150000 -0400" stop="20251117160000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119120000 -0400" stop="20251119130000 -0400">
+    <title lang="zh">Long Conversation</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117160000 -0400" stop="20251117170000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119130000 -0400" stop="20251119133000 -0400">
+    <title lang="zh">Changemakers</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117170000 -0400" stop="20251117180000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119133000 -0400" stop="20251119140000 -0400">
+    <title lang="zh">Sa INC</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117180000 -0400" stop="20251117190000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119140000 -0400" stop="20251119143000 -0400">
+    <title lang="zh">Go Local</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117190000 -0400" stop="20251117200000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119143000 -0400" stop="20251119150000 -0400">
+    <title lang="zh">Mombiz</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117200000 -0400" stop="20251117210000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119150000 -0400" stop="20251119153000 -0400">
+    <title lang="zh">Ride PH</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117210000 -0400" stop="20251117220000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119153000 -0400" stop="20251119163000 -0400">
+    <title lang="zh">Presello</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117220000 -0400" stop="20251117230000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119163000 -0400" stop="20251119173000 -0400">
+    <title lang="zh">Discovereats</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251117230000 -0400" stop="20251118000000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322511" start="20251119173000 -0400" stop="20251119180000 -0400">
+    <title lang="zh">Chronicles</title>
+    <desc />
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322493" start="20251118000000 -0400" stop="20251118010000 -0400">
+  <programme channel="322511" start="20251119180000 -0400" stop="20251119190000 -0400">
+    <title lang="zh">Woman In Action</title>
+    <desc />
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322511" start="20251119190000 -0400" stop="20251119200000 -0400">
+    <title lang="zh">LIVE Morning Matters</title>
+    <desc />
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322511" start="20251119200000 -0400" stop="20251119203000 -0400">
+    <title lang="zh">Play By Play</title>
+    <desc />
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322511" start="20251119203000 -0400" stop="20251119210000 -0400">
+    <title lang="zh">LIVE Money Talks</title>
+    <desc />
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322511" start="20251119210000 -0400" stop="20251119220000 -0400">
+    <title lang="zh">LIVE News and Views</title>
+    <desc />
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322511" start="20251119220000 -0400" stop="20251119221500 -0400">
+    <title lang="zh">Probe Archives</title>
+    <desc />
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322511" start="20251119221500 -0400" stop="20251119223000 -0400">
+    <title lang="zh">Abuhan</title>
+    <desc />
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322511" start="20251119223000 -0400" stop="20251119230000 -0400">
+    <title lang="zh">Morning Matters</title>
+    <desc />
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322511" start="20251119230000 -0400" stop="20251120000000 -0400">
+    <title lang="zh">LIVE One Balita Pilipinas Noon</title>
+    <desc />
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322511" start="20251120000000 -0400" stop="20251121000000 -0400">
+    <title lang="zh">Long Conversation</title>
+    <desc />
+    <date>2025-11-20</date>
+  </programme>
+<programme channel="322493" start="20251118000000 -0400" stop="20251118010000 -0400">
     <title lang="zh">To Be Announced</title>
     <desc>Program information is not yet available.</desc>
     <date>2025-11-18</date>
@@ -1273,72 +1278,132 @@
     <desc>Program information is not yet available.</desc>
     <date>2025-11-18</date>
   </programme>
-  <programme channel="322493" start="20251119000000 -0400" stop="20251120000000 -0400">
+  <programme channel="322493" start="20251119000000 -0400" stop="20251119010000 -0400">
     <title lang="zh">To Be Announced</title>
     <desc>Program information is not yet available.</desc>
     <date>2025-11-19</date>
   </programme>
-<programme channel="322466" start="20251117010000 -0400" stop="20251117031500 -0400">
-    <title lang="zh">Aso't Pusa (Digitally Enhanced)</title>
-    <desc>Pamboy (Tito Sotto) risked being beaten to a pulp by Osang's father each time he came to defend the girl. He tried to convince to leave, but Osang  (Aiza Seguerra) continued to show her love for her father even after he went into jail.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322493" start="20251119010000 -0400" stop="20251119020000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322466" start="20251117031500 -0400" stop="20251117050000 -0400">
-    <title lang="zh">Silang Mga Sisiw Sa Lansangan</title>
-    <desc>Four kids stow away from home and became streetchildren. A philantrophist adopted them and treated them as his family until they were held hostages. The kidnapping became news headline which eventually made their parents to know their where-abouts.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322493" start="20251119020000 -0400" stop="20251119030000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322466" start="20251117050000 -0400" stop="20251117070000 -0400">
-    <title lang="zh">Gagay, Prinsesa Ng Brownout</title>
-    <desc>This is the Cinderella story for the brown-out plagued generation of this country. Gagay and her family gathered wood which they made into coal. Though they were poor, they already saw some improvement in their lives.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322493" start="20251119030000 -0400" stop="20251119040000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322466" start="20251117070000 -0400" stop="20251117091500 -0400">
-    <title lang="zh">Alabok Sa Ulap (Digitally Enhanced)</title>
-    <desc>Winston is smitten with Eva's beauty and decides to pursue her without knowing that Dom is secretly in love with her. But for how long will Dom be able to conceal the love that he is keeping deep inside of him?</desc>
-    <date>2025-11-17</date>
+  <programme channel="322493" start="20251119040000 -0400" stop="20251119050000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322466" start="20251117091500 -0400" stop="20251117111500 -0400">
-    <title lang="zh">P.S. I Love You</title>
-    <desc>A failed romance in the past between her mother and his father threatened the budding relationship between Sharon and Gabby, in this film, which was the very first movie produced by Viva Films.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322493" start="20251119050000 -0400" stop="20251119060000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322466" start="20251117111500 -0400" stop="20251117123000 -0400">
-    <title lang="zh">Blondie</title>
-    <desc>Lorna (Ilonah Jean) and her friends are gripped in fear as a serial killer is on the loose.  But a pattern soon emerges.  The victims are all men and a girl in blood wig is seen fleeing the scene of the crime.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322493" start="20251119060000 -0400" stop="20251119070000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322466" start="20251117123000 -0400" stop="20251117143000 -0400">
-    <title lang="zh">Bakit May Pag-Ibig Pa?</title>
-    <desc>The movie is divided into two episodes; the first half tells the story of a spirited ex nun and a dispirited architect. The second half tells another chance between two former lovers.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322493" start="20251119070000 -0400" stop="20251119080000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322466" start="20251117143000 -0400" stop="20251117163000 -0400">
-    <title lang="zh">Sa Isang Sulok Ng Mga Pangarap</title>
-    <desc>Alice Dixson turned in two powerful performances as the young woman forced into plastic surgery and as the wife she was made to resemble who got hold of her husband's (Ariel Rivera) money and then ran off with her lover.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322493" start="20251119080000 -0400" stop="20251119090000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322466" start="20251117163000 -0400" stop="20251117183000 -0400">
-    <title lang="zh">Silang Mga Sisiw Sa Lansangan</title>
-    <desc>Four kids stow away from home and became streetchildren. A philantrophist adopted them and treated them as his family until they were held hostages. The kidnapping became news headline which eventually made their parents to know their where-abouts.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322493" start="20251119090000 -0400" stop="20251119100000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322466" start="20251117183000 -0400" stop="20251117203000 -0400">
-    <title lang="zh">Tag-Araw, Tag-Ulan</title>
-    <desc>A woman who was running away from the pain of a broken love affair. A young man who was looking forward to a fun-filled summer and his first sex experience.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322493" start="20251119100000 -0400" stop="20251119110000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322466" start="20251117203000 -0400" stop="20251117224500 -0400">
-    <title lang="zh">Hindi Pa Tapos Ang Laban</title>
-    <desc>In a world where the most corrupt are the most powerful, is there a room a good man’s quest for justice to succeed? The undisputed King of Action takes on the role of a modern day crusader in this exciting, action packed movie that pits the powers of goodness against the forces of evil.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322493" start="20251119110000 -0400" stop="20251119120000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322466" start="20251117224500 -0400" stop="20251118000000 -0400">
-    <title lang="zh">Bala Ko Ang Hahatol</title>
-    <desc>Gino (Robin Padilla) kills Rudy (Rey PJ Abellana) and brings Rudy's wife Cristina (Nina Sara) to his boss. Still not in her right mind, Cristina re-enacts her traumatic experience and kills the man in the process.</desc>
-    <date>2025-11-17</date>
+  <programme channel="322493" start="20251119120000 -0400" stop="20251119130000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
   </programme>
-  <programme channel="322466" start="20251118003000 -0400" stop="20251118024500 -0400">
+  <programme channel="322493" start="20251119130000 -0400" stop="20251119140000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322493" start="20251119140000 -0400" stop="20251119150000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322493" start="20251119150000 -0400" stop="20251119160000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322493" start="20251119160000 -0400" stop="20251119170000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322493" start="20251119170000 -0400" stop="20251119180000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322493" start="20251119180000 -0400" stop="20251119190000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322493" start="20251119190000 -0400" stop="20251119200000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322493" start="20251119200000 -0400" stop="20251119210000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322493" start="20251119210000 -0400" stop="20251119220000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322493" start="20251119220000 -0400" stop="20251119230000 -0400">
+    <title lang="zh">Face to Face Harapan</title>
+    <desc />
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322493" start="20251119230000 -0400" stop="20251120000000 -0400">
+    <title lang="zh">LIVE One Balita Pilipinas Noon</title>
+    <desc />
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322493" start="20251120000000 -0400" stop="20251121000000 -0400">
+    <title lang="zh">LIVE Cristy Ferminute</title>
+    <desc />
+    <date>2025-11-20</date>
+  </programme>
+<programme channel="322466" start="20251118003000 -0400" stop="20251118024500 -0400">
     <title lang="zh">Erpat Kong Forgets</title>
     <desc>What happens when Dad exchanges lifestyle with his son? Join Ariel (Aga Muhlach) and his widowed Erpat (Eddie Garcia) in this riot of a comedy on young and not so-young love.</desc>
     <date>2025-11-18</date>
@@ -1397,5 +1462,65 @@
     <title lang="zh">Darna (Digitlly Enhanced)</title>
     <desc>Darna, the most beloved of Filipino superheroes, entered the era of the 90's as a quiet, bespectacled girl reporter. She defended the good against the many evil forces, which were lurking in the big city.</desc>
     <date>2025-11-18</date>
+  </programme>
+  <programme channel="322466" start="20251119010000 -0400" stop="20251119030000 -0400">
+    <title lang="zh">Mahirap Maging Pogi (Digitally Enhanced)</title>
+    <desc>Perding Pogi (Andrew E.) is sought after by every woman in their neighborhood. Running away from all the girls who are dying to be his wife, he decides to look for his cousin Dodong Boogie (Dennis Padilla) in Manila.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322466" start="20251119030000 -0400" stop="20251119050000 -0400">
+    <title lang="zh">Baby Paterno (Dugong Pulis)</title>
+    <desc>Baby Paterno (Roi Vinzon) comes from a well to do family. He is a womanizer and a partygoer who always ends up in trouble. Later on, he proves to be a good law enforcer. He tries to uncover serious crimes only to find out that the head of the syndicate is his superior.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322466" start="20251119050000 -0400" stop="20251119070000 -0400">
+    <title lang="zh">Chick Boy</title>
+    <desc>Stars in this comedy about university students living in the fast lane though they cannot afford to. They find work as helpers to a rich woman with three beautiful nieces. Of course they turn on the charm for the girls and their aunt.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322466" start="20251119070000 -0400" stop="20251119090000 -0400">
+    <title lang="zh">Ang Misis Kong Hoodlum</title>
+    <desc>When Andy marries Grace, he is surprised to discover that her family are staying with them. Andy becomes the \"house-band\" and serves his wife and her family.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322466" start="20251119090000 -0400" stop="20251119110000 -0400">
+    <title lang="zh">Beloved (Digitally Enhanced)</title>
+    <desc>Friendship took a violent turn when Nora Aunor found herself a pawn in the intriguing games, being played by her close friend and employer, Hilda Koronel. How far would the bounds of friendship go?</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322466" start="20251119110000 -0400" stop="20251119130000 -0400">
+    <title lang="zh">Burlesk Queen</title>
+    <desc>One of the classics of Philippine cinema wherein screen ingenue Vilma Santos made her transition into matured actress. Into this world came the young girl who becomes its last shining star. But as her presence brought life into the old art, her own existence is endangered by the decaying surroundings.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322466" start="20251119130000 -0400" stop="20251119150000 -0400">
+    <title lang="zh">Tayong Dalawa</title>
+    <desc>Sharon Cuneta teamed up with Gabby Concepcion in what is considered their best work together. Her coming to terms with her new, free lifestyle and how she cope with his former girlfriend, who refused to let him go is the gist of the movie.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322466" start="20251119150000 -0400" stop="20251119170000 -0400">
+    <title lang="zh">Nananabik</title>
+    <desc>Newlywed Dan (Ricky Belmonte) goes on an overseas trip where he becomes unwittingly involved with a crime syndicate. Meanwhile, with no word from him, his wife Nerissa (Didith Reyes) goes back to her old job and acquires herself a new boyfriend to fulfill her needs. What will happen when Dan finally comes back?</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322466" start="20251119170000 -0400" stop="20251119190000 -0400">
+    <title lang="zh">Kumukulong Dugo</title>
+    <desc />
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322466" start="20251119190000 -0400" stop="20251119210000 -0400">
+    <title lang="zh">Forever</title>
+    <desc>Mikee had led a charmed life. Now she was engaged to marry the man who was considered by her rich parents as the most suitable for their daughter. But Mikee wanted more out of life.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322466" start="20251119210000 -0400" stop="20251119230000 -0400">
+    <title lang="zh">Eseng Ng Tondo</title>
+    <desc>FPJ played Eseng 45, a Manila policeman known for his proficiency with the 45 caliber gun. He was also known to be an honest and dedicated cop, the nemesis of evil in the crime-ridden area of Tondo.</desc>
+    <date>2025-11-19</date>
+  </programme>
+  <programme channel="322466" start="20251119230000 -0400" stop="20251120000000 -0400">
+    <title lang="zh">Gabi Na Kumander (Digitally Enhanced)</title>
+    <desc>Gabi Na Kumander is the story of two brothers with opposite beliefs who suddenly find themselves in a fight for what each one believes is right.</desc>
+    <date>2025-11-19</date>
   </programme>
 </tv>
