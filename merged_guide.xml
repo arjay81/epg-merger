@@ -19,141 +19,6 @@
     <display-name lang="Philippines">Viva</display-name>
     <icon src="" />
   </channel>
-  <programme channel="412143" start="20260129013000 -0400" stop="20260129020000 -0400">
-    <title lang="zh">Radyo Patrol Balita</title>
-    <desc>Radyo Patrol Balita focuses on delivering the latest news, breaking events, and important issues that matter to you.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129020000 -0400" stop="20260129030000 -0400">
-    <title lang="zh">Tandem Ng Bayan</title>
-    <desc>Tandem Ng Bayan brings you discussions on the day's top news stories, providing analysis and engaging in commentary on political as well as social issues.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129030000 -0400" stop="20260129040000 -0400">
-    <title lang="zh">Magandang Buhay</title>
-    <desc>"Momshies" Jolina Magdangal, Melai Cantiveros, and Regine Velasquez kick off the day with good vibes as they share a chat with celebrities on topics easily relatable to Filipino families.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129040000 -0400" stop="20260129043000 -0400">
-    <title lang="zh">Goin' Bulilit S15</title>
-    <desc>This comical spin-off of the 80s comedy programme Goin' Bananas is currently the Philippines' most successful children's comedy show, created and directed by one of Goin' Bananas' original stars, Bobot Mortiz.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129043000 -0400" stop="20260129044500 -0400">
-    <title lang="zh">TV Patrol Express Live</title>
-    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129044500 -0400" stop="20260129053000 -0400">
-    <title lang="zh">BRGY S4</title>
-    <desc>BRGY features interesting and humorous stories about Filipinos and businesses in North America.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129053000 -0400" stop="20260129070000 -0400">
-    <title lang="zh">TV Patrol Live</title>
-    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129070000 -0400" stop="20260129074500 -0400">
-    <title lang="zh">FPJ's Batang Quiapo</title>
-    <desc>A young man rises to be one of the biggest outlaws in the neighbourhood while he navigates his way in life to survive in Quiapo. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129074500 -0400" stop="20260129083000 -0400">
-    <title lang="zh">Roja</title>
-    <desc>A paradise like no other - La Playa Roja is your ultimate escape! But behind its beauty lies danger, and soon, you'll see RED. Are you ready for the fight to survive?</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129083000 -0400" stop="20260129091500 -0400">
-    <title lang="zh">What Lies Beneath</title>
-    <desc>The lives of four individuals are turned upside down after they witness the murder of their friend. They band together to put the alleged killer behind bars, but years later, the imprisoned man seeks revenge, unraveling dark secrets that test their loyalty and survival.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129091500 -0400" stop="20260129111500 -0400">
-    <title lang="zh">It's Showtime</title>
-    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129111500 -0400" stop="20260129115500 -0400">
-    <title lang="zh">Goin' Bulilit S15</title>
-    <desc>This comical spin-off of the 80s comedy programme Goin' Bananas is currently the Philippines' most successful children's comedy show, created and directed by one of Goin' Bananas' original stars, Bobot Mortiz.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129115500 -0400" stop="20260129123000 -0400">
-    <title lang="zh">Lavender Fields</title>
-    <desc>The life of a simple flower farm girl is shattered when she falls for a charming accountant, who turns out to be a married gun cartel member. Targeted for his stolen money, she loses everything she holds dear and reinvents herself to seek justice.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129123000 -0400" stop="20260129131000 -0400">
-    <title lang="zh">FPJ's Batang Quiapo</title>
-    <desc>A young man rises to be one of the biggest outlaws in the neighbourhood while he navigates his way in life to survive in Quiapo. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129131000 -0400" stop="20260129135000 -0400">
-    <title lang="zh">Roja</title>
-    <desc>A paradise like no other - La Playa Roja is your ultimate escape! But behind its beauty lies danger, and soon, you'll see RED. Are you ready for the fight to survive?</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129135000 -0400" stop="20260129143000 -0400">
-    <title lang="zh">What Lies Beneath</title>
-    <desc>The lives of four individuals are turned upside down after they witness the murder of their friend. They band together to put the alleged killer behind bars, but years later, the imprisoned man seeks revenge, unraveling dark secrets that test their loyalty and survival.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129143000 -0400" stop="20260129150000 -0400">
-    <title lang="zh">Pamilya Sagrado</title>
-    <desc>Being a prominent political clan, the Sagrados want nothing but to keep their name faultless and sacred, until a controversial incident comes their way.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129150000 -0400" stop="20260129163000 -0400">
-    <title lang="zh">TV Patrol Global Edition</title>
-    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129163000 -0400" stop="20260129183000 -0400">
-    <title lang="zh">Tia Madre</title>
-    <desc>When a young girl suffers abuse at home, she becomes convinced that an "engkanto" has taken the place of her hostile mother.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129183000 -0400" stop="20260129190000 -0400">
-    <title lang="zh">Lavender Fields</title>
-    <desc>The life of a simple flower farm girl is shattered when she falls for a charming accountant, who turns out to be a married gun cartel member. Targeted for his stolen money, she loses everything she holds dear and reinvents herself to seek justice.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129190000 -0400" stop="20260129193000 -0400">
-    <title lang="zh">Pamilya Sagrado</title>
-    <desc>Being a prominent political clan, the Sagrados want nothing but to keep their name faultless and sacred, until a controversial incident comes their way.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129193000 -0400" stop="20260129200000 -0400">
-    <title lang="zh">Ngayon At Kailanman</title>
-    <desc>Eva fights to reclaim her place in the wealthy Cortes family while searching for the truth about her identity. Fate brings her together with Inno, and their love story endures family secrets, rivalry and tragedy as they discover the real meaning of forgiveness and redemption.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129200000 -0400" stop="20260129203000 -0400">
-    <title lang="zh">BRGY S4</title>
-    <desc>BRGY features interesting and humorous stories about Filipinos and businesses in North America.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129203000 -0400" stop="20260129210000 -0400">
-    <title lang="zh">TFC Kids Zone</title>
-    <desc>A programme block filled with animated short stories, nursery rhymes and songs, as well as Filipino language lessons, TFC Kids' Zone promises a rich treasure trove of learning and discovery that parents and their young ones will find enriching and empowering.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129210000 -0400" stop="20260129213000 -0400">
-    <title lang="zh">Kapamilya Daily Mass</title>
-    <desc>A daily celebration of the Liturgy of the Lord.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129213000 -0400" stop="20260129230000 -0400">
-    <title lang="zh">Gising Pilipinas</title>
-    <desc>Spice up your morning with a rousing round-up of the biggest news stories and live reports from field correspondents.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="412143" start="20260129230000 -0400" stop="20260130000000 -0400">
-    <title lang="zh">It's Showtime LIVE</title>
-    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
-    <date>2026-01-29</date>
-  </programme>
   <programme channel="412143" start="20260130013000 -0400" stop="20260130020000 -0400">
     <title lang="zh">Radyo Patrol Balita</title>
     <desc>Radyo Patrol Balita focuses on delivering the latest news, breaking events, and important issues that matter to you.</desc>
@@ -209,132 +74,7 @@
     <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
     <date>2026-01-30</date>
   </programme>
-<programme channel="322467" start="20260129000000 -0400" stop="20260129003000 -0400">
-    <title lang="zh">Lumuhod ka sa Lupa Bagong Yugto ep 201</title>
-    <desc>The saga continues in the second season/installment of the classic Carlo J. Caparas' adaptation. Stars Kiko Estrada, Sarah Labahti, and Gardo Versoza.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129003000 -0400" stop="20260129010000 -0400">
-    <title lang="zh">Lumuhod ka sa Lupa Bagong Yugto ep 202</title>
-    <desc>The saga continues in the second season/installment of the classic Carlo J. Caparas' adaptation. Stars Kiko Estrada, Sarah Labahti, and Gardo Versoza.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129010000 -0400" stop="20260129020000 -0400">
-    <title lang="zh">Minsan Pa Natin Hagkan ang Nakaraan ep 47</title>
-    <desc>A woman who was severely broken by her greatest love finds love again in an older man who did everything to put her back together. Just when she thought her life is finally back to normal, her greatest love comes back, determined to work for her forgiveness and win her back—even if it means breaking her family apart.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129020000 -0400" stop="20260129030000 -0400">
-    <title lang="zh">Totoy Bato ep 192</title>
-    <desc>Totoy Bato explores the origins, the pathos of the character Totoy. All the different battle he went through (terrorist, revenge for his wife, corruption, prejudice and for love) defines him as a character.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129030000 -0400" stop="20260129040000 -0400">
-    <title lang="zh">Di na Muli ep 4</title>
-    <desc>‘Di Na Muli tells the story of a young woman who tries to overcome her \nlife's biggest regret (complicated by her special ability to see how much \ntime remains of someone’s life) but ends up falling in love with the man \nwho caused the death of her one great lov.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129040000 -0400" stop="20260129043000 -0400">
-    <title lang="zh">Para sa Isa't Isa ep 20</title>
-    <desc>Zion gets another shot at repairing his relationship with his wife, Erin by a wish on a well to go back in time. But he finds Erin not knowing him at all. He must now correct his mistakes and make her fall in love with him again.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129043000 -0400" stop="20260129050000 -0400">
-    <title lang="zh">Mga Kwentong Epik: Osyana ep 3</title>
-    <desc>Live action series of original Epik superheroes and comic book characters.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129050000 -0400" stop="20260129060000 -0400">
-    <title lang="zh">Ghost Adventures S1 ep 3</title>
-    <desc>A clairvoyant repairman fearful of ghosts is forced to help them cross over so they can leave him in peace. On his journey of helping these ghosts with their unfinished businesses, he ends up getting into trouble with their families, friends and the community they are all living in. Will he be able to get these ghosts and their love ones, at the same time face his fear of them?</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129060000 -0400" stop="20260129070000 -0400">
-    <title lang="zh">Afterlife ep 7</title>
-    <desc>Peter, a deceased Filipino-Chinese businessman, returns as a ghost and is bonded to Romy, a Filipino caretaker of a Chinese temple. He sets out to let his family know the whole truth through Romy.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129070000 -0400" stop="20260129080000 -0400">
-    <title lang="zh">Totoy Bato ep 193</title>
-    <desc>Totoy Bato explores the origins, the pathos of the character Totoy. All the different battle he went through (terrorist, revenge for his wife, corruption, prejudice and for love) defines him as a character.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129080000 -0400" stop="20260129090000 -0400">
-    <title lang="zh">Minsan Pa Natin Hagkan ang Nakaraan ep 48</title>
-    <desc>A woman who was severely broken by her greatest love finds love again in an older man who did everything to put her back together. Just when she thought her life is finally back to normal, her greatest love comes back, determined to work for her forgiveness and win her back—even if it means breaking her family apart.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129090000 -0400" stop="20260129110000 -0400">
-    <title lang="zh">Sari Saring Sine: Pik Pak Boom</title>
-    <desc>Pik Pak Boom is a 1988 Filipino anthology comedy film directed by Leroy Salvador and starring Herbert Bautista, Lea Salonga, Lilet, Bing Loyzaga, Regine Velasquez, and Dingdong Avanzado. The film consists of two segments: \"Manyika\" (lit. 'Doll') and \"Banana Q\".</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129110000 -0400" stop="20260129120000 -0400">
-    <title lang="zh">Minsan Pa Natin Hagkan ang Nakaraan ep 48</title>
-    <desc>A woman who was severely broken by her greatest love finds love again in an older man who did everything to put her back together. Just when she thought her life is finally back to normal, her greatest love comes back, determined to work for her forgiveness and win her back—even if it means breaking her family apart.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129120000 -0400" stop="20260129130000 -0400">
-    <title lang="zh">Totoy Bato ep 193</title>
-    <desc>Totoy Bato explores the origins, the pathos of the character Totoy. All the different battle he went through (terrorist, revenge for his wife, corruption, prejudice and for love) defines him as a character.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129130000 -0400" stop="20260129140000 -0400">
-    <title lang="zh">Cuerpo Y Alma ep 1</title>
-    <desc>Maya, a young nurse who has been having terrifying nightmares finds out a horrifying truth about a debt that was made to save her life when she was a child. As she's about to find out, the payment just may cost her much more than her life.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129140000 -0400" stop="20260129150000 -0400">
-    <title lang="zh">Ghost Adventures S1 ep 3</title>
-    <desc>A clairvoyant repairman fearful of ghosts is forced to help them cross over so they can leave him in peace. On his journey of helping these ghosts with their unfinished businesses, he ends up getting into trouble with their families, friends and the community they are all living in. Will he be able to get these ghosts and their love ones, at the same time face his fear of them?</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129150000 -0400" stop="20260129160000 -0400">
-    <title lang="zh">Minsan Pa Natin Hagkan ang Nakaraan ep 48</title>
-    <desc>A woman who was severely broken by her greatest love finds love again in an older man who did everything to put her back together. Just when she thought her life is finally back to normal, her greatest love comes back, determined to work for her forgiveness and win her back—even if it means breaking her family apart.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129160000 -0400" stop="20260129170000 -0400">
-    <title lang="zh">Totoy Bato ep 193</title>
-    <desc>Totoy Bato explores the origins, the pathos of the character Totoy. All the different battle he went through (terrorist, revenge for his wife, corruption, prejudice and for love) defines him as a character.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129170000 -0400" stop="20260129173000 -0400">
-    <title lang="zh">Para sa Isa't Isa ep 20</title>
-    <desc>Zion gets another shot at repairing his relationship with his wife, Erin by a wish on a well to go back in time. But he finds Erin not knowing him at all. He must now correct his mistakes and make her fall in love with him again.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129173000 -0400" stop="20260129180000 -0400">
-    <title lang="zh">Mga Kwentong Epik: Osyana ep 3</title>
-    <desc>Live action series of original Epik superheroes and comic book characters.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129180000 -0400" stop="20260129190000 -0400">
-    <title lang="zh">Afterlife ep 7</title>
-    <desc>Peter, a deceased Filipino-Chinese businessman, returns as a ghost and is bonded to Romy, a Filipino caretaker of a Chinese temple. He sets out to let his family know the whole truth through Romy.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129190000 -0400" stop="20260129200000 -0400">
-    <title lang="zh">Minsan Pa Natin Hagkan ang Nakaraan ep 48</title>
-    <desc>A woman who was severely broken by her greatest love finds love again in an older man who did everything to put her back together. Just when she thought her life is finally back to normal, her greatest love comes back, determined to work for her forgiveness and win her back—even if it means breaking her family apart.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129200000 -0400" stop="20260129210000 -0400">
-    <title lang="zh">Totoy Bato ep 193</title>
-    <desc>Totoy Bato explores the origins, the pathos of the character Totoy. All the different battle he went through (terrorist, revenge for his wife, corruption, prejudice and for love) defines him as a character.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129210000 -0400" stop="20260129220000 -0400">
-    <title lang="zh">Beh Buti Nga ep 8</title>
-    <desc>After making a fortune from Bitcoin, Axel gets back at the girls who once broke his heart. When he succeeds, he makes it a mission to help his high school barkada to become confident heartbreakers. However, things take a turn when Isabelle their only female friend in high school starts forming a bond with Axel and he falls in love with her for real.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260129220000 -0400" stop="20260130000000 -0400">
-    <title lang="zh">Sari Saring Sine: Pik Pak Boom</title>
-    <desc>Pik Pak Boom is a 1988 Filipino anthology comedy film directed by Leroy Salvador and starring Herbert Bautista, Lea Salonga, Lilet, Bing Loyzaga, Regine Velasquez, and Dingdong Avanzado. The film consists of two segments: \"Manyika\" (lit. 'Doll') and \"Banana Q\".</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322467" start="20260130000000 -0400" stop="20260130003000 -0400">
+<programme channel="322467" start="20260130000000 -0400" stop="20260130003000 -0400">
     <title lang="zh">Lumuhod ka sa Lupa Bagong Yugto ep 203</title>
     <desc>The saga continues in the second season/installment of the classic Carlo J. Caparas' adaptation. Stars Kiko Estrada, Sarah Labahti, and Gardo Versoza.</desc>
     <date>2026-01-30</date>
@@ -449,182 +189,147 @@
     <desc>REBOOT: Urban legends and urban horror stories set against a backdrop of modern-day events and headlines, terrifying tales told in mock-documentary style make up this groundbreaking original horror series.</desc>
     <date>2026-01-30</date>
   </programme>
-  <programme channel="322467" start="20260131000000 -0400" stop="20260201000000 -0400">
+  <programme channel="322467" start="20260131000000 -0400" stop="20260131003000 -0400">
     <title lang="zh">Lumuhod ka sa Lupa Bagong Yugto ep 205</title>
     <desc>The saga continues in the second season/installment of the classic Carlo J. Caparas' adaptation. Stars Kiko Estrada, Sarah Labahti, and Gardo Versoza.</desc>
     <date>2026-01-31</date>
   </programme>
-<programme channel="322511" start="20260129000000 -0400" stop="20260129010000 -0400">
-    <title lang="zh">Long Conversation</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131003000 -0400" stop="20260131010000 -0400">
+    <title lang="zh">Lumuhod ka sa Lupa Bagong Yugto ep 206</title>
+    <desc>The saga continues in the second season/installment of the classic Carlo J. Caparas' adaptation. Stars Kiko Estrada, Sarah Labahti, and Gardo Versoza.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129010000 -0400" stop="20260129020000 -0400">
-    <title lang="zh">Afternoon Delight</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131010000 -0400" stop="20260131020000 -0400">
+    <title lang="zh">Di na Muli ep 4</title>
+    <desc>‘Di Na Muli tells the story of a young woman who tries to overcome her \nlife's biggest regret (complicated by her special ability to see how much \ntime remains of someone’s life) but ends up falling in love with the man \nwho caused the death of her one great lov.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129020000 -0400" stop="20260129030000 -0400">
-    <title lang="zh">Presello</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131020000 -0400" stop="20260131023000 -0400">
+    <title lang="zh">Para sa Isa't Isa ep 20</title>
+    <desc>Zion gets another shot at repairing his relationship with his wife, Erin by a wish on a well to go back in time. But he finds Erin not knowing him at all. He must now correct his mistakes and make her fall in love with him again.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129030000 -0400" stop="20260129040000 -0400">
-    <title lang="zh">LIVE Storycon</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131023000 -0400" stop="20260131030000 -0400">
+    <title lang="zh">Mga Kwentong Epik: Osyana ep 3</title>
+    <desc>Live action series of original Epik superheroes and comic book characters.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129040000 -0400" stop="20260129050000 -0400">
-    <title lang="zh">Woman In Action</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131030000 -0400" stop="20260131040000 -0400">
+    <title lang="zh">Afterlife ep 7</title>
+    <desc>Peter, a deceased Filipino-Chinese businessman, returns as a ghost and is bonded to Romy, a Filipino caretaker of a Chinese temple. He sets out to let his family know the whole truth through Romy.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129050000 -0400" stop="20260129051500 -0400">
-    <title lang="zh">Probe Archives</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131040000 -0400" stop="20260131050000 -0400">
+    <title lang="zh">Kagat ng Dilim 2020 ep 7</title>
+    <desc>REBOOT: Urban legends and urban horror stories set against a backdrop of modern-day events and headlines, terrifying tales told in mock-documentary style make up this groundbreaking original horror series.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129051500 -0400" stop="20260129053000 -0400">
-    <title lang="zh">Story of Our Islands</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131050000 -0400" stop="20260131060000 -0400">
+    <title lang="zh">Kurdapya ep 6</title>
+    <desc>Kurdapya tells the story of long-lost twins, KURING \u0026 DAPHNE. They meet after a strange accident and discover that they lead extremely different lives. Kuring grew up with the cruel extended family in the province while Daphne is an undervalued publishing executive in the city. Both women want to get out of their current realities, so they decide to switch lives by pretending to be each other</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129053000 -0400" stop="20260129060000 -0400">
-    <title lang="zh">LIVE Starting Lineup</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131060000 -0400" stop="20260131071500 -0400">
+    <title lang="zh">Sing Galing: Singlebrity Edition ep 36</title>
+    <desc>Sing Galing: Sing-lebrity Edition, aims to provide fun, laughter, music and excitement with the added goal of helping as celebrities sing and play for their chosen beneficiaries.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129060000 -0400" stop="20260129063000 -0400">
-    <title lang="zh">The Long Take</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131071500 -0400" stop="20260131074500 -0400">
+    <title lang="zh">Para sa Isa't Isa ep 21</title>
+    <desc>Zion gets another shot at repairing his relationship with his wife, Erin by a wish on a well to go back in time. But he finds Erin not knowing him at all. He must now correct his mistakes and make her fall in love with him again.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129063000 -0400" stop="20260129070000 -0400">
-    <title lang="zh">Chronicles</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131074500 -0400" stop="20260131080000 -0400">
+    <title lang="zh">Mga Kwentong Epik: Osyana ep 4</title>
+    <desc>Live action series of original Epik superheroes and comic book characters.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129070000 -0400" stop="20260129080000 -0400">
-    <title lang="zh">LIVE The Big Story</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131080000 -0400" stop="20260131090000 -0400">
+    <title lang="zh">Ghost Adventures S1 ep 4</title>
+    <desc>A clairvoyant repairman fearful of ghosts is forced to help them cross over so they can leave him in peace. On his journey of helping these ghosts with their unfinished businesses, he ends up getting into trouble with their families, friends and the community they are all living in. Will he be able to get these ghosts and their love ones, at the same time face his fear of them?</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129080000 -0400" stop="20260129083000 -0400">
-    <title lang="zh">LIVE Play by Play</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131090000 -0400" stop="20260131100000 -0400">
+    <title lang="zh">Team A S1 ep 4</title>
+    <desc>Janet and Ian started a simple life together, but will their maried life be as happy as they dreamed to be when both their parents treat each other as enemy?</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129083000 -0400" stop="20260129093000 -0400">
-    <title lang="zh">Long Conversation</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131100000 -0400" stop="20260131110000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129093000 -0400" stop="20260129100000 -0400">
-    <title lang="zh">The Big Story</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131110000 -0400" stop="20260131120000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129100000 -0400" stop="20260129110000 -0400">
-    <title lang="zh">Afternoon Delight</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131120000 -0400" stop="20260131130000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129110000 -0400" stop="20260129120000 -0400">
-    <title lang="zh">Gretchen Ho Reports</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131130000 -0400" stop="20260131140000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129120000 -0400" stop="20260129130000 -0400">
-    <title lang="zh">Long Conversation</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131140000 -0400" stop="20260131150000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129130000 -0400" stop="20260129133000 -0400">
-    <title lang="zh">Recreate</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131150000 -0400" stop="20260131160000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129133000 -0400" stop="20260129140000 -0400">
-    <title lang="zh">Sa INC</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131160000 -0400" stop="20260131170000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129140000 -0400" stop="20260129143000 -0400">
-    <title lang="zh">Go Local</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131170000 -0400" stop="20260131180000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129143000 -0400" stop="20260129150000 -0400">
-    <title lang="zh">Mombiz</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131180000 -0400" stop="20260131190000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129150000 -0400" stop="20260129153000 -0400">
-    <title lang="zh">Ride PH</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131190000 -0400" stop="20260131200000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129153000 -0400" stop="20260129163000 -0400">
-    <title lang="zh">Presello</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131200000 -0400" stop="20260131210000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129163000 -0400" stop="20260129173000 -0400">
-    <title lang="zh">Discovereats</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131210000 -0400" stop="20260131220000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129173000 -0400" stop="20260129180000 -0400">
-    <title lang="zh">Chronicles</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131220000 -0400" stop="20260131230000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129180000 -0400" stop="20260129190000 -0400">
-    <title lang="zh">Woman In Action</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260131230000 -0400" stop="20260201000000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322511" start="20260129190000 -0400" stop="20260129200000 -0400">
-    <title lang="zh">LIVE Morning Matters</title>
-    <desc />
-    <date>2026-01-29</date>
+  <programme channel="322467" start="20260201000000 -0400" stop="20260202000000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-02-01</date>
   </programme>
-  <programme channel="322511" start="20260129200000 -0400" stop="20260129203000 -0400">
-    <title lang="zh">Play By Play</title>
-    <desc />
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322511" start="20260129203000 -0400" stop="20260129210000 -0400">
-    <title lang="zh">LIVE Money Talks</title>
-    <desc />
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322511" start="20260129210000 -0400" stop="20260129220000 -0400">
-    <title lang="zh">LIVE News and Views</title>
-    <desc />
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322511" start="20260129220000 -0400" stop="20260129221500 -0400">
-    <title lang="zh">Probe Archives</title>
-    <desc />
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322511" start="20260129221500 -0400" stop="20260129223000 -0400">
-    <title lang="zh">Abuhan</title>
-    <desc />
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322511" start="20260129223000 -0400" stop="20260129230000 -0400">
-    <title lang="zh">Morning Matters</title>
-    <desc />
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322511" start="20260129230000 -0400" stop="20260130000000 -0400">
-    <title lang="zh">LIVE One Balita Pilipinas Noon</title>
-    <desc />
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322511" start="20260130000000 -0400" stop="20260130010000 -0400">
+<programme channel="322511" start="20260130000000 -0400" stop="20260130010000 -0400">
     <title lang="zh">Long Conversation</title>
     <desc />
     <date>2026-01-30</date>
@@ -804,117 +509,182 @@
     <desc />
     <date>2026-01-30</date>
   </programme>
-  <programme channel="322511" start="20260131000000 -0400" stop="20260201000000 -0400">
+  <programme channel="322511" start="20260131000000 -0400" stop="20260131010000 -0400">
     <title lang="zh">Discovereats</title>
     <desc />
     <date>2026-01-31</date>
   </programme>
-<programme channel="322493" start="20260129000000 -0400" stop="20260129010000 -0400">
-    <title lang="zh">LIVE Cristy Ferminute</title>
+  <programme channel="322511" start="20260131010000 -0400" stop="20260131020000 -0400">
+    <title lang="zh">Long Conversation</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129010000 -0400" stop="20260129030000 -0400">
-    <title lang="zh">LIVE Wanted Sa Radyo</title>
+  <programme channel="322511" start="20260131020000 -0400" stop="20260131030000 -0400">
+    <title lang="zh">Long Take</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129030000 -0400" stop="20260129040000 -0400">
-    <title lang="zh">LIVE Julius and Tintin</title>
+  <programme channel="322511" start="20260131030000 -0400" stop="20260131033000 -0400">
+    <title lang="zh">SA INC</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129040000 -0400" stop="20260129043000 -0400">
-    <title lang="zh">Doctor Next Door</title>
+  <programme channel="322511" start="20260131033000 -0400" stop="20260131040000 -0400">
+    <title lang="zh">Chronicles</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129043000 -0400" stop="20260129051500 -0400">
-    <title lang="zh">LIVE Una sa Lahat</title>
+  <programme channel="322511" start="20260131040000 -0400" stop="20260131050000 -0400">
+    <title lang="zh">Behind the Badge</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129051500 -0400" stop="20260129070000 -0400">
-    <title lang="zh">LIVE Frontline Pilipinas</title>
+  <programme channel="322511" start="20260131050000 -0400" stop="20260131060000 -0400">
+    <title lang="zh">Presello</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129070000 -0400" stop="20260129080000 -0400">
-    <title lang="zh">Totoy Bato</title>
+  <programme channel="322511" start="20260131060000 -0400" stop="20260131070000 -0400">
+    <title lang="zh">Safe Ka Ba, 2025? Year-end Report</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129080000 -0400" stop="20260129083000 -0400">
-    <title lang="zh">LIVE Sa Totoo Lang</title>
+  <programme channel="322511" start="20260131070000 -0400" stop="20260131080000 -0400">
+    <title lang="zh">Gretchen Ho Reports</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129083000 -0400" stop="20260129090000 -0400">
-    <title lang="zh">Face to Face Harapan</title>
+  <programme channel="322511" start="20260131080000 -0400" stop="20260131090000 -0400">
+    <title lang="zh">Long Conversation</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129090000 -0400" stop="20260129093000 -0400">
-    <title lang="zh">Kapatid Mo Raffy Tulfo</title>
+  <programme channel="322511" start="20260131090000 -0400" stop="20260131100000 -0400">
+    <title lang="zh">One News Archives</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129093000 -0400" stop="20260129103000 -0400">
-    <title lang="zh">Cristy Ferminute</title>
+  <programme channel="322511" start="20260131100000 -0400" stop="20260131103000 -0400">
+    <title lang="zh">Go Local</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129103000 -0400" stop="20260129110000 -0400">
-    <title lang="zh">LIVE Vibe Nights</title>
+  <programme channel="322511" start="20260131103000 -0400" stop="20260131110000 -0400">
+    <title lang="zh">SA INC</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129110000 -0400" stop="20260129120000 -0400">
-    <title lang="zh">Woman In Action</title>
+  <programme channel="322511" start="20260131110000 -0400" stop="20260131120000 -0400">
+    <title lang="zh">Gretchen Ho Reports</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129120000 -0400" stop="20260129130000 -0400">
-    <title lang="zh">Sa Totoo Lang</title>
+  <programme channel="322511" start="20260131120000 -0400" stop="20260131130000 -0400">
+    <title lang="zh">Long Conversation</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129130000 -0400" stop="20260129150000 -0400">
-    <title lang="zh">Wanted Sa Radyo</title>
+  <programme channel="322511" start="20260131130000 -0400" stop="20260131133000 -0400">
+    <title lang="zh">Changemakers</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129150000 -0400" stop="20260129160000 -0400">
+  <programme channel="322511" start="20260131133000 -0400" stop="20260131140000 -0400">
+    <title lang="zh">Sa INC</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322511" start="20260131140000 -0400" stop="20260131143000 -0400">
+    <title lang="zh">Go Local</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322511" start="20260131143000 -0400" stop="20260131150000 -0400">
+    <title lang="zh">Mombiz</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322511" start="20260131150000 -0400" stop="20260131153000 -0400">
+    <title lang="zh">Ride PH</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322511" start="20260131153000 -0400" stop="20260131163000 -0400">
+    <title lang="zh">Presello</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322511" start="20260131163000 -0400" stop="20260131173000 -0400">
     <title lang="zh">Discovereats</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129160000 -0400" stop="20260129170000 -0400">
-    <title lang="zh">Word Of God</title>
+  <programme channel="322511" start="20260131173000 -0400" stop="20260131180000 -0400">
+    <title lang="zh">Chronicles</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129170000 -0400" stop="20260129210000 -0400">
-    <title lang="zh">LIVE Ted Failon DJ Cha Cha Sa Radyo 5</title>
+  <programme channel="322511" start="20260131180000 -0400" stop="20260131181500 -0400">
+    <title lang="zh">Story of our Islands</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129210000 -0400" stop="20260129220000 -0400">
-    <title lang="zh">Masaganang Buhay</title>
+  <programme channel="322511" start="20260131181500 -0400" stop="20260131183000 -0400">
+    <title lang="zh">Abuhan</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129220000 -0400" stop="20260129230000 -0400">
-    <title lang="zh">Face to Face Harapan</title>
+  <programme channel="322511" start="20260131183000 -0400" stop="20260131190000 -0400">
+    <title lang="zh">Long Take</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260129230000 -0400" stop="20260130000000 -0400">
-    <title lang="zh">LIVE One Balita Pilipinas Noon</title>
+  <programme channel="322511" start="20260131190000 -0400" stop="20260131200000 -0400">
+    <title lang="zh">From Helen's Kitchen</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322493" start="20260130000000 -0400" stop="20260130010000 -0400">
+  <programme channel="322511" start="20260131200000 -0400" stop="20260131203000 -0400">
+    <title lang="zh">Mombiz</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322511" start="20260131203000 -0400" stop="20260131210000 -0400">
+    <title lang="zh">Changemakers</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322511" start="20260131210000 -0400" stop="20260131220000 -0400">
+    <title lang="zh">Woman In Action</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322511" start="20260131220000 -0400" stop="20260131221500 -0400">
+    <title lang="zh">Probe Archives</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322511" start="20260131221500 -0400" stop="20260131223000 -0400">
+    <title lang="zh">Story of Our Islands</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322511" start="20260131223000 -0400" stop="20260131230000 -0400">
+    <title lang="zh">Infinite Legacies</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322511" start="20260131230000 -0400" stop="20260201000000 -0400">
+    <title lang="zh">RTVM</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322511" start="20260201000000 -0400" stop="20260202000000 -0400">
+    <title lang="zh">Discovereats</title>
+    <desc />
+    <date>2026-02-01</date>
+  </programme>
+<programme channel="322493" start="20260130000000 -0400" stop="20260130010000 -0400">
     <title lang="zh">LIVE Cristy Ferminute</title>
     <desc />
     <date>2026-01-30</date>
@@ -1034,72 +804,147 @@
     <desc />
     <date>2026-01-30</date>
   </programme>
-  <programme channel="322493" start="20260131000000 -0400" stop="20260201000000 -0400">
+  <programme channel="322493" start="20260131000000 -0400" stop="20260131010000 -0400">
     <title lang="zh">Alagang Kapatid</title>
     <desc />
     <date>2026-01-31</date>
   </programme>
-<programme channel="322466" start="20260129011500 -0400" stop="20260129031500 -0400">
-    <title lang="zh">Petrang Kabayo 2</title>
-    <desc>Petra transforms himself into Peter ,a businessman with many holdings. But Peter's change in status also changes his personality.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322466" start="20260129031500 -0400" stop="20260129050000 -0400">
-    <title lang="zh">Masamang Damo</title>
-    <desc>When Joko Diaz placed his family in danger after getting into an imbroglio with fellow slumboys, he wisely contrived a plan.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322466" start="20260129050000 -0400" stop="20260129070000 -0400">
-    <title lang="zh">SPO1 Don Juan (Da Dancing Policeman)</title>
-    <desc>Leo Martinez is a policeman who directs traffic with choreographed dance movements. Unknown to him he has a look-alike who takes advantage of his popularity with motorists by directing traffic for get-away cars during robberies.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322466" start="20260129070000 -0400" stop="20260129090000 -0400">
-    <title lang="zh">Manong Gang</title>
-    <desc>Birds of the same feathers, flock together. But in Brandon and Toni’s case,their first meeting is just the beginning of numerous encounters that almost always lead to first fights.</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322466" start="20260129090000 -0400" stop="20260129110000 -0400">
-    <title lang="zh">Una Kang Naging Akin</title>
-    <desc>Is there any way for Gabby to regain his other \"memory\" and remember the family he left behind?</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322466" start="20260129110000 -0400" stop="20260129130000 -0400">
-    <title lang="zh">Ang Kuya Kong Siga</title>
-    <desc>Utoy (Paolo Contis) idolizes his friend and benefactor Johnny (Vic Sotto), whom he looks up to as an older brother. Johnny finds employment as a driver and bodyguard for pretty commercial model Jessica (Christine Jacob).</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322466" start="20260129130000 -0400" stop="20260129150000 -0400">
-    <title lang="zh">Sunugin Si Antero Castro</title>
-    <desc>For the longest time, it has been Antero Castro's dream to be a soldier.Can Antero uncover this conspiracy and arrest the real criminals?</desc>
-    <date>2026-01-29</date>
-  </programme>
-  <programme channel="322466" start="20260129150000 -0400" stop="20260129170000 -0400">
-    <title lang="zh">Bagwis Ng Lawin</title>
+  <programme channel="322493" start="20260131010000 -0400" stop="20260131020000 -0400">
+    <title lang="zh">Basta Batas</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322466" start="20260129170000 -0400" stop="20260129190000 -0400">
-    <title lang="zh">Hepe Goes To War</title>
+  <programme channel="322493" start="20260131020000 -0400" stop="20260131023000 -0400">
+    <title lang="zh">Top 5 Mga Kuwentong Marc Logan</title>
     <desc />
-    <date>2026-01-29</date>
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322466" start="20260129190000 -0400" stop="20260129211500 -0400">
-    <title lang="zh">Saan Nagtatago Ang Pag-Ibig? (Digitally Enhanced)</title>
-    <desc>A marriage of convenience became a fulfilling relationship that eventually opened the eyes and hearts of everybody into the beautiful soul hidden inside the young man nobody wanted. Starring Vilma Santos, Tonton Gutierrez and Ricky Davao.</desc>
-    <date>2026-01-29</date>
+  <programme channel="322493" start="20260131023000 -0400" stop="20260131030000 -0400">
+    <title lang="zh">Money Masters</title>
+    <desc />
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322466" start="20260129211500 -0400" stop="20260129230000 -0400">
-    <title lang="zh">Pacifico Guevarra, Dillinger Ng Dos Pares</title>
-    <desc>Young action star Raymart Santiago played one of his most demanding roles as Pacifico Guevarra who called himself Dillinger after the American gangster whom he idolized.</desc>
-    <date>2026-01-29</date>
+  <programme channel="322493" start="20260131030000 -0400" stop="20260131040000 -0400">
+    <title lang="zh">LIVE Ride Radio</title>
+    <desc />
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322466" start="20260129230000 -0400" stop="20260130000000 -0400">
-    <title lang="zh">Berdugo (Gabriel Lorenzo)</title>
-    <desc>He is an honest and dedicated cop whose life shatters when a drug syndicate frames him up and massacres his family.</desc>
-    <date>2026-01-29</date>
+  <programme channel="322493" start="20260131040000 -0400" stop="20260131043000 -0400">
+    <title lang="zh">Doctor Next Door</title>
+    <desc />
+    <date>2026-01-31</date>
   </programme>
-  <programme channel="322466" start="20260130010000 -0400" stop="20260130030000 -0400">
+  <programme channel="322493" start="20260131043000 -0400" stop="20260131050000 -0400">
+    <title lang="zh">One News Documentaries</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131050000 -0400" stop="20260131053000 -0400">
+    <title lang="zh">One Balita Bai</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131053000 -0400" stop="20260131060000 -0400">
+    <title lang="zh">Frontline Weekend</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131060000 -0400" stop="20260131070000 -0400">
+    <title lang="zh">Safe Ka Ba, 2025? Year-end Report</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131070000 -0400" stop="20260131080000 -0400">
+    <title lang="zh">Julius Babao Unplugged</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131080000 -0400" stop="20260131083000 -0400">
+    <title lang="zh">Behind The Badge</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131083000 -0400" stop="20260131090000 -0400">
+    <title lang="zh">Ride PH</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131090000 -0400" stop="20260131100000 -0400">
+    <title lang="zh">Stars Under Pressure</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131100000 -0400" stop="20260131110000 -0400">
+    <title lang="zh">Alagang Kapatid</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131110000 -0400" stop="20260131120000 -0400">
+    <title lang="zh">Woman In Action</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131120000 -0400" stop="20260131140000 -0400">
+    <title lang="zh">Power and Play</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131140000 -0400" stop="20260131150000 -0400">
+    <title lang="zh">Julius Babao Unplugged</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131150000 -0400" stop="20260131160000 -0400">
+    <title lang="zh">Discovereats</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131160000 -0400" stop="20260131170000 -0400">
+    <title lang="zh">Sagot Kita</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131170000 -0400" stop="20260131180000 -0400">
+    <title lang="zh">Holy Mass</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131180000 -0400" stop="20260131190000 -0400">
+    <title lang="zh">Masaganang Buhay</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131190000 -0400" stop="20260131200000 -0400">
+    <title lang="zh">Inay Ko Po</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131200000 -0400" stop="20260131210000 -0400">
+    <title lang="zh">Chink Positive</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131210000 -0400" stop="20260131213000 -0400">
+    <title lang="zh">Mind S-Cool</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131213000 -0400" stop="20260131220000 -0400">
+    <title lang="zh">Kiddie Explorers</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131220000 -0400" stop="20260131233000 -0400">
+    <title lang="zh">Holy Mass</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322493" start="20260131233000 -0400" stop="20260201000000 -0400">
+    <title lang="zh">Woman In Action</title>
+    <desc />
+    <date>2026-01-31</date>
+  </programme>
+<programme channel="322466" start="20260130010000 -0400" stop="20260130030000 -0400">
     <title lang="zh">Like Father, Like Son (Digitally Enhanced)</title>
     <desc>The box-office idols of the 60's played parents to a young crop of talented comedians in this tale about two families. The fun began when the boys decided to try out each other's lifestyles which means getting into trouble for Niño, and books and computers for Herbert.</desc>
     <date>2026-01-30</date>
@@ -1158,5 +1003,100 @@
     <title lang="zh">Batang Lansangan</title>
     <desc>Simple as his dreams would be, Ronnie Ricketts is a typical auto mechanic who wants only a peaceful and plain life. But no matter how he tried to live the life he desires, still the rotten elements of the society keep running after him.</desc>
     <date>2026-01-30</date>
+  </programme>
+  <programme channel="322466" start="20260131010000 -0400" stop="20260131031500 -0400">
+    <title lang="zh">Hawak Ko Buhay Mo</title>
+    <desc>Ronnie Ricketts played the leader of an anti-vice squad. Two problems occupied his mind at the moment. A mysterious killer who broke the necks of his victims and a group of skinheads, who kidnapped pretty coeds to be sold to white slavery.</desc>
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322466" start="20260131031500 -0400" stop="20260131050000 -0400">
+    <title lang="zh">Walang Matigas Na Pulis Sa Matinik Na Misis</title>
+    <desc>Admired for his good looks and his popularity with the ladies, most people would call Bart (Bong Revilla Jr). But if there's one thing that grounds Bart, that's his fear of his wife.</desc>
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322466" start="20260131050000 -0400" stop="20260131070000 -0400">
+    <title lang="zh">Nakagapos Na Puso (Digitally Enhanced)</title>
+    <desc>Sharon Cuneta stars as a young woman who, all her life, has lived under the shadow of her sister (Lorna Tolentino), a sister who is not only older but more assertive, more intelligent and more appreciated.</desc>
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322466" start="20260131070000 -0400" stop="20260131100000 -0400">
+    <title lang="zh">Bad Boy 2 (Digitally Enhanced)</title>
+    <desc>This is the sequel to the highly successful \"Bad Boy\" that turned the young Robin Padilla into a major action star. Bombo now out of prison and trying to live a quiet life in his small farm in the province.</desc>
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322466" start="20260131100000 -0400" stop="20260131110000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322466" start="20260131110000 -0400" stop="20260131120000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322466" start="20260131120000 -0400" stop="20260131130000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322466" start="20260131130000 -0400" stop="20260131140000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322466" start="20260131140000 -0400" stop="20260131150000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322466" start="20260131150000 -0400" stop="20260131160000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322466" start="20260131160000 -0400" stop="20260131170000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322466" start="20260131170000 -0400" stop="20260131180000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322466" start="20260131180000 -0400" stop="20260131190000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322466" start="20260131190000 -0400" stop="20260131200000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322466" start="20260131200000 -0400" stop="20260131210000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322466" start="20260131210000 -0400" stop="20260131220000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322466" start="20260131220000 -0400" stop="20260131230000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322466" start="20260131230000 -0400" stop="20260201000000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-01-31</date>
+  </programme>
+  <programme channel="322466" start="20260201000000 -0400" stop="20260202000000 -0400">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2026-02-01</date>
   </programme>
 </tv>
