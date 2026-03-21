@@ -3,7 +3,7 @@
     <display-name lang="Singapore">The Filipino Channel HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042522957850_92.png" />
   </channel>
-  <channel id="322467">
+<channel id="322467">
     <display-name lang="Philippines">Sari Sari</display-name>
     <icon src="" />
   </channel>
@@ -19,176 +19,6 @@
     <display-name lang="Philippines">Viva</display-name>
     <icon src="" />
   </channel>
-  <programme channel="412143" start="20260320000000 -0400" stop="20260320023000 -0400">
-    <title lang="zh">It's Showtime LIVE</title>
-    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="412143" start="20260320023000 -0400" stop="20260320030000 -0400">
-    <title lang="zh">Radyo Patrol Balita</title>
-    <desc>Radyo Patrol Balita focuses on delivering the latest news, breaking events, and important issues that matter to you.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="412143" start="20260320030000 -0400" stop="20260320040000 -0400">
-    <title lang="zh">Tandem Ng Bayan</title>
-    <desc>Tandem Ng Bayan brings you discussions on the day's top news stories, providing analysis and engaging in commentary on political as well as social issues.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="412143" start="20260320040000 -0400" stop="20260320050000 -0400">
-    <title lang="zh">Magandang Buhay</title>
-    <desc>"Momshies" Jolina Magdangal, Melai Cantiveros, and Regine Velasquez kick off the day with good vibes as they share a chat with celebrities on topics easily relatable to Filipino families.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="412143" start="20260320050000 -0400" stop="20260320053000 -0400">
-    <title lang="zh">TFC Kids Zone</title>
-    <desc>A programme block filled with animated short stories, nursery rhymes and songs, as well as Filipino language lessons, TFC Kids' Zone promises a rich treasure trove of learning and discovery that parents and their young ones will find enriching and empowering.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="412143" start="20260320053000 -0400" stop="20260320054500 -0400">
-    <title lang="zh">TV Patrol Express Live</title>
-    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="412143" start="20260320054500 -0400" stop="20260320063000 -0400">
-    <title lang="zh">BRGY</title>
-    <desc>BRGY features interesting and humorous stories about Filipinos and businesses in North America.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="412143" start="20260320063000 -0400" stop="20260320080000 -0400">
-    <title lang="zh">TV Patrol Live</title>
-    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="412143" start="20260320080000 -0400" stop="20260320084500 -0400">
-    <title lang="zh">The Alibi</title>
-    <desc>Vincent is accused of killing his rival, Walter. To protect his reputation, he hires Stella, an escort with her own haunted past, to pose as his alibi. What begins as a transactional arrangement soon becomes dangerously real.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="412143" start="20260320084500 -0400" stop="20260320093000 -0400">
-    <title lang="zh">What Lies Beneath</title>
-    <desc>The lives of four individuals are turned upside down after they witness the murder of their friend. They band together to put the alleged killer behind bars, but years later, the imprisoned man seeks revenge, unraveling dark secrets that test their loyalty and survival.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="412143" start="20260320093000 -0400" stop="20260320101500 -0400">
-    <title lang="zh">The Secrets of Hotel 88</title>
-    <desc>The Secrets of Hotel 88 dives into a gripping story of the estranged Fernandez brothers - Martin, Gio and Kiko - who unexpectedly inherit Hotel 88 following their father's death. Driven by conflicting motives, the three find themselves locked in escalating tension and a brewing family feud.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="412143" start="20260320101500 -0400" stop="20260321000000 -0400">
-    <title lang="zh">It's Showtime</title>
-    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
-    <date>2026-03-20</date>
-  </programme>
-<programme channel="322467" start="20260320000000 -0400" stop="20260320010000 -0400">
-    <title lang="zh">Kurdapya ep 13</title>
-    <desc>Kurdapya tells the story of long-lost twins, KURING \u0026 DAPHNE. They meet after a strange accident and discover that they lead extremely different lives. Kuring grew up with the cruel extended family in the province while Daphne is an undervalued publishing executive in the city. Both women want to get out of their current realities, so they decide to switch lives by pretending to be each other</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320010000 -0400" stop="20260320013000 -0400">
-    <title lang="zh">Lumuhod ka sa Lupa Bagong Yugto ep 29</title>
-    <desc>The saga continues in the second season/installment of the classic Carlo J. Caparas' adaptation. Stars Kiko Estrada, Sarah Labahti, and Gardo Versoza.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320013000 -0400" stop="20260320020000 -0400">
-    <title lang="zh">Lumuhod ka sa Lupa Bagong Yugto ep 30</title>
-    <desc>The saga continues in the second season/installment of the classic Carlo J. Caparas' adaptation. Stars Kiko Estrada, Sarah Labahti, and Gardo Versoza.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320020000 -0400" stop="20260320030000 -0400">
-    <title lang="zh">Operation Break the Casanova's Heart ep 4</title>
-    <desc>After Stephen, the school's casanova, breaks the heart of Naomi's bestfriend, Kryzel, Naomi becomes determined to seek revenge. In her effort to do so, she is discovered by the HSCC (Haters of Stephen Cruz Coalition), a secret group composed of Stephen's ex-girlfriends who seek revenge on Stephen and recruits her on their mission guided by 10 steps to break the casanova's heart.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320030000 -0400" stop="20260320040000 -0400">
-    <title lang="zh">Totoy Bato ep 228</title>
-    <desc>The series is based on the graphic novel created by Carlo J. Caparas. Totoy Bato, a young man, fighting for justice for his lost loved ones; also fighting for equality and fairness against his old friend turned nemesis Dwayne.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320040000 -0400" stop="20260320050000 -0400">
-    <title lang="zh">Ghost Adventures S1 ep 10</title>
-    <desc>A clairvoyant repairman fearful of ghosts is forced to help them cross over so they can leave him in peace. On his journey of helping these ghosts with their unfinished businesses, he ends up getting into trouble with their families, friends and the community they are all living in. Will he be able to get these ghosts and their love ones, at the same time face his fear of them?</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320050000 -0400" stop="20260320070000 -0400">
-    <title lang="zh">Sari Saring Sine: Campus Girls</title>
-    <desc>Vangie, Georgie, Samantha and Diane are best of friends who encounter different journeys in life as they go through college. Their friendship gets tested when Diane and Georgie fight over the affections of college heartthrob Louie, while Samantha discovers that Vangie is her dad's young mistress.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320070000 -0400" stop="20260320080000 -0400">
-    <title lang="zh">Gen Z ep 4</title>
-    <desc>Gen Z is a series which portrays how the younger generation deals with life's struggles while striving to achieve their ambitions and its impact on their relationships with family and friends.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320080000 -0400" stop="20260320090000 -0400">
-    <title lang="zh">Afterlife ep 4</title>
-    <desc>Peter, a deceased Filipino-Chinese businessman, returns as a ghost and is bonded to Romy, a Filipino caretaker of a Chinese temple. He sets out to let his family know the whole truth through Romy.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320090000 -0400" stop="20260320100000 -0400">
-    <title lang="zh">Totoy Bato ep 229</title>
-    <desc>The series is based on the graphic novel created by Carlo J. Caparas. Totoy Bato, a young man, fighting for justice for his lost loved ones; also fighting for equality and fairness against his old friend turned nemesis Dwayne.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320100000 -0400" stop="20260320110000 -0400">
-    <title lang="zh">The Mysterious Case of Bea Montenegro ep 5</title>
-    <desc>A Sari-Sari Original Series. Hot off the heels from her last cold case, investigative journalist Christine Del Mundo (Maui Taylor) is back with a brand new cold case. This time, it involves actress Bea Montenegro, whose death has only brought forth one suspect - a fellow model who suffers from face blindness.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320110000 -0400" stop="20260320120000 -0400">
-    <title lang="zh">Gen Z ep 4</title>
-    <desc>Gen Z is a series which portrays how the younger generation deals with life's struggles while striving to achieve their ambitions and its impact on their relationships with family and friends.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320120000 -0400" stop="20260320130000 -0400">
-    <title lang="zh">Di na Muli ep 11</title>
-    <desc>‘Di Na Muli tells the story of a young woman who tries to overcome her  life's biggest regret (complicated by her special ability to see how much  time remains of someone’s life) but ends up falling in love with the man  who caused the death of her one great lov.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320130000 -0400" stop="20260320150000 -0400">
-    <title lang="zh">Sari Saring Sine: Campus Girls</title>
-    <desc>Vangie, Georgie, Samantha and Diane are best of friends who encounter different journeys in life as they go through college. Their friendship gets tested when Diane and Georgie fight over the affections of college heartthrob Louie, while Samantha discovers that Vangie is her dad's young mistress.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320150000 -0400" stop="20260320160000 -0400">
-    <title lang="zh">Cuerpo Y Alma ep 8</title>
-    <desc>Maya, a young nurse who has been having terrifying nightmares finds out a horrifying truth about a debt that was made to save her life when she was a child. As she's about to find out, the payment just may cost her much more than her life.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320160000 -0400" stop="20260320170000 -0400">
-    <title lang="zh">Taddy Taddy Po ep 1</title>
-    <desc>A Sari-Sari Original Series. In this modern family, love wins. Alex is an up-and-coming reporter in a relationship with Marcus, a chef. One day, Alex's sister's kids show up at the couple's doorstep and the couple has no choice but to take care of the kids.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320170000 -0400" stop="20260320180000 -0400">
-    <title lang="zh">Kurdapya ep 13</title>
-    <desc>Kurdapya tells the story of long-lost twins, KURING \u0026 DAPHNE. They meet after a strange accident and discover that they lead extremely different lives. Kuring grew up with the cruel extended family in the province while Daphne is an undervalued publishing executive in the city. Both women want to get out of their current realities, so they decide to switch lives by pretending to be each other</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320180000 -0400" stop="20260320190000 -0400">
-    <title lang="zh">Gen Z ep 4</title>
-    <desc>Gen Z is a series which portrays how the younger generation deals with life's struggles while striving to achieve their ambitions and its impact on their relationships with family and friends.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320190000 -0400" stop="20260320200000 -0400">
-    <title lang="zh">Ghost Adventures S1 ep 10</title>
-    <desc>A clairvoyant repairman fearful of ghosts is forced to help them cross over so they can leave him in peace. On his journey of helping these ghosts with their unfinished businesses, he ends up getting into trouble with their families, friends and the community they are all living in. Will he be able to get these ghosts and their love ones, at the same time face his fear of them?</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320200000 -0400" stop="20260320210000 -0400">
-    <title lang="zh">The Last Woman Standing ep 6</title>
-    <desc>After the death of his wife, a man's four mistresses compete against one another to become his next wife, as his wife's ghost continues to haunt them.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320210000 -0400" stop="20260320230000 -0400">
-    <title lang="zh">Sari Saring Sine: Campus Girls</title>
-    <desc>Vangie, Georgie, Samantha and Diane are best of friends who encounter different journeys in life as they go through college. Their friendship gets tested when Diane and Georgie fight over the affections of college heartthrob Louie, while Samantha discovers that Vangie is her dad's young mistress.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322467" start="20260320230000 -0400" stop="20260321000000 -0400">
-    <title lang="zh">Kurdapya ep 13</title>
-    <desc>Kurdapya tells the story of long-lost twins, KURING \u0026 DAPHNE. They meet after a strange accident and discover that they lead extremely different lives. Kuring grew up with the cruel extended family in the province while Daphne is an undervalued publishing executive in the city. Both women want to get out of their current realities, so they decide to switch lives by pretending to be each other</desc>
-    <date>2026-03-20</date>
-  </programme>
   <programme channel="322467" start="20260321000000 -0400" stop="20260321010000 -0400">
     <title lang="zh">Blue Jeans ep 1</title>
     <desc>BLUE JEANS is a youth-oriented drama that follows the intersecting and intertwining lives of 6 present-day Filipino working students in the university belt.</desc>
@@ -309,172 +139,127 @@
     <desc>Vangie, Georgie, Samantha and Diane are best of friends who encounter different journeys in life as they go through college. Their friendship gets tested when Diane and Georgie fight over the affections of college heartthrob Louie, while Samantha discovers that Vangie is her dad's young mistress.</desc>
     <date>2026-03-21</date>
   </programme>
-<programme channel="322511" start="20260320000000 -0400" stop="20260320010000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322010000 -0400" stop="20260322013000 -0400">
+    <title lang="zh">Lumuhod ka sa Lupa Bagong Yugto ep 33</title>
+    <desc>The saga continues in the second season/installment of the classic Carlo J. Caparas' adaptation. Stars Kiko Estrada, Sarah Labahti, and Gardo Versoza.</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320010000 -0400" stop="20260320020000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322013000 -0400" stop="20260322020000 -0400">
+    <title lang="zh">Lumuhod ka sa Lupa Bagong Yugto ep 34</title>
+    <desc>The saga continues in the second season/installment of the classic Carlo J. Caparas' adaptation. Stars Kiko Estrada, Sarah Labahti, and Gardo Versoza.</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320020000 -0400" stop="20260320030000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322020000 -0400" stop="20260322030000 -0400">
+    <title lang="zh">Totoy Bato ep 225</title>
+    <desc>The series is based on the graphic novel created by Carlo J. Caparas. Totoy Bato, a young man, fighting for justice for his lost loved ones; also fighting for equality and fairness against his old friend turned nemesis Dwayne.</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320030000 -0400" stop="20260320040000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322030000 -0400" stop="20260322040000 -0400">
+    <title lang="zh">Totoy Bato ep 226</title>
+    <desc>The series is based on the graphic novel created by Carlo J. Caparas. Totoy Bato, a young man, fighting for justice for his lost loved ones; also fighting for equality and fairness against his old friend turned nemesis Dwayne.</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320040000 -0400" stop="20260320050000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322040000 -0400" stop="20260322050000 -0400">
+    <title lang="zh">Totoy Bato ep 227</title>
+    <desc>The series is based on the graphic novel created by Carlo J. Caparas. Totoy Bato, a young man, fighting for justice for his lost loved ones; also fighting for equality and fairness against his old friend turned nemesis Dwayne.</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320050000 -0400" stop="20260320060000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322050000 -0400" stop="20260322060000 -0400">
+    <title lang="zh">Totoy Bato ep 228</title>
+    <desc>The series is based on the graphic novel created by Carlo J. Caparas. Totoy Bato, a young man, fighting for justice for his lost loved ones; also fighting for equality and fairness against his old friend turned nemesis Dwayne.</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320060000 -0400" stop="20260320070000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322060000 -0400" stop="20260322070000 -0400">
+    <title lang="zh">Totoy Bato ep 229</title>
+    <desc>The series is based on the graphic novel created by Carlo J. Caparas. Totoy Bato, a young man, fighting for justice for his lost loved ones; also fighting for equality and fairness against his old friend turned nemesis Dwayne.</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320070000 -0400" stop="20260320080000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322070000 -0400" stop="20260322080000 -0400">
+    <title lang="zh">Team A S1 ep 11</title>
+    <desc>Janet and Ian started a simple life together, but will their maried life be as happy as they dreamed to be when both their parents treat each other as enemy?</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320080000 -0400" stop="20260320090000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322080000 -0400" stop="20260322083000 -0400">
+    <title lang="zh">Sing Galing: Singlebrity Edition ep 51</title>
+    <desc>Sing Galing: Sing-lebrity Edition, aims to provide fun, laughter, music and excitement with the added goal of helping as celebrities sing and play for their chosen beneficiaries.</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320090000 -0400" stop="20260320093000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322083000 -0400" stop="20260322090000 -0400">
+    <title lang="zh">Mga Kwentong Epik: Bernardo Carpio ep 6</title>
+    <desc>Live action series of original Epik superheroes and comic book characters.</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320093000 -0400" stop="20260320103000 -0400">
-    <title lang="zh">Long Conversation</title>
-    <desc />
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322090000 -0400" stop="20260322100000 -0400">
+    <title lang="zh">Gen Z ep 4</title>
+    <desc>Gen Z is a series which portrays how the younger generation deals with life's struggles while striving to achieve their ambitions and its impact on their relationships with family and friends.</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320103000 -0400" stop="20260320110000 -0400">
-    <title lang="zh">The Big Story</title>
-    <desc />
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322100000 -0400" stop="20260322110000 -0400">
+    <title lang="zh">Kurdapya ep 13</title>
+    <desc>Kurdapya tells the story of long-lost twins, KURING \u0026 DAPHNE. They meet after a strange accident and discover that they lead extremely different lives. Kuring grew up with the cruel extended family in the province while Daphne is an undervalued publishing executive in the city. Both women want to get out of their current realities, so they decide to switch lives by pretending to be each other</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320110000 -0400" stop="20260320120000 -0400">
-    <title lang="zh">Afternoon Delight</title>
-    <desc />
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322110000 -0400" stop="20260322120000 -0400">
+    <title lang="zh">Ghost Adventures S1 ep 11</title>
+    <desc>A clairvoyant repairman fearful of ghosts is forced to help them cross over so they can leave him in peace. On his journey of helping these ghosts with their unfinished businesses, he ends up getting into trouble with their families, friends and the community they are all living in. Will he be able to get these ghosts and their love ones, at the same time face his fear of them?</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320120000 -0400" stop="20260320130000 -0400">
-    <title lang="zh">Storycon</title>
-    <desc />
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322120000 -0400" stop="20260322140000 -0400">
+    <title lang="zh">Sari Saring Sine: Campus Girls</title>
+    <desc>Vangie, Georgie, Samantha and Diane are best of friends who encounter different journeys in life as they go through college. Their friendship gets tested when Diane and Georgie fight over the affections of college heartthrob Louie, while Samantha discovers that Vangie is her dad's young mistress.</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320130000 -0400" stop="20260320140000 -0400">
-    <title lang="zh">Long Conversation</title>
-    <desc />
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322140000 -0400" stop="20260322150000 -0400">
+    <title lang="zh">Ghost Adventures S1 ep 11</title>
+    <desc>A clairvoyant repairman fearful of ghosts is forced to help them cross over so they can leave him in peace. On his journey of helping these ghosts with their unfinished businesses, he ends up getting into trouble with their families, friends and the community they are all living in. Will he be able to get these ghosts and their love ones, at the same time face his fear of them?</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320140000 -0400" stop="20260320143000 -0400">
-    <title lang="zh">Changemakers</title>
-    <desc />
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322150000 -0400" stop="20260322160000 -0400">
+    <title lang="zh">The Last Woman Standing ep 6</title>
+    <desc>After the death of his wife, a man's four mistresses compete against one another to become his next wife, as his wife's ghost continues to haunt them.</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320143000 -0400" stop="20260320150000 -0400">
-    <title lang="zh">SA INC</title>
-    <desc />
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322160000 -0400" stop="20260322170000 -0400">
+    <title lang="zh">Team A S1 ep 11</title>
+    <desc>Janet and Ian started a simple life together, but will their maried life be as happy as they dreamed to be when both their parents treat each other as enemy?</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320150000 -0400" stop="20260320153000 -0400">
-    <title lang="zh">Go Local</title>
-    <desc />
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322170000 -0400" stop="20260322180000 -0400">
+    <title lang="zh">The Mysterious Case of Bea Montenegro ep 5</title>
+    <desc>A Sari-Sari Original Series. Hot off the heels from her last cold case, investigative journalist Christine Del Mundo (Maui Taylor) is back with a brand new cold case. This time, it involves actress Bea Montenegro, whose death has only brought forth one suspect - a fellow model who suffers from face blindness.</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320153000 -0400" stop="20260320160000 -0400">
-    <title lang="zh">Mombiz</title>
-    <desc />
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322180000 -0400" stop="20260322190000 -0400">
+    <title lang="zh">Kurdapya ep 13</title>
+    <desc>Kurdapya tells the story of long-lost twins, KURING \u0026 DAPHNE. They meet after a strange accident and discover that they lead extremely different lives. Kuring grew up with the cruel extended family in the province while Daphne is an undervalued publishing executive in the city. Both women want to get out of their current realities, so they decide to switch lives by pretending to be each other</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320160000 -0400" stop="20260320163000 -0400">
-    <title lang="zh">Ride PH</title>
-    <desc />
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322190000 -0400" stop="20260322200000 -0400">
+    <title lang="zh">Ghost Adventures S1 ep 11</title>
+    <desc>A clairvoyant repairman fearful of ghosts is forced to help them cross over so they can leave him in peace. On his journey of helping these ghosts with their unfinished businesses, he ends up getting into trouble with their families, friends and the community they are all living in. Will he be able to get these ghosts and their love ones, at the same time face his fear of them?</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320163000 -0400" stop="20260320173000 -0400">
-    <title lang="zh">Presello</title>
-    <desc />
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322200000 -0400" stop="20260322210000 -0400">
+    <title lang="zh">Team A S1 ep 11</title>
+    <desc>Janet and Ian started a simple life together, but will their maried life be as happy as they dreamed to be when both their parents treat each other as enemy?</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320173000 -0400" stop="20260320183000 -0400">
-    <title lang="zh">Discovereats</title>
-    <desc />
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322210000 -0400" stop="20260322220000 -0400">
+    <title lang="zh">Di na Muli ep 11</title>
+    <desc>‘Di Na Muli tells the story of a young woman who tries to overcome her  life's biggest regret (complicated by her special ability to see how much  time remains of someone’s life) but ends up falling in love with the man  who caused the death of her one great lov.</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320183000 -0400" stop="20260320190000 -0400">
-    <title lang="zh">Chronicles</title>
-    <desc />
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260322220000 -0400" stop="20260323000000 -0400">
+    <title lang="zh">Sari Saring Sine: Campus Girls</title>
+    <desc>Vangie, Georgie, Samantha and Diane are best of friends who encounter different journeys in life as they go through college. Their friendship gets tested when Diane and Georgie fight over the affections of college heartthrob Louie, while Samantha discovers that Vangie is her dad's young mistress.</desc>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322511" start="20260320190000 -0400" stop="20260320191500 -0400">
-    <title lang="zh">Story of our Islands</title>
-    <desc />
-    <date>2026-03-20</date>
+  <programme channel="322467" start="20260323000000 -0400" stop="20260324000000 -0400">
+    <title lang="zh">Gen Z ep 4</title>
+    <desc>Gen Z is a series which portrays how the younger generation deals with life's struggles while striving to achieve their ambitions and its impact on their relationships with family and friends.</desc>
+    <date>2026-03-23</date>
   </programme>
-  <programme channel="322511" start="20260320191500 -0400" stop="20260320193000 -0400">
-    <title lang="zh">Abuhan</title>
-    <desc />
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322511" start="20260320193000 -0400" stop="20260320200000 -0400">
-    <title lang="zh">Long Take</title>
-    <desc />
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322511" start="20260320200000 -0400" stop="20260320210000 -0400">
-    <title lang="zh">From Helen's Kitchen</title>
-    <desc />
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322511" start="20260320210000 -0400" stop="20260320213000 -0400">
-    <title lang="zh">Mombiz</title>
-    <desc />
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322511" start="20260320213000 -0400" stop="20260320220000 -0400">
-    <title lang="zh">Changemakers</title>
-    <desc />
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322511" start="20260320220000 -0400" stop="20260320230000 -0400">
-    <title lang="zh">Woman In Action</title>
-    <desc />
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322511" start="20260320230000 -0400" stop="20260320231500 -0400">
-    <title lang="zh">Probe Archives</title>
-    <desc />
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322511" start="20260320231500 -0400" stop="20260320233000 -0400">
-    <title lang="zh">Abuhan</title>
-    <desc />
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322511" start="20260320233000 -0400" stop="20260321000000 -0400">
-    <title lang="zh">Infinite Legacies</title>
-    <desc />
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322511" start="20260321000000 -0400" stop="20260321010000 -0400">
+<programme channel="322511" start="20260321000000 -0400" stop="20260321010000 -0400">
     <title lang="zh">RTVM</title>
     <desc />
     <date>2026-03-21</date>
@@ -649,137 +434,77 @@
     <desc />
     <date>2026-03-21</date>
   </programme>
-  <programme channel="322511" start="20260322000000 -0400" stop="20260323000000 -0400">
+  <programme channel="322511" start="20260322000000 -0400" stop="20260322010000 -0400">
     <title lang="zh">RTVM</title>
     <desc />
     <date>2026-03-22</date>
   </programme>
-<programme channel="322493" start="20260320000000 -0400" stop="20260320010000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322493" start="20260320010000 -0400" stop="20260320020000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322493" start="20260320020000 -0400" stop="20260320030000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322493" start="20260320030000 -0400" stop="20260320040000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322493" start="20260320040000 -0400" stop="20260320050000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322493" start="20260320050000 -0400" stop="20260320060000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322493" start="20260320060000 -0400" stop="20260320070000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322493" start="20260320070000 -0400" stop="20260320080000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322493" start="20260320080000 -0400" stop="20260320090000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322493" start="20260320090000 -0400" stop="20260320093000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322493" start="20260320093000 -0400" stop="20260320100000 -0400">
-    <title lang="zh">Gus Abelgas Forensics</title>
+  <programme channel="322511" start="20260322010000 -0400" stop="20260322020000 -0400">
+    <title lang="zh">Discovereats</title>
     <desc />
-    <date>2026-03-20</date>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322493" start="20260320100000 -0400" stop="20260320103000 -0400">
-    <title lang="zh">Kapatid Mo Raffy Tulfo</title>
+  <programme channel="322511" start="20260322020000 -0400" stop="20260322030000 -0400">
+    <title lang="zh">Long Conversation</title>
     <desc />
-    <date>2026-03-20</date>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322493" start="20260320103000 -0400" stop="20260320113000 -0400">
-    <title lang="zh">Cristy Ferminute</title>
+  <programme channel="322511" start="20260322030000 -0400" stop="20260322040000 -0400">
+    <title lang="zh">Long Take</title>
     <desc />
-    <date>2026-03-20</date>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322493" start="20260320113000 -0400" stop="20260320120000 -0400">
-    <title lang="zh">LIVE Vibe Nights</title>
+  <programme channel="322511" start="20260322040000 -0400" stop="20260322043000 -0400">
+    <title lang="zh">Homestretch</title>
     <desc />
-    <date>2026-03-20</date>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322493" start="20260320120000 -0400" stop="20260320130000 -0400">
-    <title lang="zh">Woman In Action</title>
+  <programme channel="322511" start="20260322043000 -0400" stop="20260322050000 -0400">
+    <title lang="zh">SA INC</title>
     <desc />
-    <date>2026-03-20</date>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322493" start="20260320130000 -0400" stop="20260320140000 -0400">
-    <title lang="zh">Sa Totoo Lang</title>
+  <programme channel="322511" start="20260322050000 -0400" stop="20260322060000 -0400">
+    <title lang="zh">Presello</title>
     <desc />
-    <date>2026-03-20</date>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322493" start="20260320140000 -0400" stop="20260320160000 -0400">
-    <title lang="zh">Wanted Sa Radyo</title>
+  <programme channel="322511" start="20260322060000 -0400" stop="20260322070000 -0400">
+    <title lang="zh">Gretchen Ho Reports</title>
     <desc />
-    <date>2026-03-20</date>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322493" start="20260320160000 -0400" stop="20260320170000 -0400">
-    <title lang="zh">Julius And Tintin</title>
+  <programme channel="322511" start="20260322070000 -0400" stop="20260322073000 -0400">
+    <title lang="zh">One News Documentaries</title>
     <desc />
-    <date>2026-03-20</date>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322493" start="20260320170000 -0400" stop="20260320180000 -0400">
-    <title lang="zh">Sagot Kita</title>
+  <programme channel="322511" start="20260322073000 -0400" stop="20260322080000 -0400">
+    <title lang="zh">One News Documentaries</title>
     <desc />
-    <date>2026-03-20</date>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322493" start="20260320180000 -0400" stop="20260320190000 -0400">
-    <title lang="zh">LIVE Holy Mass</title>
+  <programme channel="322511" start="20260322080000 -0400" stop="20260322083000 -0400">
+    <title lang="zh">Ride PH</title>
     <desc />
-    <date>2026-03-20</date>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322493" start="20260320190000 -0400" stop="20260320200000 -0400">
-    <title lang="zh">From Helen's Kitchen</title>
+  <programme channel="322511" start="20260322083000 -0400" stop="20260322090000 -0400">
+    <title lang="zh">Chronicles</title>
     <desc />
-    <date>2026-03-20</date>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322493" start="20260320200000 -0400" stop="20260320220000 -0400">
-    <title lang="zh">Power and Play</title>
+  <programme channel="322511" start="20260322090000 -0400" stop="20260322100000 -0400">
+    <title lang="zh">Long Conversation</title>
     <desc />
-    <date>2026-03-20</date>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322493" start="20260320220000 -0400" stop="20260320230000 -0400">
-    <title lang="zh">Inay Ko Po</title>
+  <programme channel="322511" start="20260322100000 -0400" stop="20260323000000 -0400">
+    <title lang="zh">One News Archives</title>
     <desc />
-    <date>2026-03-20</date>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322493" start="20260320230000 -0400" stop="20260320233000 -0400">
-    <title lang="zh">Kiddie Explorers</title>
-    <desc />
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322493" start="20260320233000 -0400" stop="20260321000000 -0400">
-    <title lang="zh">Doctor Next Door</title>
-    <desc />
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322493" start="20260321000000 -0400" stop="20260321010000 -0400">
+<programme channel="322493" start="20260321000000 -0400" stop="20260321010000 -0400">
     <title lang="zh">Holy Mass</title>
     <desc />
     <date>2026-03-21</date>
@@ -914,67 +639,62 @@
     <desc />
     <date>2026-03-21</date>
   </programme>
-<programme channel="322466" start="20260320000000 -0400" stop="20260320020000 -0400">
-    <title lang="zh">Kahit Sa Bala Kakapit Ako</title>
-    <desc>Friendship comes to a test in this tale about the mild-mannered Efren and Nestor, the member of an underground rebel group. Efren became unwittingly involved with Nestor's activities when he was put under suspicion.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322466" start="20260320020000 -0400" stop="20260320040000 -0400">
-    <title lang="zh">Ober Da Bakod The Movie</title>
-    <desc>The movie version of the popular TV sitcom, Ober De Bakod. This is a story of two families, always in competition -- they are actually neighbors. In this movie, the parents continue to fight and outdo each other, while the children continue their love affairs with each other. However, this time, they all go on holiday -- separately of course. It does not start well, as they all ended up in an isla</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322466" start="20260320040000 -0400" stop="20260320060000 -0400">
-    <title lang="zh">Kaputol Ng Isang Awit</title>
-    <desc>An unfinished song became the key, which brought together a family forced apart by the obsessive love of a young woman for a famous singer.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322466" start="20260320060000 -0400" stop="20260320080000 -0400">
-    <title lang="zh">Robin Good, Sugod Nang Sugod</title>
-    <desc>Jimmy Santos was the outlaw Robin Good, who stole from the rich to give to the poor. Unlike the swashbuckling hero of the Sherwood Forest legend though, Robin Good was an inept and bumbling coward who could not seem to do anything right.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322466" start="20260320080000 -0400" stop="20260320100000 -0400">
-    <title lang="zh">Anak Ng Lupa</title>
-    <desc>Hector learns about his parents' tragic past including his father's death at the hands of a traitor. He succeeds in killing Nestong Antok but his son, Ariosto vows to avenge his father's death. Will this vicious cycle of revenge ever end?</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322466" start="20260320100000 -0400" stop="20260320121500 -0400">
-    <title lang="zh">Narito Ang Puso Ko (Digitally Enhanced)</title>
-    <desc>Ellen and Louie are estranged lovers whose son is accidentally shot by Tato, a son of a prominent politician. However, in their constant vigil besides their comatose son, their feelings towards each other are rekindled.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322466" start="20260320121500 -0400" stop="20260320141500 -0400">
-    <title lang="zh">Babangon Ako't Dudurugin Kita</title>
-    <desc>Via and Alfred were kindred souls. They would do anything to get what they wanted no matter what the cost. He wanted a future in politics. She came from a political family who wanted to continue wielding power. They were made for each other.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322466" start="20260320141500 -0400" stop="20260320160000 -0400">
-    <title lang="zh">Ang Pinakamagandang Hayop Sa Balat Ng Lupa 2</title>
-    <desc>Cinema legend Celso Ad Castillo remakes one of his classic films with beauty queen Ruffa Gutierrez in her most daring performance.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322466" start="20260320160000 -0400" stop="20260320180000 -0400">
-    <title lang="zh">Rosalie 19: Reyna Ng Bocaue</title>
-    <desc>For many years, Monette has raised her daughter on her earnings as a bold dancer. But now that she is old, she finds herself ousted as the club's main attraction. Instead, she finds out her daughter Rosalie (Ilonah Jean) is taking her place as queen of the girls joints. But, one by one, Rosalie's enemies are found dead including the corrupt club owner and Monette's lustful boyfriend.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322466" start="20260320180000 -0400" stop="20260320200000 -0400">
-    <title lang="zh">Akin Ang Pangarap Mo</title>
-    <desc>Leo is engaged to Anita out of convenience since her father and her parents are long time friends. It was never an issue, until Leo meets Gigi  during his stay in the family farm.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322466" start="20260320200000 -0400" stop="20260320220000 -0400">
-    <title lang="zh">Bokyo</title>
-    <desc>Bokyo's parents fight all the time and neglect their son's basic needs. He leaves home despite reassurances from his alien friend, Starking, that everything will turn out for the best.</desc>
-    <date>2026-03-20</date>
-  </programme>
-  <programme channel="322466" start="20260320220000 -0400" stop="20260321000000 -0400">
-    <title lang="zh">Subukan Kami Kung Kaya Nyo</title>
+  <programme channel="322493" start="20260322003000 -0400" stop="20260322013000 -0400">
+    <title lang="zh">Woman In Action</title>
     <desc />
-    <date>2026-03-20</date>
+    <date>2026-03-22</date>
   </programme>
-  <programme channel="322466" start="20260321000000 -0400" stop="20260321020000 -0400">
+  <programme channel="322493" start="20260322013000 -0400" stop="20260322023000 -0400">
+    <title lang="zh">Masaganang Buhay</title>
+    <desc />
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322493" start="20260322023000 -0400" stop="20260322043000 -0400">
+    <title lang="zh">Match Made</title>
+    <desc />
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322493" start="20260322043000 -0400" stop="20260322050000 -0400">
+    <title lang="zh">Presinto Singko</title>
+    <desc />
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322493" start="20260322050000 -0400" stop="20260322060000 -0400">
+    <title lang="zh">LIVE Frontline Weekend</title>
+    <desc />
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322493" start="20260322060000 -0400" stop="20260322070000 -0400">
+    <title lang="zh">Gretchen Ho Reports</title>
+    <desc />
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322493" start="20260322070000 -0400" stop="20260322073000 -0400">
+    <title lang="zh">Kapatid Mo, Idol Rafy Tulfo</title>
+    <desc />
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322493" start="20260322073000 -0400" stop="20260322080000 -0400">
+    <title lang="zh">Ride PH</title>
+    <desc />
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322493" start="20260322080000 -0400" stop="20260322083000 -0400">
+    <title lang="zh">Gus Abelgas Forensics</title>
+    <desc />
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322493" start="20260322083000 -0400" stop="20260322093000 -0400">
+    <title lang="zh">Julius Babao Unplugged</title>
+    <desc />
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322493" start="20260322093000 -0400" stop="20260323000000 -0400">
+    <title lang="zh">Tiktalks</title>
+    <desc />
+    <date>2026-03-22</date>
+  </programme>
+<programme channel="322466" start="20260321000000 -0400" stop="20260321020000 -0400">
     <title lang="zh">Hati Tayo Sa Magdamag</title>
     <desc>Gerry and Rochelle are childhood sweethearts. Although Rochelle wants to settle down, Gerry wants his ambitions fulfilled first. The couple's relationship is threatened by the arrival of their childhood friend Tonette.</desc>
     <date>2026-03-21</date>
@@ -1034,9 +754,69 @@
     <desc>Berting was an escaped convict. Boggart was a cab driver whom he took hostage when he bolted from jail. The two of them landed in a primitive island where all of the inhabitants were under the control of a religious cult.</desc>
     <date>2026-03-21</date>
   </programme>
-  <programme channel="322466" start="20260322000000 -0400" stop="20260323000000 -0400">
+  <programme channel="322466" start="20260322000000 -0400" stop="20260322020000 -0400">
     <title lang="zh">Oscar Ramos, Hitman</title>
     <desc>Oscar Ramos (Ramon Revilla) is a respected man in the community. He settles disputes and takes up the cudgels for the oppressed. He also has a secret -- an amulet that protects him from bullets. Will his amulet protect him when both the police and Ka Ernie's group hunt him down?</desc>
     <date>2026-03-22</date>
+  </programme>
+  <programme channel="322466" start="20260322020000 -0400" stop="20260322040000 -0400">
+    <title lang="zh">Dogtag: Katarungan Sa Aking Kamay</title>
+    <desc>Dante (Jestoni Alarcon) and Jojo (Emilio Garcia) consider themselves more than brothers because of shared experiences they had as a soldiers.</desc>
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322466" start="20260322040000 -0400" stop="20260322060000 -0400">
+    <title lang="zh">Humanap Ng Panget (Digitally Enhanced)</title>
+    <desc>Andrew E made his acting debut in this wacky comedy based on his big hit \"Humanap Ka ng Panget\". The message of the song is that if you want to be happy it is best to fall in love with an ugly woman or man who will be grateful for your love and will do anything you want.</desc>
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322466" start="20260322060000 -0400" stop="20260322081500 -0400">
+    <title lang="zh">Miguelito (Batang Rebelde)</title>
+    <desc>Mayor Ven Herera (Eddie Garcia) is grooming his only son Miguelito \"Mike\" Herera (Aga Mulach) to be his predecessor. Mike, however, has other plans and live a happy go lucky life.</desc>
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322466" start="20260322081500 -0400" stop="20260322101500 -0400">
+    <title lang="zh">Gagay, Prinsesa Ng Brownout</title>
+    <desc>This is the Cinderella story for the brown-out plagued generation of this country. Gagay and her family gathered wood which they made into coal. Though they were poor, they already saw some improvement in their lives.</desc>
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322466" start="20260322101500 -0400" stop="20260322123000 -0400">
+    <title lang="zh">Bituing Walang Ningning (Digitally Enhanced)</title>
+    <desc>A tale about an avid fan that attained her dream of someday becoming a bigger star than her idol.</desc>
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322466" start="20260322123000 -0400" stop="20260322140000 -0400">
+    <title lang="zh">Isla Paraiso</title>
+    <desc>A series of inexplicable and mind-boggling twists of incidents inside the hacienda take place as the animosity between two sisters heightens.</desc>
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322466" start="20260322140000 -0400" stop="20260322160000 -0400">
+    <title lang="zh">Amo</title>
+    <desc>This action movie tackles the issue of labor union. Starring Rudy Fernandez as Leon delos Reyes.</desc>
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322466" start="20260322160000 -0400" stop="20260322180000 -0400">
+    <title lang="zh">Isa, Dalawa, Tatlo, Ang Tatay Kong Kalbo</title>
+    <desc>Medel (Bembol Roco) is a pretty thief who gives his earnings to his neighbors who need it. But hid felonious activities stop when he marries Frieda (Beth Bautista) and adopts Bimbo (Niño Mulach).</desc>
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322466" start="20260322180000 -0400" stop="20260322200000 -0400">
+    <title lang="zh">Libingan Ng Mga Buhay</title>
+    <desc>This is the true story of Rodolfo Fuentes who was unjustly sent to jail at the very young age of 14.</desc>
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322466" start="20260322200000 -0400" stop="20260322220000 -0400">
+    <title lang="zh">Minsan Pa Nating Hagkan Ang Nakaraan (Digitally Enhanced)</title>
+    <desc>Helen looks like a woman who has everything anybody could want-a beautiful house, a loving husband, and a baby on the way.</desc>
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322466" start="20260322220000 -0400" stop="20260323000000 -0400">
+    <title lang="zh">Silakbo</title>
+    <desc>A killer-rapist was on the prowl and all of the victims seemed to have had some sort of connection with the maverick NBI agent, Andy, played by Cesar Montano.</desc>
+    <date>2026-03-22</date>
+  </programme>
+  <programme channel="322466" start="20260323000000 -0400" stop="20260324000000 -0400">
+    <title lang="zh">Baby Paterno (Dugong Pulis)</title>
+    <desc>Baby Paterno (Roi Vinzon) comes from a well to do family. He is a womanizer and a partygoer who always ends up in trouble. Later on, he proves to be a good law enforcer. He tries to uncover serious crimes only to find out that the head of the syndicate is his superior.</desc>
+    <date>2026-03-23</date>
   </programme>
 </tv>
