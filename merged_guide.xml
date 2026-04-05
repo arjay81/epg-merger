@@ -3,112 +3,107 @@
     <display-name lang="Singapore">The Filipino Channel HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042522957850_92.png" />
   </channel>
-<channel id="322467">
+  <channel id="322467">
     <display-name lang="Philippines">Sari Sari</display-name>
     <icon src="" />
   </channel>
-  <channel id="322466">
+<channel id="322466">
     <display-name lang="Philippines">Viva</display-name>
     <icon src="" />
   </channel>
-  <programme channel="322467" start="20260404000000 -0400" stop="20260404010000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
+<programme channel="412143" start="20260406101500 -0400" stop="20260406121500 -0400">
+    <title lang="zh">It's Showtime</title>
+    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
+    <date>2026-04-06</date>
   </programme>
-  <programme channel="322467" start="20260404010000 -0400" stop="20260404020000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
+  <programme channel="412143" start="20260406121500 -0400" stop="20260406125000 -0400">
+    <title lang="zh">Goin' Bulilit S15</title>
+    <desc>This comical spin-off of the 80s comedy programme Goin' Bananas is currently the Philippines' most successful children's comedy show, created and directed by one of Goin' Bananas' original stars, Bobot Mortiz.</desc>
+    <date>2026-04-06</date>
   </programme>
-  <programme channel="322467" start="20260404020000 -0400" stop="20260404030000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
+  <programme channel="412143" start="20260406125000 -0400" stop="20260406132000 -0400">
+    <title lang="zh">Lavender Fields</title>
+    <desc>The life of a simple flower farm girl is shattered when she falls for a charming accountant, who turns out to be a married gun cartel member. Targeted for his stolen money, she loses everything she holds dear and reinvents herself to seek justice.</desc>
+    <date>2026-04-06</date>
   </programme>
-  <programme channel="322467" start="20260404030000 -0400" stop="20260404040000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
+  <programme channel="412143" start="20260406132000 -0400" stop="20260406135000 -0400">
+    <title lang="zh">Blood VS. Duty</title>
+    <desc>This action drama series pits government agents against a tight-knit fishing community in a high-stakes battle over illegal firearms.</desc>
+    <date>2026-04-06</date>
   </programme>
-  <programme channel="322467" start="20260404040000 -0400" stop="20260404050000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
+  <programme channel="412143" start="20260406135000 -0400" stop="20260406142000 -0400">
+    <title lang="zh">The Alibi</title>
+    <desc>Vincent is accused of killing his rival, Walter. To protect his reputation, he hires Stella, an escort with her own haunted past, to pose as his alibi. What begins as a transactional arrangement soon becomes dangerously real.</desc>
+    <date>2026-04-06</date>
   </programme>
-  <programme channel="322467" start="20260404050000 -0400" stop="20260404060000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
+  <programme channel="412143" start="20260406142000 -0400" stop="20260406145000 -0400">
+    <title lang="zh">The Secrets of Hotel 88</title>
+    <desc>The Secrets of Hotel 88 dives into a gripping story of the estranged Fernandez brothers - Martin, Gio and Kiko - who unexpectedly inherit Hotel 88 following their father's death. Driven by conflicting motives, the three find themselves locked in escalating tension and a brewing family feud.</desc>
+    <date>2026-04-06</date>
   </programme>
-  <programme channel="322467" start="20260404060000 -0400" stop="20260404070000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
+  <programme channel="412143" start="20260406145000 -0400" stop="20260406153000 -0400">
+    <title lang="zh">Incognito</title>
+    <desc>A group of disgraced yet highly-skilled operatives hope to seek redemption as they take on dangerous covert missions and fight against the enemy they unwittingly uncovered.</desc>
+    <date>2026-04-06</date>
   </programme>
-  <programme channel="322467" start="20260404070000 -0400" stop="20260404080000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
+  <programme channel="412143" start="20260406153000 -0400" stop="20260406160000 -0400">
+    <title lang="zh">Pamilya Sagrado</title>
+    <desc>Being a prominent political clan, the Sagrados want nothing but to keep their name faultless and sacred, until a controversial incident comes their way.</desc>
+    <date>2026-04-06</date>
   </programme>
-  <programme channel="322467" start="20260404080000 -0400" stop="20260404090000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
+  <programme channel="412143" start="20260406160000 -0400" stop="20260406173000 -0400">
+    <title lang="zh">TV Patrol Global Edition</title>
+    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
+    <date>2026-04-06</date>
   </programme>
-  <programme channel="322467" start="20260404090000 -0400" stop="20260405000000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
+  <programme channel="412143" start="20260406173000 -0400" stop="20260406193000 -0400">
+    <title lang="zh">Dahil Mahal na Mahal Kita</title>
+    <desc>A straight-laced student and the campus bad girl shock the people around them with news that they are dating. But when misunderstandings and arguments come their way, they realise that it takes more than physical attraction to achieve lasting love.</desc>
+    <date>2026-04-06</date>
   </programme>
-<programme channel="322466" start="20260404000000 -0400" stop="20260404010000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
+  <programme channel="412143" start="20260406193000 -0400" stop="20260406200000 -0400">
+    <title lang="zh">Lavender Fields</title>
+    <desc>The life of a simple flower farm girl is shattered when she falls for a charming accountant, who turns out to be a married gun cartel member. Targeted for his stolen money, she loses everything she holds dear and reinvents herself to seek justice.</desc>
+    <date>2026-04-06</date>
   </programme>
-  <programme channel="322466" start="20260404010000 -0400" stop="20260404020000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
+  <programme channel="412143" start="20260406200000 -0400" stop="20260406203000 -0400">
+    <title lang="zh">Pamilya Sagrado</title>
+    <desc>Being a prominent political clan, the Sagrados want nothing but to keep their name faultless and sacred, until a controversial incident comes their way.</desc>
+    <date>2026-04-06</date>
   </programme>
-  <programme channel="322466" start="20260404020000 -0400" stop="20260404030000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
+  <programme channel="412143" start="20260406203000 -0400" stop="20260406210000 -0400">
+    <title lang="zh">Incognito</title>
+    <desc>A group of disgraced yet highly-skilled operatives hope to seek redemption as they take on dangerous covert missions and fight against the enemy they unwittingly uncovered.</desc>
+    <date>2026-04-06</date>
   </programme>
-  <programme channel="322466" start="20260404030000 -0400" stop="20260404040000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
+  <programme channel="412143" start="20260406210000 -0400" stop="20260406213000 -0400">
+    <title lang="zh">2 Good 2 Be True</title>
+    <desc>Eloy and Ali are two people who had to live through the tragedies of their pasts and were scarred by love. In a world full of lies and deception, does true love exist?</desc>
+    <date>2026-04-06</date>
   </programme>
-  <programme channel="322466" start="20260404040000 -0400" stop="20260404050000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
+  <programme channel="412143" start="20260406213000 -0400" stop="20260406220000 -0400">
+    <title lang="zh">Goin' Bulilit S15</title>
+    <desc>This comical spin-off of the 80s comedy programme Goin' Bananas is currently the Philippines' most successful children's comedy show, created and directed by one of Goin' Bananas' original stars, Bobot Mortiz.</desc>
+    <date>2026-04-06</date>
   </programme>
-  <programme channel="322466" start="20260404050000 -0400" stop="20260404060000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
+  <programme channel="412143" start="20260406220000 -0400" stop="20260406223000 -0400">
+    <title lang="zh">TFC Kids Zone</title>
+    <desc>A programme block filled with animated short stories, nursery rhymes and songs, as well as Filipino language lessons, TFC Kids' Zone promises a rich treasure trove of learning and discovery that parents and their young ones will find enriching and empowering.</desc>
+    <date>2026-04-06</date>
   </programme>
-  <programme channel="322466" start="20260404060000 -0400" stop="20260404070000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
+  <programme channel="412143" start="20260406223000 -0400" stop="20260406230000 -0400">
+    <title lang="zh">Kapamilya Daily Mass</title>
+    <desc>A daily celebration of the Liturgy of the Lord.</desc>
+    <date>2026-04-06</date>
   </programme>
-  <programme channel="322466" start="20260404070000 -0400" stop="20260404080000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
+  <programme channel="412143" start="20260406230000 -0400" stop="20260407000000 -0400">
+    <title lang="zh">Gising Pilipinas</title>
+    <desc>Spice up your morning with a rousing round-up of the biggest news stories and live reports from field correspondents.</desc>
+    <date>2026-04-06</date>
   </programme>
-  <programme channel="322466" start="20260404080000 -0400" stop="20260404090000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
-  </programme>
-  <programme channel="322466" start="20260404090000 -0400" stop="20260405000000 -0400">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2026-04-04</date>
+  <programme channel="412143" start="20260407000000 -0400" stop="20260408000000 -0400">
+    <title lang="zh">It's Showtime LIVE</title>
+    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
+    <date>2026-04-07</date>
   </programme>
 </tv>
