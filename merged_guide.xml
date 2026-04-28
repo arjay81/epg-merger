@@ -93,9 +93,154 @@
     <desc>Spice up your morning with a rousing round-up of the biggest news stories and live reports from field correspondents.</desc>
     <date>2026-04-28</date>
   </programme>
-  <programme channel="412143" start="20260429000000 -0400" stop="20260430000000 -0400">
+  <programme channel="412143" start="20260429000000 -0400" stop="20260429023000 -0400">
     <title lang="zh">It's Showtime LIVE</title>
     <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
     <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429023000 -0400" stop="20260429030000 -0400">
+    <title lang="zh">Radyo Patrol Balita</title>
+    <desc>Radyo Patrol Balita focuses on delivering the latest news, breaking events, and important issues that matter to you.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429030000 -0400" stop="20260429040000 -0400">
+    <title lang="zh">Tandem Ng Bayan</title>
+    <desc>Tandem Ng Bayan brings you discussions on the day's top news stories, providing analysis and engaging in commentary on political as well as social issues.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429040000 -0400" stop="20260429050000 -0400">
+    <title lang="zh">Magandang Buhay</title>
+    <desc>"Momshies" Jolina Magdangal, Melai Cantiveros, and Regine Velasquez kick off the day with good vibes as they share a chat with celebrities on topics easily relatable to Filipino families.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429050000 -0400" stop="20260429053000 -0400">
+    <title lang="zh">TFC Kids Zone</title>
+    <desc>A programme block filled with animated short stories, nursery rhymes and songs, as well as Filipino language lessons, TFC Kids' Zone promises a rich treasure trove of learning and discovery that parents and their young ones will find enriching and empowering.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429053000 -0400" stop="20260429054500 -0400">
+    <title lang="zh">TV Patrol Express Live</title>
+    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429054500 -0400" stop="20260429063000 -0400">
+    <title lang="zh">2 Good 2 Be True</title>
+    <desc>Eloy and Ali are two people who had to live through the tragedies of their pasts and were scarred by love. In a world full of lies and deception, does true love exist?</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429063000 -0400" stop="20260429080000 -0400">
+    <title lang="zh">TV Patrol Live</title>
+    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429080000 -0400" stop="20260429084500 -0400">
+    <title lang="zh">Blood VS. Duty</title>
+    <desc>This action drama series pits government agents against a tight-knit fishing community in a high-stakes battle over illegal firearms.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429084500 -0400" stop="20260429093000 -0400">
+    <title lang="zh">The Alibi</title>
+    <desc>Vincent is accused of killing his rival, Walter. To protect his reputation, he hires Stella, an escort with her own haunted past, to pose as his alibi. What begins as a transactional arrangement soon becomes dangerously real.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429093000 -0400" stop="20260429101500 -0400">
+    <title lang="zh">The Secrets of Hotel 88</title>
+    <desc>The Secrets of Hotel 88 dives into a gripping story of the estranged Fernandez brothers - Martin, Gio and Kiko - who unexpectedly inherit Hotel 88 following their father's death. Driven by conflicting motives, the three find themselves locked in escalating tension and a brewing family feud.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429101500 -0400" stop="20260429121500 -0400">
+    <title lang="zh">It's Showtime</title>
+    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429121500 -0400" stop="20260429125000 -0400">
+    <title lang="zh">Goin' Bulilit S15</title>
+    <desc>This comical spin-off of the 80s comedy programme Goin' Bananas is currently the Philippines' most successful children's comedy show, created and directed by one of Goin' Bananas' original stars, Bobot Mortiz.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429125000 -0400" stop="20260429132000 -0400">
+    <title lang="zh">Linlang</title>
+    <desc>This mystery-thriller series revolves around an alluring woman named Juliana and her illicit affair with Alex, a lawyer who also happens to be the brother of Juliana's husband, Victor, a washed-up boxer. What is the story behind Juliana's betrayal and infidelity?</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429132000 -0400" stop="20260429135000 -0400">
+    <title lang="zh">Blood VS. Duty</title>
+    <desc>This action drama series pits government agents against a tight-knit fishing community in a high-stakes battle over illegal firearms.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429135000 -0400" stop="20260429142000 -0400">
+    <title lang="zh">The Alibi</title>
+    <desc>Vincent is accused of killing his rival, Walter. To protect his reputation, he hires Stella, an escort with her own haunted past, to pose as his alibi. What begins as a transactional arrangement soon becomes dangerously real.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429142000 -0400" stop="20260429145000 -0400">
+    <title lang="zh">The Secrets of Hotel 88</title>
+    <desc>The Secrets of Hotel 88 dives into a gripping story of the estranged Fernandez brothers - Martin, Gio and Kiko - who unexpectedly inherit Hotel 88 following their father's death. Driven by conflicting motives, the three find themselves locked in escalating tension and a brewing family feud.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429145000 -0400" stop="20260429153000 -0400">
+    <title lang="zh">Incognito</title>
+    <desc>A group of disgraced yet highly-skilled operatives hope to seek redemption as they take on dangerous covert missions and fight against the enemy they unwittingly uncovered.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429153000 -0400" stop="20260429160000 -0400">
+    <title lang="zh">The Iron Heart</title>
+    <desc>An undercover agent goes on a dangerous mission to bring down a crime ring. Fuelled by a bitter and painful past, Apollo and his allies face the gruelling task that will challenge his resolve and strength.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429160000 -0400" stop="20260429173000 -0400">
+    <title lang="zh">TV Patrol Global Edition</title>
+    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429173000 -0400" stop="20260429193000 -0400">
+    <title lang="zh">El Brujo</title>
+    <desc>A young man with a mystical amulet seeks justice for the brutal murder of his father and brother, only to discover that his quarry also possesses other-worldly powers - and that courage counts for far more than magic.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429193000 -0400" stop="20260429200000 -0400">
+    <title lang="zh">Linlang</title>
+    <desc>This mystery-thriller series revolves around an alluring woman named Juliana and her illicit affair with Alex, a lawyer who also happens to be the brother of Juliana's husband, Victor, a washed-up boxer. What is the story behind Juliana's betrayal and infidelity?</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429200000 -0400" stop="20260429203000 -0400">
+    <title lang="zh">The Iron Heart</title>
+    <desc>An undercover agent goes on a dangerous mission to bring down a crime ring. Fuelled by a bitter and painful past, Apollo and his allies face the gruelling task that will challenge his resolve and strength.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429203000 -0400" stop="20260429210000 -0400">
+    <title lang="zh">Incognito</title>
+    <desc>A group of disgraced yet highly-skilled operatives hope to seek redemption as they take on dangerous covert missions and fight against the enemy they unwittingly uncovered.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429210000 -0400" stop="20260429213000 -0400">
+    <title lang="zh">2 Good 2 Be True</title>
+    <desc>Eloy and Ali are two people who had to live through the tragedies of their pasts and were scarred by love. In a world full of lies and deception, does true love exist?</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429213000 -0400" stop="20260429220000 -0400">
+    <title lang="zh">Goin' Bulilit S15</title>
+    <desc>This comical spin-off of the 80s comedy programme Goin' Bananas is currently the Philippines' most successful children's comedy show, created and directed by one of Goin' Bananas' original stars, Bobot Mortiz.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429220000 -0400" stop="20260429223000 -0400">
+    <title lang="zh">TFC Kids Zone</title>
+    <desc>A programme block filled with animated short stories, nursery rhymes and songs, as well as Filipino language lessons, TFC Kids' Zone promises a rich treasure trove of learning and discovery that parents and their young ones will find enriching and empowering.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429223000 -0400" stop="20260429230000 -0400">
+    <title lang="zh">Kapamilya Daily Mass</title>
+    <desc>A daily celebration of the Liturgy of the Lord.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260429230000 -0400" stop="20260430000000 -0400">
+    <title lang="zh">Gising Pilipinas</title>
+    <desc>Spice up your morning with a rousing round-up of the biggest news stories and live reports from field correspondents.</desc>
+    <date>2026-04-29</date>
+  </programme>
+  <programme channel="412143" start="20260430000000 -0400" stop="20260501000000 -0400">
+    <title lang="zh">It's Showtime LIVE</title>
+    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
+    <date>2026-04-30</date>
   </programme>
 </tv>
