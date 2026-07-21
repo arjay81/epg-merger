@@ -3,26 +3,6 @@
     <display-name lang="Singapore">The Filipino Channel HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042522957850_92.png" />
   </channel>
-  <programme channel="412143" start="20260720000000 -0400" stop="20260720060000 -0400">
-    <title lang="zh">Information Not Available</title>
-    <desc />
-    <date>2026-07-20</date>
-  </programme>
-  <programme channel="412143" start="20260720060000 -0400" stop="20260720120000 -0400">
-    <title lang="zh">Information Not Available</title>
-    <desc />
-    <date>2026-07-20</date>
-  </programme>
-  <programme channel="412143" start="20260720120000 -0400" stop="20260720180000 -0400">
-    <title lang="zh">Information Not Available</title>
-    <desc />
-    <date>2026-07-20</date>
-  </programme>
-  <programme channel="412143" start="20260720180000 -0400" stop="20260721000000 -0400">
-    <title lang="zh">Information Not Available</title>
-    <desc />
-    <date>2026-07-20</date>
-  </programme>
   <programme channel="412143" start="20260721000000 -0400" stop="20260721060000 -0400">
     <title lang="zh">Information Not Available</title>
     <desc />
@@ -43,9 +23,29 @@
     <desc />
     <date>2026-07-21</date>
   </programme>
-  <programme channel="412143" start="20260722000000 -0400" stop="20260723000000 -0400">
+  <programme channel="412143" start="20260722000000 -0400" stop="20260722060000 -0400">
     <title lang="zh">Information Not Available</title>
     <desc />
     <date>2026-07-22</date>
+  </programme>
+  <programme channel="412143" start="20260722060000 -0400" stop="20260722120000 -0400">
+    <title lang="zh">Information Not Available</title>
+    <desc />
+    <date>2026-07-22</date>
+  </programme>
+  <programme channel="412143" start="20260722120000 -0400" stop="20260722180000 -0400">
+    <title lang="zh">Information Not Available</title>
+    <desc />
+    <date>2026-07-22</date>
+  </programme>
+  <programme channel="412143" start="20260722180000 -0400" stop="20260723000000 -0400">
+    <title lang="zh">Information Not Available</title>
+    <desc />
+    <date>2026-07-22</date>
+  </programme>
+  <programme channel="412143" start="20260723000000 -0400" stop="20260724000000 -0400">
+    <title lang="zh">Information Not Available</title>
+    <desc />
+    <date>2026-07-23</date>
   </programme>
 </tv>
