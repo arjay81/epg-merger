@@ -3,26 +3,6 @@
     <display-name lang="Singapore">The Filipino Channel HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042522957850_92.png" />
   </channel>
-  <programme channel="412143" start="20260728000000 -0400" stop="20260728060000 -0400">
-    <title lang="zh">Information Not Available</title>
-    <desc />
-    <date>2026-07-28</date>
-  </programme>
-  <programme channel="412143" start="20260728060000 -0400" stop="20260728120000 -0400">
-    <title lang="zh">Information Not Available</title>
-    <desc />
-    <date>2026-07-28</date>
-  </programme>
-  <programme channel="412143" start="20260728120000 -0400" stop="20260728180000 -0400">
-    <title lang="zh">Information Not Available</title>
-    <desc />
-    <date>2026-07-28</date>
-  </programme>
-  <programme channel="412143" start="20260728180000 -0400" stop="20260729000000 -0400">
-    <title lang="zh">Information Not Available</title>
-    <desc />
-    <date>2026-07-28</date>
-  </programme>
   <programme channel="412143" start="20260729000000 -0400" stop="20260729060000 -0400">
     <title lang="zh">Information Not Available</title>
     <desc />
@@ -43,9 +23,114 @@
     <desc />
     <date>2026-07-29</date>
   </programme>
-  <programme channel="412143" start="20260730000000 -0400" stop="20260731000000 -0400">
+  <programme channel="412143" start="20260730000000 -0400" stop="20260730060000 -0400">
     <title lang="zh">Information Not Available</title>
     <desc />
     <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730060000 -0400" stop="20260730100000 -0400">
+    <title lang="zh">Information Not Available</title>
+    <desc />
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730100000 -0400" stop="20260730120000 -0400">
+    <title lang="zh">It's Showtime</title>
+    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730120000 -0400" stop="20260730121500 -0400">
+    <title lang="zh">Information Not Available</title>
+    <desc />
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730121500 -0400" stop="20260730125500 -0400">
+    <title lang="zh">Sigabo</title>
+    <desc>After eight years in prison, Gabo gets parole but must join a covert government programme for dangerous missions. He meets lawyer Sam, also an investigative agent, sparking a complex love-hate relationship.</desc>
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730125500 -0400" stop="20260730133500 -0400">
+    <title lang="zh">Someone, Someday</title>
+    <desc>A young dating app CEO unknowingly befriends someone seeking revenge, putting her business, family and dreams in jeopardy.</desc>
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730133500 -0400" stop="20260730141500 -0400">
+    <title lang="zh">Incognito</title>
+    <desc>A group of disgraced yet highly-skilled operatives hope to seek redemption as they take on dangerous covert missions and fight against the enemy they unwittingly uncovered.</desc>
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730141500 -0400" stop="20260730145000 -0400">
+    <title lang="zh">Iron Heart</title>
+    <desc>An undercover agent goes on a dangerous mission to bring down a crime ring. Fuelled by a bitter and painful past, he along with his allies face the gruelling task that will challenge his resolve and strength.</desc>
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730145000 -0400" stop="20260730152500 -0400">
+    <title lang="zh">Linlang</title>
+    <desc>This mystery-thriller series revolves around an alluring woman named Juliana and her illicit affair with Alex, a lawyer who also happens to be the brother of Juliana's husband, Victor, a washed-up boxer. What is the story behind Juliana's betrayal and infidelity?</desc>
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730152500 -0400" stop="20260730160000 -0400">
+    <title lang="zh">Juan Conversations with Rose Eclarinal S3</title>
+    <desc>Global achievers and everyday heroes reveal the triumphs, struggles and inspiring journeys of overseas Filipinos across Europe.</desc>
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730160000 -0400" stop="20260730173000 -0400">
+    <title lang="zh">TV Patrol Global Edition</title>
+    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730173000 -0400" stop="20260730180000 -0400">
+    <title lang="zh">Buy Now, Die Later</title>
+    <desc>A magical store in Manila gives people items that prove to be the solution to their problems - for a price.</desc>
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730180000 -0400" stop="20260730193000 -0400">
+    <title lang="zh">Information Not Available</title>
+    <desc />
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730193000 -0400" stop="20260730200000 -0400">
+    <title lang="zh">Incognito</title>
+    <desc>A group of disgraced yet highly-skilled operatives hope to seek redemption as they take on dangerous covert missions and fight against the enemy they unwittingly uncovered.</desc>
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730200000 -0400" stop="20260730203000 -0400">
+    <title lang="zh">The Iron Heart</title>
+    <desc>An undercover agent goes on a dangerous mission to bring down a crime ring. Fuelled by a bitter and painful past, he along with his allies face the gruelling task that will challenge his resolve and strength.</desc>
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730203000 -0400" stop="20260730210000 -0400">
+    <title lang="zh">Linlang</title>
+    <desc>This mystery-thriller series revolves around an alluring woman named Juliana and her illicit affair with Alex, a lawyer who also happens to be the brother of Juliana's husband, Victor, a washed-up boxer. What is the story behind Juliana's betrayal and infidelity?</desc>
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730210000 -0400" stop="20260730213000 -0400">
+    <title lang="zh">2 Good 2 Be True</title>
+    <desc>Eloy and Ali are two people who had to live through the tragedies of their pasts and were scarred by love. In a world full of lies and deception, does true love exist?</desc>
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730213000 -0400" stop="20260730220000 -0400">
+    <title lang="zh">Goin' Bulilit S15</title>
+    <desc>This comical spin-off of the 80s comedy programme Goin' Bananas is currently the Philippines' most successful children's comedy show, created and directed by one of Goin' Bananas' original stars, Bobot Mortiz.</desc>
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730220000 -0400" stop="20260730223000 -0400">
+    <title lang="zh">TFC Kids Zone</title>
+    <desc>A programme block filled with animated short stories, nursery rhymes and songs, as well as Filipino language lessons, TFC Kids' Zone promises a rich treasure trove of learning and discovery that parents and their young ones will find enriching and empowering.</desc>
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730223000 -0400" stop="20260730230000 -0400">
+    <title lang="zh">Kapamilya Daily Mass</title>
+    <desc>A daily celebration of the Liturgy of the Lord.</desc>
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260730230000 -0400" stop="20260731000000 -0400">
+    <title lang="zh">Gising Pilipinas</title>
+    <desc>Spice up your morning with a rousing round-up of the biggest news stories and live reports from field correspondents.</desc>
+    <date>2026-07-30</date>
+  </programme>
+  <programme channel="412143" start="20260731000000 -0400" stop="20260801000000 -0400">
+    <title lang="zh">It's Showtime LIVE</title>
+    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
+    <date>2026-07-31</date>
   </programme>
 </tv>
