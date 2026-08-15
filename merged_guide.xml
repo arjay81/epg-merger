@@ -3,81 +3,6 @@
     <display-name lang="Singapore">The Filipino Channel HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042522957850_92.png" />
   </channel>
-  <programme channel="412143" start="20260814000000 -0400" stop="20260814023000 -0400">
-    <title lang="zh">It's Showtime LIVE</title>
-    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
-    <date>2026-08-14</date>
-  </programme>
-  <programme channel="412143" start="20260814023000 -0400" stop="20260814030000 -0400">
-    <title lang="zh">Radyo Patrol Balita</title>
-    <desc>Radyo Patrol Balita focuses on delivering the latest news, breaking events, and important issues that matter to you.</desc>
-    <date>2026-08-14</date>
-  </programme>
-  <programme channel="412143" start="20260814030000 -0400" stop="20260814040000 -0400">
-    <title lang="zh">Tandem Ng Bayan</title>
-    <desc>Tandem Ng Bayan brings you discussions on the day's top news stories, providing analysis and engaging in commentary on political as well as social issues.</desc>
-    <date>2026-08-14</date>
-  </programme>
-  <programme channel="412143" start="20260814040000 -0400" stop="20260814043000 -0400">
-    <title lang="zh">Oh My Gan!</title>
-    <desc>Hosted by Ganiel Krishnan, this entertainment podcast and digital talk show features candid conversations with top actors, musicians and public personalities, as well as an interactive Jenga segment that brings out unscripted, unfiltered moments.</desc>
-    <date>2026-08-14</date>
-  </programme>
-  <programme channel="412143" start="20260814043000 -0400" stop="20260814050000 -0400">
-    <title lang="zh">TFC Kids Zone</title>
-    <desc>A programme block filled with animated short stories, nursery rhymes and songs, as well as Filipino language lessons, TFC Kids' Zone promises a rich treasure trove of learning and discovery that parents and their young ones will find enriching and empowering.</desc>
-    <date>2026-08-14</date>
-  </programme>
-  <programme channel="412143" start="20260814050000 -0400" stop="20260814053000 -0400">
-    <title lang="zh">Goin' Bulilit S15</title>
-    <desc>This comical spin-off of the 80s comedy programme Goin' Bananas is currently the Philippines' most successful children's comedy show, created and directed by one of Goin' Bananas' original stars, Bobot Mortiz.</desc>
-    <date>2026-08-14</date>
-  </programme>
-  <programme channel="412143" start="20260814053000 -0400" stop="20260814054500 -0400">
-    <title lang="zh">TV Patrol Express Live</title>
-    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
-    <date>2026-08-14</date>
-  </programme>
-  <programme channel="412143" start="20260814054500 -0400" stop="20260814063000 -0400">
-    <title lang="zh">2 Good 2 Be True</title>
-    <desc>Eloy and Ali are two people who had to live through the tragedies of their pasts and were scarred by love. In a world full of lies and deception, does true love exist?</desc>
-    <date>2026-08-14</date>
-  </programme>
-  <programme channel="412143" start="20260814063000 -0400" stop="20260814080000 -0400">
-    <title lang="zh">TV Patrol Live</title>
-    <desc>Comprehensive and incisive, TV Patrol is the benchmark in Philippines news journalism, bringing you the most relevant news delivered by the country's best news anchors.</desc>
-    <date>2026-08-14</date>
-  </programme>
-  <programme channel="412143" start="20260814080000 -0400" stop="20260814084500 -0400">
-    <title lang="zh">Sigabo</title>
-    <desc>After eight years in prison, Gabo gets parole but must join a covert government programme for dangerous missions. He meets lawyer Sam, also an investigative agent, sparking a complex love-hate relationship.</desc>
-    <date>2026-08-14</date>
-  </programme>
-  <programme channel="412143" start="20260814084500 -0400" stop="20260814093000 -0400">
-    <title lang="zh">Someone, Someday</title>
-    <desc>A young dating app CEO unknowingly befriends someone seeking revenge, putting her business, family and dreams in jeopardy.</desc>
-    <date>2026-08-14</date>
-  </programme>
-  <programme channel="412143" start="20260814093000 -0400" stop="20260814100000 -0400">
-    <title lang="zh">Oh My Gan!</title>
-    <desc>Hosted by Ganiel Krishnan, this entertainment podcast and digital talk show features candid conversations with top actors, musicians and public personalities, as well as an interactive Jenga segment that brings out unscripted, unfiltered moments.</desc>
-    <date>2026-08-14</date>
-  </programme>
-  <programme channel="412143" start="20260814100000 -0400" stop="20260814121500 -0400">
-    <title lang="zh">It's Showtime</title>
-    <desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
-    <date>2026-08-14</date>
-  </programme>
-  <programme channel="412143" start="20260814121500 -0400" stop="20260814180000 -0400">
-    <title lang="zh">Information Not Available</title>
-    <desc />
-    <date>2026-08-14</date>
-  </programme>
-  <programme channel="412143" start="20260814180000 -0400" stop="20260815000000 -0400">
-    <title lang="zh">Information Not Available</title>
-    <desc />
-    <date>2026-08-14</date>
-  </programme>
   <programme channel="412143" start="20260815000000 -0400" stop="20260815060000 -0400">
     <title lang="zh">Information Not Available</title>
     <desc />
@@ -98,9 +23,29 @@
     <desc />
     <date>2026-08-15</date>
   </programme>
-  <programme channel="412143" start="20260816000000 -0400" stop="20260817000000 -0400">
+  <programme channel="412143" start="20260816000000 -0400" stop="20260816060000 -0400">
     <title lang="zh">Information Not Available</title>
     <desc />
     <date>2026-08-16</date>
+  </programme>
+  <programme channel="412143" start="20260816060000 -0400" stop="20260816120000 -0400">
+    <title lang="zh">Information Not Available</title>
+    <desc />
+    <date>2026-08-16</date>
+  </programme>
+  <programme channel="412143" start="20260816120000 -0400" stop="20260816180000 -0400">
+    <title lang="zh">Information Not Available</title>
+    <desc />
+    <date>2026-08-16</date>
+  </programme>
+  <programme channel="412143" start="20260816180000 -0400" stop="20260817000000 -0400">
+    <title lang="zh">Information Not Available</title>
+    <desc />
+    <date>2026-08-16</date>
+  </programme>
+  <programme channel="412143" start="20260817000000 -0400" stop="20260818000000 -0400">
+    <title lang="zh">Information Not Available</title>
+    <desc />
+    <date>2026-08-17</date>
   </programme>
 </tv>
