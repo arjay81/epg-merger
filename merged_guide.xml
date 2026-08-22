@@ -1,6 +1,2 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="EPG Merger"><channel id="412143">
-    <display-name lang="Singapore">The Filipino Channel HD</display-name>
-    <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042522957850_92.png" />
-  </channel>
-</tv>
+<tv generator-info-name="EPG Merger" />
